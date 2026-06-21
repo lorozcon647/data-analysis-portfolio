@@ -1,0 +1,965 @@
+tournament_year,stage,match_date,match_time,utc_offset,home_team,away_team,home_goals,away_goals,result_extra,venue,city,status,home_fifaCode,home_flagCode,home_flagUrl,away_fifaCode,away_flagCode,away_flagUrl
+1930,Group 1,1930-07-13,,,France,Mexico,4,1,(3-0),Estadio Pocitos,Montevideo,played,FRA,fr,https://flagcdn.com/w80/fr.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1930,Group 1,1930-07-15,,,Argentina,France,1,0,(0-0),Estadio Parque Central,Montevideo,played,ARG,ar,https://flagcdn.com/w80/ar.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1930,Group 1,1930-07-16,,,Chile,Mexico,3,0,(1-0),Estadio Parque Central,Montevideo,played,CHI,cl,https://flagcdn.com/w80/cl.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1930,Group 1,1930-07-19,,,Chile,France,1,0,(0-0),Estadio Centenario,Montevideo,played,CHI,cl,https://flagcdn.com/w80/cl.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1930,Group 1,1930-07-19,,,Argentina,Mexico,6,3,(3-1),Estadio Centenario,Montevideo,played,ARG,ar,https://flagcdn.com/w80/ar.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1930,Group 1,1930-07-22,,,Argentina,Chile,3,1,(2-1),Estadio Centenario,Montevideo,played,ARG,ar,https://flagcdn.com/w80/ar.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1930,Group 2,1930-07-14,,,Yugoslavia,Brazil,2,1,(2-0),Estadio Parque Central,Montevideo,played,YUG,rs,https://flagcdn.com/w80/rs.png,BRA,br,https://flagcdn.com/w80/br.png
+1930,Group 2,1930-07-17,,,Yugoslavia,Bolivia,4,0,(0-0),Estadio Parque Central,Montevideo,played,YUG,rs,https://flagcdn.com/w80/rs.png,BOL,bo,https://flagcdn.com/w80/bo.png
+1930,Group 2,1930-07-20,,,Brazil,Bolivia,4,0,(1-0),Estadio Centenario,Montevideo,played,BRA,br,https://flagcdn.com/w80/br.png,BOL,bo,https://flagcdn.com/w80/bo.png
+1930,Group 3,1930-07-14,,,Romania,Peru,3,1,(1-0),Estadio Pocitos,Montevideo,played,ROU,ro,https://flagcdn.com/w80/ro.png,PER,pe,https://flagcdn.com/w80/pe.png
+1930,Group 3,1930-07-18,,,Uruguay,Peru,1,0,(0-0),Estadio Centenario,Montevideo,played,URU,uy,https://flagcdn.com/w80/uy.png,PER,pe,https://flagcdn.com/w80/pe.png
+1930,Group 3,1930-07-21,,,Uruguay,Romania,4,0,(4-0),Estadio Centenario,Montevideo,played,URU,uy,https://flagcdn.com/w80/uy.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1930,Group 4,1930-07-13,,,USA,Belgium,3,0,(2-0),Estadio Parque Central,Montevideo,played,USA,us,https://flagcdn.com/w80/us.png,BEL,be,https://flagcdn.com/w80/be.png
+1930,Group 4,1930-07-17,,,USA,Paraguay,3,0,(2-0),Estadio Parque Central,Montevideo,played,USA,us,https://flagcdn.com/w80/us.png,PAR,py,https://flagcdn.com/w80/py.png
+1930,Group 4,1930-07-20,,,Paraguay,Belgium,1,0,(1-0),Estadio Centenario,Montevideo,played,PAR,py,https://flagcdn.com/w80/py.png,BEL,be,https://flagcdn.com/w80/be.png
+1930,Semi-finals,1930-07-26,,,Argentina,USA,6,1,(1-0),Estadio Centenario,Montevideo,played,ARG,ar,https://flagcdn.com/w80/ar.png,USA,us,https://flagcdn.com/w80/us.png
+1930,Semi-finals,1930-07-27,,,Uruguay,Yugoslavia,6,1,(3-1),Estadio Centenario,Montevideo,played,URU,uy,https://flagcdn.com/w80/uy.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1930,Final,1930-07-30,,,Uruguay,Argentina,4,2,(1-2),Estadio Centenario,Montevideo,played,URU,uy,https://flagcdn.com/w80/uy.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1934,Preliminary round,1934-05-27,,,Sweden,Argentina,3,2,(1-1),Stadio Littoriale,Bologna,played,SWE,se,https://flagcdn.com/w80/se.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1934,Preliminary round,1934-05-27,,,Austria,France,3,2,"a.e.t. (1-1, 1-1)",Stadio Benito Mussolini,Turin,played,AUT,at,https://flagcdn.com/w80/at.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1934,Preliminary round,1934-05-27,,,Germany,Belgium,5,2,(1-2),Stadio Giovanni Berta,Florence,played,GER,de,https://flagcdn.com/w80/de.png,BEL,be,https://flagcdn.com/w80/be.png
+1934,Preliminary round,1934-05-27,,,Spain,Brazil,3,1,(3-0),Stadio Luigi Ferraris,Genoa,played,ESP,es,https://flagcdn.com/w80/es.png,BRA,br,https://flagcdn.com/w80/br.png
+1934,Preliminary round,1934-05-27,,,Hungary,Egypt,4,2,(2-2),Stadio Giorgio Ascarelli,Naples,played,HUN,hu,https://flagcdn.com/w80/hu.png,EGY,eg,https://flagcdn.com/w80/eg.png
+1934,Preliminary round,1934-05-27,,,Switzerland,Netherlands,3,2,(2-1),Stadio San Siro,Milan,played,SUI,ch,https://flagcdn.com/w80/ch.png,NED,nl,https://flagcdn.com/w80/nl.png
+1934,Preliminary round,1934-05-27,,,Italy,United States,7,1,(3-0),Stadio Nazionale PNF,Rome,played,ITA,it,https://flagcdn.com/w80/it.png,USA,us,https://flagcdn.com/w80/us.png
+1934,Preliminary round,1934-05-27,,,Czechoslovakia,Romania,2,1,(0-1),Stadio Littorio,Trieste,played,TCH,cz,https://flagcdn.com/w80/cz.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1934,Quarter-finals,1934-05-31,,,Czechoslovakia,Switzerland,3,2,(1-1),Stadio Benito Mussolini,Turin,played,TCH,cz,https://flagcdn.com/w80/cz.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1934,Quarter-finals,1934-05-31,,,Germany,Sweden,2,1,(0-0),Stadio San Siro,Milan,played,GER,de,https://flagcdn.com/w80/de.png,SWE,se,https://flagcdn.com/w80/se.png
+1934,Quarter-finals,1934-05-31,,,Italy,Spain,1,1,"a.e.t. (1-1, 1-1)",Stadio Giovanni Berta,Florence,played,ITA,it,https://flagcdn.com/w80/it.png,ESP,es,https://flagcdn.com/w80/es.png
+1934,Quarter-finals,1934-05-31,,,Austria,Hungary,2,1,(1-0),Stadio Littoriale,Bologna,played,AUT,at,https://flagcdn.com/w80/at.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1934,"Quarter-finals, Replays",1934-06-01,,,Italy,Spain,1,0,(1-0),Stadio Giovanni Berta,Florence,played,ITA,it,https://flagcdn.com/w80/it.png,ESP,es,https://flagcdn.com/w80/es.png
+1934,Semi-finals,1934-06-03,,,Italy,Austria,1,0,(1-0),Stadio San Siro,Milan,played,ITA,it,https://flagcdn.com/w80/it.png,AUT,at,https://flagcdn.com/w80/at.png
+1934,Semi-finals,1934-06-03,,,Czechoslovakia,Germany,3,1,(1-0),Stadio Nazionale PNF,Rome,played,TCH,cz,https://flagcdn.com/w80/cz.png,GER,de,https://flagcdn.com/w80/de.png
+1934,Third-place match,1934-06-07,,,Germany,Austria,3,2,(3-1),Stadio Giorgio Ascarelli,Naples,played,GER,de,https://flagcdn.com/w80/de.png,AUT,at,https://flagcdn.com/w80/at.png
+1934,Final,1934-06-10,,,Italy,Czechoslovakia,2,1,"a.e.t. (1-1, 0-0)",Stadio Nazionale PNF,Rome,played,ITA,it,https://flagcdn.com/w80/it.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1938,First round,1938-06-04,,,Switzerland,Germany,1,1,"a.e.t. (1-1, 1-1)",Parc des Princes,Paris,played,SUI,ch,https://flagcdn.com/w80/ch.png,GER,de,https://flagcdn.com/w80/de.png
+1938,First round,1938-06-05,,,Hungary,Dutch East Indies,6,0,(4-0),Vélodrome Municipal,Reims,played,HUN,hu,https://flagcdn.com/w80/hu.png,INH,id,https://flagcdn.com/w80/id.png
+1938,First round,1938-06-05,,,France,Belgium,3,1,(2-1),Stade Olympique de Colombes,Paris,played,FRA,fr,https://flagcdn.com/w80/fr.png,BEL,be,https://flagcdn.com/w80/be.png
+1938,First round,1938-06-05,,,Cuba,Romania,3,3,"a.e.t. (2-2, 1-1)",Stade Chapou,Toulouse,played,CUB,cu,https://flagcdn.com/w80/cu.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1938,First round,1938-06-05,,,Italy,Norway,2,1,"a.e.t. (1-1, 1-0)",Stade Vélodrome,Marseille,played,ITA,it,https://flagcdn.com/w80/it.png,NOR,no,https://flagcdn.com/w80/no.png
+1938,First round,1938-06-05,,,Brazil,Poland,6,5,"a.e.t. (4-4, 3-1)",Stade de la Meinau,Strasbourg,played,BRA,br,https://flagcdn.com/w80/br.png,POL,pl,https://flagcdn.com/w80/pl.png
+1938,First round,1938-06-05,,,Czechoslovakia,Netherlands,3,0,"a.e.t. (0-0, 0-0)",Stade municipal,Le Havre,played,TCH,cz,https://flagcdn.com/w80/cz.png,NED,nl,https://flagcdn.com/w80/nl.png
+1938,"First round, Replays",1938-06-09,,,Cuba,Romania,2,1,(0-1),Stade Chapou,Toulouse,played,CUB,cu,https://flagcdn.com/w80/cu.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1938,"First round, Replays",1938-06-09,,,Germany,Switzerland,2,4,(2-1),Parc des Princes,Paris,played,GER,de,https://flagcdn.com/w80/de.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1938,Quarter-finals,1938-06-12,,,Brazil,Czechoslovakia,1,1,"a.e.t. (1-1, 1-0)",Parc Lescure,Bordeaux,played,BRA,br,https://flagcdn.com/w80/br.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1938,Quarter-finals,1938-06-12,,,Switzerland,Hungary,0,2,(0-1),Stade Victor Boucquey,Lille,played,SUI,ch,https://flagcdn.com/w80/ch.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1938,Quarter-finals,1938-06-12,,,Sweden,Cuba,8,0,(4-0),Stade du Fort Carré,Antibes,played,SWE,se,https://flagcdn.com/w80/se.png,CUB,cu,https://flagcdn.com/w80/cu.png
+1938,Quarter-finals,1938-06-12,,,France,Italy,1,3,(1-1),Stade Olympique de Colombes,Paris,played,FRA,fr,https://flagcdn.com/w80/fr.png,ITA,it,https://flagcdn.com/w80/it.png
+1938,"Quarter-finals, Replays",1938-06-14,,,Brazil,Czechoslovakia,2,1,(0-1),Parc Lescure,Bordeaux,played,BRA,br,https://flagcdn.com/w80/br.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1938,Semi-finals,1938-06-16,,,Hungary,Sweden,5,1,(3-1),Parc des Princes,Paris,played,HUN,hu,https://flagcdn.com/w80/hu.png,SWE,se,https://flagcdn.com/w80/se.png
+1938,Semi-finals,1938-06-16,,,Italy,Brazil,2,1,(0-0),Stade Vélodrome,Marseille,played,ITA,it,https://flagcdn.com/w80/it.png,BRA,br,https://flagcdn.com/w80/br.png
+1938,Match for third place,1938-06-19,,,Sweden,Brazil,2,4,(2-1),Parc Lescure,Bordeaux,played,SWE,se,https://flagcdn.com/w80/se.png,BRA,br,https://flagcdn.com/w80/br.png
+1938,Final,1938-06-19,,,Hungary,Italy,2,4,(1-3),Stade Olympique de Colombes,Paris,played,HUN,hu,https://flagcdn.com/w80/hu.png,ITA,it,https://flagcdn.com/w80/it.png
+1950,Group 1,1950-06-24,,,Brazil,Mexico,4,0,(1-0),Estádio do Maracanã,Rio de Janeiro,played,BRA,br,https://flagcdn.com/w80/br.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1950,Group 1,1950-06-25,,,Yugoslavia,Switzerland,3,0,(0-0),Estádio Independência,Belo Horizonte,played,YUG,rs,https://flagcdn.com/w80/rs.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1950,Group 1,1950-06-28,,,Brazil,Switzerland,2,2,(2-1),Estádio do Pacaembu,São Paulo,played,BRA,br,https://flagcdn.com/w80/br.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1950,Group 1,1950-06-28,,,Yugoslavia,Mexico,4,1,(2-0),Estádio dos Eucaliptos,Porto Alegre,played,YUG,rs,https://flagcdn.com/w80/rs.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1950,Group 1,1950-07-01,,,Brazil,Yugoslavia,2,0,(1-0),Estádio do Maracanã,Rio de Janeiro,played,BRA,br,https://flagcdn.com/w80/br.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1950,Group 1,1950-07-02,,,Switzerland,Mexico,2,1,(2-0),Estádio dos Eucaliptos,Porto Alegre,played,SUI,ch,https://flagcdn.com/w80/ch.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1950,Group 2,1950-06-25,,,England,Chile,2,0,,Estádio do Maracanã,Rio de Janeiro,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1950,Group 2,1950-06-25,,,Spain,United States,3,1,,Estádio Durival de Britto,Curitiba,played,ESP,es,https://flagcdn.com/w80/es.png,USA,us,https://flagcdn.com/w80/us.png
+1950,Group 2,1950-06-29,,,Spain,Chile,2,0,,Estádio do Maracanã,Rio de Janeiro,played,ESP,es,https://flagcdn.com/w80/es.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1950,Group 2,1950-06-29,,,United States,England,1,0,,Estádio Independência,Belo Horizonte,played,USA,us,https://flagcdn.com/w80/us.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1950,Group 2,1950-07-02,,,Spain,England,1,0,,Estádio do Maracanã,Rio de Janeiro,played,ESP,es,https://flagcdn.com/w80/es.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1950,Group 2,1950-07-02,,,Chile,United States,5,2,,Estádio Ilha do Retiro,Recife,played,CHI,cl,https://flagcdn.com/w80/cl.png,USA,us,https://flagcdn.com/w80/us.png
+1950,Group 3,1950-06-25,,,Sweden,Italy,3,2,,Estádio do Pacaembu,São Paulo,played,SWE,se,https://flagcdn.com/w80/se.png,ITA,it,https://flagcdn.com/w80/it.png
+1950,Group 3,1950-06-29,,,Sweden,Paraguay,2,2,,Estádio Durival Britto,Curitiba,played,SWE,se,https://flagcdn.com/w80/se.png,PAR,py,https://flagcdn.com/w80/py.png
+1950,Group 3,1950-07-02,,,Italy,Paraguay,2,0,,Estádio do Pacaembu,São Paulo,played,ITA,it,https://flagcdn.com/w80/it.png,PAR,py,https://flagcdn.com/w80/py.png
+1950,Group 4,1950-07-02,,,Uruguay,Bolivia,8,0,,Estádio Independência,Belo Horizonte,played,URU,uy,https://flagcdn.com/w80/uy.png,BOL,bo,https://flagcdn.com/w80/bo.png
+1950,Final Round,1950-07-09,,,Uruguay,Spain,2,2,,Estádio do Pacaembu,São Paulo,played,URU,uy,https://flagcdn.com/w80/uy.png,ESP,es,https://flagcdn.com/w80/es.png
+1950,Final Round,1950-07-09,,,Brazil,Sweden,7,1,,Estádio do Maracanã,Rio de Janeiro,played,BRA,br,https://flagcdn.com/w80/br.png,SWE,se,https://flagcdn.com/w80/se.png
+1950,Final Round,1950-07-13,,,Brazil,Spain,6,1,,Estádio do Maracanã,Rio de Janeiro,played,BRA,br,https://flagcdn.com/w80/br.png,ESP,es,https://flagcdn.com/w80/es.png
+1950,Final Round,1950-07-13,,,Uruguay,Sweden,3,2,,Estádio do Pacaembu,São Paulo,played,URU,uy,https://flagcdn.com/w80/uy.png,SWE,se,https://flagcdn.com/w80/se.png
+1950,Final Round,1950-07-16,,,Sweden,Spain,3,1,,Estádio do Pacaembu,São Paulo,played,SWE,se,https://flagcdn.com/w80/se.png,ESP,es,https://flagcdn.com/w80/es.png
+1950,Final Round,1950-07-16,,,Uruguay,Brazil,2,1,,Estádio do Maracanã,Rio de Janeiro,played,URU,uy,https://flagcdn.com/w80/uy.png,BRA,br,https://flagcdn.com/w80/br.png
+1954,Group 1,1954-06-16,,,Brazil,Mexico,5,0,,Charmilles Stadium,Geneva,played,BRA,br,https://flagcdn.com/w80/br.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1954,Group 1,1954-06-16,,,Yugoslavia,France,1,0,,Stade Olympique de la Pontaise,Lausanne,played,YUG,rs,https://flagcdn.com/w80/rs.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1954,Group 1,1954-06-19,,,Brazil,Yugoslavia,1,1,a.e.t. (1-1),Stade Olympique de la Pontaise,Lausanne,played,BRA,br,https://flagcdn.com/w80/br.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1954,Group 1,1954-06-19,,,France,Mexico,3,2,,Charmilles Stadium,Geneva,played,FRA,fr,https://flagcdn.com/w80/fr.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1954,Group 2,1954-06-17,,,West Germany,Turkey,4,1,,Wankdorf Stadium,Bern,played,FRG,de,https://flagcdn.com/w80/de.png,TUR,tr,https://flagcdn.com/w80/tr.png
+1954,Group 2,1954-06-17,,,Hungary,South Korea,9,0,,Hardturm Stadium,Zürich,played,HUN,hu,https://flagcdn.com/w80/hu.png,KOR,kr,https://flagcdn.com/w80/kr.png
+1954,Group 2,1954-06-20,,,Hungary,West Germany,8,3,,St. Jakob Stadium,Basel,played,HUN,hu,https://flagcdn.com/w80/hu.png,FRG,de,https://flagcdn.com/w80/de.png
+1954,Group 2,1954-06-20,,,Turkey,South Korea,7,0,,Charmilles Stadium,Geneva,played,TUR,tr,https://flagcdn.com/w80/tr.png,KOR,kr,https://flagcdn.com/w80/kr.png
+1954,Group 2 Play-off,1954-06-23,,,West Germany,Turkey,7,2,,Hardturm Stadium,Zürich,played,FRG,de,https://flagcdn.com/w80/de.png,TUR,tr,https://flagcdn.com/w80/tr.png
+1954,Group 3,1954-06-16,,,Uruguay,Czechoslovakia,2,0,,Wankdorf Stadium,Bern,played,URU,uy,https://flagcdn.com/w80/uy.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1954,Group 3,1954-06-16,,,Austria,Scotland,1,0,,Hardturm Stadium,Zürich,played,AUT,at,https://flagcdn.com/w80/at.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1954,Group 3,1954-06-19,,,Austria,Czechoslovakia,5,0,,Hardturm Stadium,Zürich,played,AUT,at,https://flagcdn.com/w80/at.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1954,Group 3,1954-06-19,,,Uruguay,Scotland,7,0,,St. Jakob Stadium,Basel,played,URU,uy,https://flagcdn.com/w80/uy.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1954,Group 4,1954-06-17,,,England,Belgium,4,4,a.e.t. (3-3),St. Jakob Stadium,Basel,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,BEL,be,https://flagcdn.com/w80/be.png
+1954,Group 4,1954-06-17,,,Switzerland,Italy,2,1,,Stade Olympique de la Pontaise,Lausanne,played,SUI,ch,https://flagcdn.com/w80/ch.png,ITA,it,https://flagcdn.com/w80/it.png
+1954,Group 4,1954-06-20,,,England,Switzerland,2,0,,Wankdorf Stadium,Bern,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1954,Group 4,1954-06-20,,,Italy,Belgium,4,1,,Cornaredo Stadium,Lugano,played,ITA,it,https://flagcdn.com/w80/it.png,BEL,be,https://flagcdn.com/w80/be.png
+1954,Group 4 Play-off,1954-06-23,,,Switzerland,Italy,4,1,,St. Jakob Stadium,Basel,played,SUI,ch,https://flagcdn.com/w80/ch.png,ITA,it,https://flagcdn.com/w80/it.png
+1954,Quarter-finals,1954-06-26,,,Austria,Switzerland,7,5,,Stade Olympique de la Pontaise,Lausanne,played,AUT,at,https://flagcdn.com/w80/at.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1954,Quarter-finals,1954-06-26,,,Uruguay,England,4,2,,St. Jakob Stadium,Basel,played,URU,uy,https://flagcdn.com/w80/uy.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1954,Quarter-finals,1954-06-27,,,Yugoslavia,West Germany,0,2,,Charmilles Stadium,Geneva,played,YUG,rs,https://flagcdn.com/w80/rs.png,FRG,de,https://flagcdn.com/w80/de.png
+1954,Quarter-finals,1954-06-27,,,Brazil,Hungary,2,4,,Wankdorf Stadium,Bern,played,BRA,br,https://flagcdn.com/w80/br.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1954,Semi-finals,1954-06-30,,,West Germany,Austria,6,1,,St. Jakob Stadium,Basel,played,FRG,de,https://flagcdn.com/w80/de.png,AUT,at,https://flagcdn.com/w80/at.png
+1954,Semi-finals,1954-06-30,,,Hungary,Uruguay,4,2,a.e.t. (2-2),Stade Olympique de la Pontaise,Lausanne,played,HUN,hu,https://flagcdn.com/w80/hu.png,URU,uy,https://flagcdn.com/w80/uy.png
+1954,Third-place match,1954-07-03,,,Uruguay,Austria,1,3,,Hardturm Stadium,Zürich,played,URU,uy,https://flagcdn.com/w80/uy.png,AUT,at,https://flagcdn.com/w80/at.png
+1954,Final,1954-07-04,,,Hungary,West Germany,2,3,,Wankdorf Stadium,Bern,played,HUN,hu,https://flagcdn.com/w80/hu.png,FRG,de,https://flagcdn.com/w80/de.png
+1958,Group 1,1958-06-08,,,West Germany,Argentina,3,1,,Malmö Stadion,Malmö,played,FRG,de,https://flagcdn.com/w80/de.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1958,Group 1,1958-06-08,,,Northern Ireland,Czechoslovakia,1,0,,Örjans Vall,Halmstad,played,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1958,Group 1,1958-06-11,,,Argentina,Northern Ireland,3,1,,Örjans Vall,Halmstad,played,ARG,ar,https://flagcdn.com/w80/ar.png,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1958,Group 1,1958-06-11,,,West Germany,Czechoslovakia,2,2,,Olympiastadion,Helsingborg,played,FRG,de,https://flagcdn.com/w80/de.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1958,Group 1,1958-06-15,,,West Germany,Northern Ireland,2,2,,Malmö Stadion,Malmö,played,FRG,de,https://flagcdn.com/w80/de.png,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1958,Group 1,1958-06-15,,,Czechoslovakia,Argentina,6,1,,Olympiastadion,Helsingborg,played,TCH,cz,https://flagcdn.com/w80/cz.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1958,Group 1 Play-off,1958-06-17,,,Northern Ireland,Czechoslovakia,2,1,a.e.t. (1-1),Malmö Stadion,Malmö,played,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1958,Group 2,1958-06-08,,,France,Paraguay,7,3,,Idrottsparken,Norrköping,played,FRA,fr,https://flagcdn.com/w80/fr.png,PAR,py,https://flagcdn.com/w80/py.png
+1958,Group 2,1958-06-08,,,Yugoslavia,Scotland,1,1,,Arosvallen,Västerås,played,YUG,rs,https://flagcdn.com/w80/rs.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1958,Group 2,1958-06-11,,,Yugoslavia,France,3,2,,Arosvallen,Västerås,played,YUG,rs,https://flagcdn.com/w80/rs.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1958,Group 2,1958-06-11,,,Paraguay,Scotland,3,2,,Idrottsparken,Norrköping,played,PAR,py,https://flagcdn.com/w80/py.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1958,Group 2,1958-06-15,,,France,Scotland,2,1,,Eyravallen,Örebro,played,FRA,fr,https://flagcdn.com/w80/fr.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1958,Group 2,1958-06-15,,,Paraguay,Yugoslavia,3,3,,Tunavallen,Eskilstuna,played,PAR,py,https://flagcdn.com/w80/py.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1958,Group 3,1958-06-08,,,Sweden,Mexico,3,0,,Råsunda Stadium,Solna,played,SWE,se,https://flagcdn.com/w80/se.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1958,Group 3,1958-06-08,,,Hungary,Wales,1,1,,Jernvallen,Sandviken,played,HUN,hu,https://flagcdn.com/w80/hu.png,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png
+1958,Group 3,1958-06-11,,,Mexico,Wales,1,1,,Råsunda Stadium,Solna,played,MEX,mx,https://flagcdn.com/w80/mx.png,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png
+1958,Group 3,1958-06-12,,,Sweden,Hungary,2,1,,Råsunda Stadium,Solna,played,SWE,se,https://flagcdn.com/w80/se.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1958,Group 3,1958-06-15,,,Sweden,Wales,0,0,,Råsunda Stadium,Solna,played,SWE,se,https://flagcdn.com/w80/se.png,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png
+1958,Group 3,1958-06-15,,,Hungary,Mexico,4,0,,Jernvallen,Sandviken,played,HUN,hu,https://flagcdn.com/w80/hu.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1958,Group 3 Play-off,1958-06-17,,,Wales,Hungary,2,1,,Råsunda Stadium,Solna,played,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1958,Group 4,1958-06-08,,,Brazil,Austria,3,0,,Rimnersvallen,Uddevalla,played,BRA,br,https://flagcdn.com/w80/br.png,AUT,at,https://flagcdn.com/w80/at.png
+1958,Group 4,1958-06-08,,,Soviet Union,England,2,2,,Ullevi,Gothenburg,played,URS,ru,https://flagcdn.com/w80/ru.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1958,Group 4,1958-06-11,,,Brazil,England,0,0,,Ullevi,Gothenburg,played,BRA,br,https://flagcdn.com/w80/br.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1958,Group 4,1958-06-11,,,Soviet Union,Austria,2,0,,Ryavallen,Borås,played,URS,ru,https://flagcdn.com/w80/ru.png,AUT,at,https://flagcdn.com/w80/at.png
+1958,Group 4,1958-06-15,,,England,Austria,2,2,,Ryavallen,Borås,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,AUT,at,https://flagcdn.com/w80/at.png
+1958,Group 4,1958-06-15,,,Brazil,Soviet Union,2,0,,Ullevi,Gothenburg,played,BRA,br,https://flagcdn.com/w80/br.png,URS,ru,https://flagcdn.com/w80/ru.png
+1958,Group 4 Play-off,1958-06-17,,,Soviet Union,England,1,0,,Ullevi,Gothenburg,played,URS,ru,https://flagcdn.com/w80/ru.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1958,Quarter-finals,1958-06-19,,,France,Northern Ireland,4,0,,Idrottsparken,Norrköping,played,FRA,fr,https://flagcdn.com/w80/fr.png,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1958,Quarter-finals,1958-06-19,,,Sweden,Soviet Union,2,0,,Råsunda Stadium,Solna,played,SWE,se,https://flagcdn.com/w80/se.png,URS,ru,https://flagcdn.com/w80/ru.png
+1958,Quarter-finals,1958-06-19,,,Brazil,Wales,1,0,,Ullevi,Gothenburg,played,BRA,br,https://flagcdn.com/w80/br.png,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png
+1958,Quarter-finals,1958-06-19,,,West Germany,Yugoslavia,1,0,,Malmö Stadion,Malmö,played,FRG,de,https://flagcdn.com/w80/de.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1958,Semi-finals,1958-06-24,,,France,Brazil,2,5,,Råsunda Stadium,Solna,played,FRA,fr,https://flagcdn.com/w80/fr.png,BRA,br,https://flagcdn.com/w80/br.png
+1958,Semi-finals,1958-06-24,,,West Germany,Sweden,1,3,,Ullevi,Gothenburg,played,FRG,de,https://flagcdn.com/w80/de.png,SWE,se,https://flagcdn.com/w80/se.png
+1958,Match for third place,1958-06-28,,,West Germany,France,3,6,,Ullevi,Gothenburg,played,FRG,de,https://flagcdn.com/w80/de.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1958,Final,1958-06-29,,,Sweden,Brazil,2,5,,Råsunda Stadium,Solna,played,SWE,se,https://flagcdn.com/w80/se.png,BRA,br,https://flagcdn.com/w80/br.png
+1962,Group 1,1962-05-30,,,Uruguay,Colombia,2,1,,Estadio Carlos Dittborn,Arica,played,URU,uy,https://flagcdn.com/w80/uy.png,COL,co,https://flagcdn.com/w80/co.png
+1962,Group 1,1962-05-31,,,Soviet Union,Yugoslavia,2,0,,Estadio Carlos Dittborn,Arica,played,URS,ru,https://flagcdn.com/w80/ru.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1962,Group 1,1962-06-02,,,Yugoslavia,Uruguay,3,1,,Estadio Carlos Dittborn,Arica,played,YUG,rs,https://flagcdn.com/w80/rs.png,URU,uy,https://flagcdn.com/w80/uy.png
+1962,Group 1,1962-06-03,,,Soviet Union,Colombia,4,4,,Estadio Carlos Dittborn,Arica,played,URS,ru,https://flagcdn.com/w80/ru.png,COL,co,https://flagcdn.com/w80/co.png
+1962,Group 1,1962-06-06,,,Soviet Union,Uruguay,2,1,,Estadio Carlos Dittborn,Arica,played,URS,ru,https://flagcdn.com/w80/ru.png,URU,uy,https://flagcdn.com/w80/uy.png
+1962,Group 1,1962-06-07,,,Yugoslavia,Colombia,5,0,,Estadio Carlos Dittborn,Arica,played,YUG,rs,https://flagcdn.com/w80/rs.png,COL,co,https://flagcdn.com/w80/co.png
+1962,Group 2,1962-05-30,,,Chile,Switzerland,3,1,,Estadio Nacional,Santiago,played,CHI,cl,https://flagcdn.com/w80/cl.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1962,Group 2,1962-05-31,,,West Germany,Italy,0,0,,Estadio Nacional,Santiago,played,FRG,de,https://flagcdn.com/w80/de.png,ITA,it,https://flagcdn.com/w80/it.png
+1962,Group 2,1962-06-02,,,Chile,Italy,2,0,,Estadio Nacional,Santiago,played,CHI,cl,https://flagcdn.com/w80/cl.png,ITA,it,https://flagcdn.com/w80/it.png
+1962,Group 2,1962-06-03,,,West Germany,Switzerland,2,1,,Estadio Nacional,Santiago,played,FRG,de,https://flagcdn.com/w80/de.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1962,Group 2,1962-06-06,,,West Germany,Chile,2,0,,Estadio Nacional,Santiago,played,FRG,de,https://flagcdn.com/w80/de.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1962,Group 2,1962-06-07,,,Italy,Switzerland,3,0,,Estadio Nacional,Santiago,played,ITA,it,https://flagcdn.com/w80/it.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1962,Group 3,1962-05-30,,,Brazil,Mexico,2,0,,Estadio Sausalito,Viña del Mar,played,BRA,br,https://flagcdn.com/w80/br.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1962,Group 3,1962-05-31,,,Czechoslovakia,Spain,1,0,,Estadio Sausalito,Viña del Mar,played,TCH,cz,https://flagcdn.com/w80/cz.png,ESP,es,https://flagcdn.com/w80/es.png
+1962,Group 3,1962-06-02,,,Brazil,Czechoslovakia,0,0,,Estadio Sausalito,Viña del Mar,played,BRA,br,https://flagcdn.com/w80/br.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1962,Group 3,1962-06-03,,,Spain,Mexico,1,0,,Estadio Sausalito,Viña del Mar,played,ESP,es,https://flagcdn.com/w80/es.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1962,Group 3,1962-06-06,,,Brazil,Spain,2,1,,Estadio Sausalito,Viña del Mar,played,BRA,br,https://flagcdn.com/w80/br.png,ESP,es,https://flagcdn.com/w80/es.png
+1962,Group 3,1962-06-07,,,Mexico,Czechoslovakia,3,1,,Estadio Sausalito,Viña del Mar,played,MEX,mx,https://flagcdn.com/w80/mx.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1962,Group 4,1962-05-30,,,Argentina,Bulgaria,1,0,,Estadio El Teniente,Rancagua,played,ARG,ar,https://flagcdn.com/w80/ar.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1962,Group 4,1962-05-31,,,Hungary,England,2,1,,Estadio El Teniente,Rancagua,played,HUN,hu,https://flagcdn.com/w80/hu.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1962,Group 4,1962-06-02,,,England,Argentina,3,1,,Estadio El Teniente,Rancagua,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1962,Group 4,1962-06-03,,,Hungary,Bulgaria,6,1,,Estadio El Teniente,Rancagua,played,HUN,hu,https://flagcdn.com/w80/hu.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1962,Group 4,1962-06-06,,,Hungary,Argentina,0,0,,Estadio El Teniente,Rancagua,played,HUN,hu,https://flagcdn.com/w80/hu.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1962,Group 4,1962-06-07,,,England,Bulgaria,0,0,,Estadio El Teniente,Rancagua,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1962,Quarter-finals,1962-06-10,,,Chile,Soviet Union,2,1,,Estadio Carlos Dittborn,Arica,played,CHI,cl,https://flagcdn.com/w80/cl.png,URS,ru,https://flagcdn.com/w80/ru.png
+1962,Quarter-finals,1962-06-10,,,Yugoslavia,West Germany,1,0,,Estadio Nacional,Santiago,played,YUG,rs,https://flagcdn.com/w80/rs.png,FRG,de,https://flagcdn.com/w80/de.png
+1962,Quarter-finals,1962-06-10,,,Brazil,England,3,1,,Estadio Sausalito,Viña del Mar,played,BRA,br,https://flagcdn.com/w80/br.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1962,Quarter-finals,1962-06-10,,,Czechoslovakia,Hungary,1,0,,Estadio El Teniente,Rancagua,played,TCH,cz,https://flagcdn.com/w80/cz.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1962,Semi-finals,1962-06-13,,,Brazil,Chile,4,2,,Estadio Nacional,Santiago,played,BRA,br,https://flagcdn.com/w80/br.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1962,Semi-finals,1962-06-13,,,Czechoslovakia,Yugoslavia,3,1,,Estadio Sausalito,Viña del Mar,played,TCH,cz,https://flagcdn.com/w80/cz.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1962,Third-place match,1962-06-16,,,Chile,Yugoslavia,1,0,,Estadio Nacional,Santiago,played,CHI,cl,https://flagcdn.com/w80/cl.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1962,Final,1962-06-17,,,Brazil,Czechoslovakia,3,1,,Estadio Nacional,Santiago,played,BRA,br,https://flagcdn.com/w80/br.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1966,Group 1,1966-07-11,,,England,Uruguay,0,0,,Wembley Stadium,London,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,URU,uy,https://flagcdn.com/w80/uy.png
+1966,Group 1,1966-07-13,,,France,Mexico,1,1,,Wembley Stadium,London,played,FRA,fr,https://flagcdn.com/w80/fr.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1966,Group 1,1966-07-15,,,Uruguay,France,2,1,,White City Stadium,London,played,URU,uy,https://flagcdn.com/w80/uy.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1966,Group 1,1966-07-16,,,England,Mexico,2,0,,Wembley Stadium,London,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1966,Group 1,1966-07-19,,,Mexico,Uruguay,0,0,,Wembley Stadium,London,played,MEX,mx,https://flagcdn.com/w80/mx.png,URU,uy,https://flagcdn.com/w80/uy.png
+1966,Group 1,1966-07-20,,,England,France,2,0,,Wembley Stadium,London,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1966,Group 2,1966-07-12,,,West Germany,Switzerland,5,0,,Hillsborough Stadium,Sheffield,played,FRG,de,https://flagcdn.com/w80/de.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1966,Group 2,1966-07-13,,,Argentina,Spain,2,1,,Villa Park,Birmingham,played,ARG,ar,https://flagcdn.com/w80/ar.png,ESP,es,https://flagcdn.com/w80/es.png
+1966,Group 2,1966-07-15,,,Spain,Switzerland,2,1,,Hillsborough Stadium,Sheffield,played,ESP,es,https://flagcdn.com/w80/es.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1966,Group 2,1966-07-16,,,Argentina,West Germany,0,0,,Villa Park,Birmingham,played,ARG,ar,https://flagcdn.com/w80/ar.png,FRG,de,https://flagcdn.com/w80/de.png
+1966,Group 2,1966-07-19,,,Argentina,Switzerland,2,0,,Hillsborough Stadium,Sheffield,played,ARG,ar,https://flagcdn.com/w80/ar.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1966,Group 2,1966-07-20,,,West Germany,Spain,2,1,,Villa Park,Birmingham,played,FRG,de,https://flagcdn.com/w80/de.png,ESP,es,https://flagcdn.com/w80/es.png
+1966,Group 3,1966-07-12,,,Brazil,Bulgaria,2,0,,Goodison Park,Liverpool,played,BRA,br,https://flagcdn.com/w80/br.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1966,Group 3,1966-07-13,,,Portugal,Hungary,3,1,,Old Trafford,Manchester,played,POR,pt,https://flagcdn.com/w80/pt.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1966,Group 3,1966-07-15,,,Hungary,Brazil,3,1,,Goodison Park,Liverpool,played,HUN,hu,https://flagcdn.com/w80/hu.png,BRA,br,https://flagcdn.com/w80/br.png
+1966,Group 3,1966-07-16,,,Portugal,Bulgaria,3,0,,Old Trafford,Manchester,played,POR,pt,https://flagcdn.com/w80/pt.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1966,Group 3,1966-07-19,,,Portugal,Brazil,3,1,,Goodison Park,Liverpool,played,POR,pt,https://flagcdn.com/w80/pt.png,BRA,br,https://flagcdn.com/w80/br.png
+1966,Group 3,1966-07-20,,,Hungary,Bulgaria,3,1,,Old Trafford,Manchester,played,HUN,hu,https://flagcdn.com/w80/hu.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1966,Group 4,1966-07-12,,,Soviet Union,North Korea,3,0,,Ayresome Park,Middlesbrough,played,URS,ru,https://flagcdn.com/w80/ru.png,PRK,kp,https://flagcdn.com/w80/kp.png
+1966,Group 4,1966-07-13,,,Italy,Chile,2,0,,Roker Park,Sunderland,played,ITA,it,https://flagcdn.com/w80/it.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1966,Group 4,1966-07-15,,,Chile,North Korea,1,1,,Ayresome Park,Middlesbrough,played,CHI,cl,https://flagcdn.com/w80/cl.png,PRK,kp,https://flagcdn.com/w80/kp.png
+1966,Group 4,1966-07-16,,,Soviet Union,Italy,1,0,,Roker Park,Sunderland,played,URS,ru,https://flagcdn.com/w80/ru.png,ITA,it,https://flagcdn.com/w80/it.png
+1966,Group 4,1966-07-19,,,North Korea,Italy,1,0,,Ayresome Park,Middlesbrough,played,PRK,kp,https://flagcdn.com/w80/kp.png,ITA,it,https://flagcdn.com/w80/it.png
+1966,Group 4,1966-07-20,,,Soviet Union,Chile,2,1,,Roker Park,Sunderland,played,URS,ru,https://flagcdn.com/w80/ru.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1966,Quarter-finals,1966-07-23,,,England,Argentina,1,0,,Wembley Stadium,London,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1966,Quarter-finals,1966-07-23,,,West Germany,Uruguay,4,0,,Hillsborough Stadium,Sheffield,played,FRG,de,https://flagcdn.com/w80/de.png,URU,uy,https://flagcdn.com/w80/uy.png
+1966,Quarter-finals,1966-07-23,,,Soviet Union,Hungary,2,1,,Roker Park,Sunderland,played,URS,ru,https://flagcdn.com/w80/ru.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1966,Quarter-finals,1966-07-23,,,Portugal,North Korea,5,3,,Goodison Park,Liverpool,played,POR,pt,https://flagcdn.com/w80/pt.png,PRK,kp,https://flagcdn.com/w80/kp.png
+1966,Semi-finals,1966-07-25,,,West Germany,Soviet Union,2,1,,Goodison Park,Liverpool,played,FRG,de,https://flagcdn.com/w80/de.png,URS,ru,https://flagcdn.com/w80/ru.png
+1966,Semi-finals,1966-07-26,,,England,Portugal,2,1,,Wembley Stadium,London,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,POR,pt,https://flagcdn.com/w80/pt.png
+1966,Third-place match,1966-07-28,,,Portugal,Soviet Union,2,1,,Wembley Stadium,London,played,POR,pt,https://flagcdn.com/w80/pt.png,URS,ru,https://flagcdn.com/w80/ru.png
+1966,Final,1966-07-30,,,England,West Germany,4,2,a.e.t. (2-2),Wembley Stadium,London,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,FRG,de,https://flagcdn.com/w80/de.png
+1970,Group 1,1970-05-31,,,Mexico,Soviet Union,0,0,,Estadio Azteca,Mexico City,played,MEX,mx,https://flagcdn.com/w80/mx.png,URS,ru,https://flagcdn.com/w80/ru.png
+1970,Group 1,1970-06-03,,,Belgium,El Salvador,3,0,,Estadio Azteca,Mexico City,played,BEL,be,https://flagcdn.com/w80/be.png,SLV,sv,https://flagcdn.com/w80/sv.png
+1970,Group 1,1970-06-06,,,Soviet Union,Belgium,4,1,,Estadio Azteca,Mexico City,played,URS,ru,https://flagcdn.com/w80/ru.png,BEL,be,https://flagcdn.com/w80/be.png
+1970,Group 1,1970-06-07,,,Mexico,El Salvador,4,0,,Estadio Azteca,Mexico City,played,MEX,mx,https://flagcdn.com/w80/mx.png,SLV,sv,https://flagcdn.com/w80/sv.png
+1970,Group 1,1970-06-10,,,Soviet Union,El Salvador,2,0,,Estadio Azteca,Mexico City,played,URS,ru,https://flagcdn.com/w80/ru.png,SLV,sv,https://flagcdn.com/w80/sv.png
+1970,Group 1,1970-06-11,,,Mexico,Belgium,1,0,,Estadio Azteca,Mexico City,played,MEX,mx,https://flagcdn.com/w80/mx.png,BEL,be,https://flagcdn.com/w80/be.png
+1970,Group 2,1970-06-02,,,Uruguay,Israel,2,0,,Estadio Cuauhtémoc,Puebla,played,URU,uy,https://flagcdn.com/w80/uy.png,ISR,il,https://flagcdn.com/w80/il.png
+1970,Group 2,1970-06-03,,,Italy,Sweden,1,0,,Estadio Luis Dosal,Toluca,played,ITA,it,https://flagcdn.com/w80/it.png,SWE,se,https://flagcdn.com/w80/se.png
+1970,Group 2,1970-06-06,,,Uruguay,Italy,0,0,,Estadio Cuauhtémoc,Puebla,played,URU,uy,https://flagcdn.com/w80/uy.png,ITA,it,https://flagcdn.com/w80/it.png
+1970,Group 2,1970-06-07,,,Sweden,Israel,1,1,,Estadio Luis Dosal,Toluca,played,SWE,se,https://flagcdn.com/w80/se.png,ISR,il,https://flagcdn.com/w80/il.png
+1970,Group 2,1970-06-10,,,Uruguay,Sweden,0,1,,Estadio Cuauhtémoc,Puebla,played,URU,uy,https://flagcdn.com/w80/uy.png,SWE,se,https://flagcdn.com/w80/se.png
+1970,Group 2,1970-06-11,,,Israel,Italy,0,0,,Estadio Luis Dosal,Toluca,played,ISR,il,https://flagcdn.com/w80/il.png,ITA,it,https://flagcdn.com/w80/it.png
+1970,Group 3,1970-06-02,,,Romania,England,0,1,,Estadio Jalisco,Guadalajara,played,ROU,ro,https://flagcdn.com/w80/ro.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1970,Group 3,1970-06-03,,,Czechoslovakia,Brazil,1,4,,Estadio Jalisco,Guadalajara,played,TCH,cz,https://flagcdn.com/w80/cz.png,BRA,br,https://flagcdn.com/w80/br.png
+1970,Group 3,1970-06-06,,,Romania,Czechoslovakia,2,1,,Estadio Jalisco,Guadalajara,played,ROU,ro,https://flagcdn.com/w80/ro.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1970,Group 3,1970-06-07,,,England,Brazil,0,1,,Estadio Jalisco,Guadalajara,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,BRA,br,https://flagcdn.com/w80/br.png
+1970,Group 3,1970-06-10,,,Romania,Brazil,2,3,,Estadio Jalisco,Guadalajara,played,ROU,ro,https://flagcdn.com/w80/ro.png,BRA,br,https://flagcdn.com/w80/br.png
+1970,Group 3,1970-06-11,,,England,Czechoslovakia,1,0,,Estadio Jalisco,Guadalajara,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1970,Group 4,1970-06-02,,,Peru,Bulgaria,3,2,,Estadio Nou Camp,León,played,PER,pe,https://flagcdn.com/w80/pe.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1970,Group 4,1970-06-03,,,Morocco,West Germany,1,2,,Estadio Nou Camp,León,played,MAR,ma,https://flagcdn.com/w80/ma.png,FRG,de,https://flagcdn.com/w80/de.png
+1970,Group 4,1970-06-06,,,Peru,Morocco,3,0,,Estadio Nou Camp,León,played,PER,pe,https://flagcdn.com/w80/pe.png,MAR,ma,https://flagcdn.com/w80/ma.png
+1970,Group 4,1970-06-07,,,Bulgaria,West Germany,2,5,,Estadio Nou Camp,León,played,BUL,bg,https://flagcdn.com/w80/bg.png,FRG,de,https://flagcdn.com/w80/de.png
+1970,Group 4,1970-06-10,,,Peru,West Germany,1,3,,Estadio Nou Camp,León,played,PER,pe,https://flagcdn.com/w80/pe.png,FRG,de,https://flagcdn.com/w80/de.png
+1970,Group 4,1970-06-11,,,Bulgaria,Morocco,1,1,,Estadio Nou Camp,León,played,BUL,bg,https://flagcdn.com/w80/bg.png,MAR,ma,https://flagcdn.com/w80/ma.png
+1970,Quarter-finals,1970-06-14,,,Soviet Union,Uruguay,0,1,a.e.t. (0-0),Estadio Azteca,Mexico City,played,URS,ru,https://flagcdn.com/w80/ru.png,URU,uy,https://flagcdn.com/w80/uy.png
+1970,Quarter-finals,1970-06-14,,,Italy,Mexico,4,1,,Estadio Luis Dosal,Toluca,played,ITA,it,https://flagcdn.com/w80/it.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1970,Quarter-finals,1970-06-14,,,Brazil,Peru,4,2,,Estadio Jalisco,Guadalajara,played,BRA,br,https://flagcdn.com/w80/br.png,PER,pe,https://flagcdn.com/w80/pe.png
+1970,Quarter-finals,1970-06-14,,,West Germany,England,3,2,a.e.t. (2-2),Estadio Nou Camp,León,played,FRG,de,https://flagcdn.com/w80/de.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1970,Semi-finals,1970-06-17,,,Uruguay,Brazil,1,3,,Estadio Jalisco,Guadalajara,played,URU,uy,https://flagcdn.com/w80/uy.png,BRA,br,https://flagcdn.com/w80/br.png
+1970,Semi-finals,1970-06-17,,,Italy,West Germany,4,3,a.e.t. (1-1),Estadio Azteca,Mexico City,played,ITA,it,https://flagcdn.com/w80/it.png,FRG,de,https://flagcdn.com/w80/de.png
+1970,Match for third place,1970-06-20,,,Uruguay,West Germany,0,1,,Estadio Azteca,Mexico City,played,URU,uy,https://flagcdn.com/w80/uy.png,FRG,de,https://flagcdn.com/w80/de.png
+1970,Final,1970-06-21,,,Brazil,Italy,4,1,,Estadio Azteca,Mexico City,played,BRA,br,https://flagcdn.com/w80/br.png,ITA,it,https://flagcdn.com/w80/it.png
+1974,Group 1,1974-06-14,,,West Germany,Chile,1,0,,Olympiastadion,West Berlin,played,FRG,de,https://flagcdn.com/w80/de.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1974,Group 1,1974-06-14,,,East Germany,Australia,2,0,,Volksparkstadion,Hamburg,played,GDR,de,https://flagcdn.com/w80/de.png,AUS,au,https://flagcdn.com/w80/au.png
+1974,Group 1,1974-06-18,,,Chile,East Germany,1,1,,Olympiastadion,West Berlin,played,CHI,cl,https://flagcdn.com/w80/cl.png,GDR,de,https://flagcdn.com/w80/de.png
+1974,Group 1,1974-06-18,,,Australia,West Germany,0,3,,Volksparkstadion,Hamburg,played,AUS,au,https://flagcdn.com/w80/au.png,FRG,de,https://flagcdn.com/w80/de.png
+1974,Group 1,1974-06-22,,,Australia,Chile,0,0,,Olympiastadion,West Berlin,played,AUS,au,https://flagcdn.com/w80/au.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1974,Group 1,1974-06-22,,,East Germany,West Germany,1,0,,Volksparkstadion,Hamburg,played,GDR,de,https://flagcdn.com/w80/de.png,FRG,de,https://flagcdn.com/w80/de.png
+1974,Group 2,1974-06-13,,,Brazil,Yugoslavia,0,0,,Waldstadion,Frankfurt,played,BRA,br,https://flagcdn.com/w80/br.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1974,Group 2,1974-06-14,,,Zaire,Scotland,0,2,,Westfalenstadion,Dortmund,played,ZAI,cd,https://flagcdn.com/w80/cd.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1974,Group 2,1974-06-18,,,Yugoslavia,Zaire,9,0,,Parkstadion,Gelsenkirchen,played,YUG,rs,https://flagcdn.com/w80/rs.png,ZAI,cd,https://flagcdn.com/w80/cd.png
+1974,Group 2,1974-06-18,,,Scotland,Brazil,0,0,,Waldstadion,Frankfurt,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,BRA,br,https://flagcdn.com/w80/br.png
+1974,Group 2,1974-06-22,,,Scotland,Yugoslavia,1,1,,Waldstadion,Frankfurt,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1974,Group 2,1974-06-22,,,Zaire,Brazil,0,3,,Parkstadion,Gelsenkirchen,played,ZAI,cd,https://flagcdn.com/w80/cd.png,BRA,br,https://flagcdn.com/w80/br.png
+1974,Group 3,1974-06-15,,,Uruguay,Netherlands,0,2,,Niedersachsenstadion,Hanover,played,URU,uy,https://flagcdn.com/w80/uy.png,NED,nl,https://flagcdn.com/w80/nl.png
+1974,Group 3,1974-06-15,,,Sweden,Bulgaria,0,0,,Rheinstadion,Düsseldorf,played,SWE,se,https://flagcdn.com/w80/se.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1974,Group 3,1974-06-19,,,Netherlands,Sweden,0,0,,Westfalenstadion,Dortmund,played,NED,nl,https://flagcdn.com/w80/nl.png,SWE,se,https://flagcdn.com/w80/se.png
+1974,Group 3,1974-06-19,,,Uruguay,Bulgaria,1,1,,Niedersachsenstadion,Hanover,played,URU,uy,https://flagcdn.com/w80/uy.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1974,Group 3,1974-06-23,,,Netherlands,Bulgaria,4,1,,Westfalenstadion,Dortmund,played,NED,nl,https://flagcdn.com/w80/nl.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1974,Group 3,1974-06-23,,,Sweden,Uruguay,3,0,,Rheinstadion,Düsseldorf,played,SWE,se,https://flagcdn.com/w80/se.png,URU,uy,https://flagcdn.com/w80/uy.png
+1974,Group 4,1974-06-15,,,Italy,Haiti,3,1,,Olympiastadion,München,played,ITA,it,https://flagcdn.com/w80/it.png,HAI,ht,https://flagcdn.com/w80/ht.png
+1974,Group 4,1974-06-15,,,Poland,Argentina,3,2,,Neckarstadion,Stuttgart,played,POL,pl,https://flagcdn.com/w80/pl.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1974,Group 4,1974-06-19,,,Haiti,Poland,0,7,,Olympiastadion,München,played,HAI,ht,https://flagcdn.com/w80/ht.png,POL,pl,https://flagcdn.com/w80/pl.png
+1974,Group 4,1974-06-19,,,Argentina,Italy,1,1,,Neckarstadion,Stuttgart,played,ARG,ar,https://flagcdn.com/w80/ar.png,ITA,it,https://flagcdn.com/w80/it.png
+1974,Group 4,1974-06-23,,,Argentina,Haiti,4,1,,Olympiastadion,München,played,ARG,ar,https://flagcdn.com/w80/ar.png,HAI,ht,https://flagcdn.com/w80/ht.png
+1974,Group 4,1974-06-23,,,Poland,Italy,2,1,,Neckarstadion,Stuttgart,played,POL,pl,https://flagcdn.com/w80/pl.png,ITA,it,https://flagcdn.com/w80/it.png
+1974,Group A,1974-06-26,,,Brazil,East Germany,1,0,,Niedersachsenstadion,Hanover,played,BRA,br,https://flagcdn.com/w80/br.png,GDR,de,https://flagcdn.com/w80/de.png
+1974,Group A,1974-06-26,,,Netherlands,Argentina,4,0,,Parkstadion,Gelsenkirchen,played,NED,nl,https://flagcdn.com/w80/nl.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1974,Group A,1974-06-30,,,East Germany,Netherlands,0,2,,Parkstadion,Gelsenkirchen,played,GDR,de,https://flagcdn.com/w80/de.png,NED,nl,https://flagcdn.com/w80/nl.png
+1974,Group A,1974-06-30,,,Argentina,Brazil,1,2,,Niedersachsenstadion,Hanover,played,ARG,ar,https://flagcdn.com/w80/ar.png,BRA,br,https://flagcdn.com/w80/br.png
+1974,Group A,1974-07-03,,,Argentina,East Germany,1,1,,Parkstadion,Gelsenkirchen,played,ARG,ar,https://flagcdn.com/w80/ar.png,GDR,de,https://flagcdn.com/w80/de.png
+1974,Group A,1974-07-03,,,Netherlands,Brazil,2,0,,Westfalenstadion,Dortmund,played,NED,nl,https://flagcdn.com/w80/nl.png,BRA,br,https://flagcdn.com/w80/br.png
+1974,Group B,1974-06-26,,,Yugoslavia,West Germany,0,2,,Rheinstadion,Düsseldorf,played,YUG,rs,https://flagcdn.com/w80/rs.png,FRG,de,https://flagcdn.com/w80/de.png
+1974,Group B,1974-06-26,,,Sweden,Poland,0,1,,Neckarstadion,Stuttgart,played,SWE,se,https://flagcdn.com/w80/se.png,POL,pl,https://flagcdn.com/w80/pl.png
+1974,Group B,1974-06-30,,,West Germany,Sweden,4,2,,Rheinstadion,Düsseldorf,played,FRG,de,https://flagcdn.com/w80/de.png,SWE,se,https://flagcdn.com/w80/se.png
+1974,Group B,1974-06-30,,,Poland,Yugoslavia,2,1,,Waldstadion,Frankfurt,played,POL,pl,https://flagcdn.com/w80/pl.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1974,Group B,1974-07-03,,,Poland,West Germany,0,1,,Waldstadion,Frankfurt,played,POL,pl,https://flagcdn.com/w80/pl.png,FRG,de,https://flagcdn.com/w80/de.png
+1974,Group B,1974-07-03,,,Sweden,Yugoslavia,2,1,,Rheinstadion,Düsseldorf,played,SWE,se,https://flagcdn.com/w80/se.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1974,Match for third place,1974-07-06,,,Brazil,Poland,0,1,,Olympiastadion,München,played,BRA,br,https://flagcdn.com/w80/br.png,POL,pl,https://flagcdn.com/w80/pl.png
+1974,Final,1974-07-07,,,Netherlands,West Germany,1,2,,Olympiastadion,München,played,NED,nl,https://flagcdn.com/w80/nl.png,FRG,de,https://flagcdn.com/w80/de.png
+1978,Group 1,1978-06-02,,,Argentina,Hungary,2,1,,Estadio Monumental,Buenos Aires,played,ARG,ar,https://flagcdn.com/w80/ar.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1978,Group 1,1978-06-02,,,Italy,France,2,1,,Estadio José María Minella,Mar del Plata,played,ITA,it,https://flagcdn.com/w80/it.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1978,Group 1,1978-06-06,,,Argentina,France,2,1,,Estadio Monumental,Buenos Aires,played,ARG,ar,https://flagcdn.com/w80/ar.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1978,Group 1,1978-06-06,,,Italy,Hungary,3,1,,Estadio José María Minella,Mar del Plata,played,ITA,it,https://flagcdn.com/w80/it.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1978,Group 1,1978-06-10,,,Argentina,Italy,0,1,,Estadio Monumental,Buenos Aires,played,ARG,ar,https://flagcdn.com/w80/ar.png,ITA,it,https://flagcdn.com/w80/it.png
+1978,Group 1,1978-06-10,,,France,Hungary,3,1,,Estadio José María Minella,Mar del Plata,played,FRA,fr,https://flagcdn.com/w80/fr.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1978,Group 2,1978-06-01,,,West Germany,Poland,0,0,,Estadio Monumental,Buenos Aires,played,FRG,de,https://flagcdn.com/w80/de.png,POL,pl,https://flagcdn.com/w80/pl.png
+1978,Group 2,1978-06-02,,,Tunisia,Mexico,3,1,,Estadio Gigante de Arroyito,Rosario,played,TUN,tn,https://flagcdn.com/w80/tn.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1978,Group 2,1978-06-06,,,Poland,Tunisia,1,0,,Estadio Gigante de Arroyito,Rosario,played,POL,pl,https://flagcdn.com/w80/pl.png,TUN,tn,https://flagcdn.com/w80/tn.png
+1978,Group 2,1978-06-06,,,West Germany,Mexico,6,0,,Estadio Chateau Carreras,Córdoba,played,FRG,de,https://flagcdn.com/w80/de.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1978,Group 2,1978-06-10,,,Poland,Mexico,3,1,,Estadio Gigante de Arroyito,Rosario,played,POL,pl,https://flagcdn.com/w80/pl.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1978,Group 2,1978-06-10,,,West Germany,Tunisia,0,0,,Estadio Olímpico Chateau Carreras,Córdoba,played,FRG,de,https://flagcdn.com/w80/de.png,TUN,tn,https://flagcdn.com/w80/tn.png
+1978,Group 3,1978-06-03,,,Austria,Spain,2,1,,Estadio José Amalfitani,Buenos Aires,played,AUT,at,https://flagcdn.com/w80/at.png,ESP,es,https://flagcdn.com/w80/es.png
+1978,Group 3,1978-06-03,,,Brazil,Sweden,1,1,,Estadio José Maria Minella,Mar del Plata,played,BRA,br,https://flagcdn.com/w80/br.png,SWE,se,https://flagcdn.com/w80/se.png
+1978,Group 3,1978-06-07,,,Austria,Sweden,1,0,,Estadio José Amalfitani,Buenos Aires,played,AUT,at,https://flagcdn.com/w80/at.png,SWE,se,https://flagcdn.com/w80/se.png
+1978,Group 3,1978-06-07,,,Brazil,Spain,0,0,,Estadio José Maria Minella,Mar del Plata,played,BRA,br,https://flagcdn.com/w80/br.png,ESP,es,https://flagcdn.com/w80/es.png
+1978,Group 3,1978-06-11,,,Spain,Sweden,1,0,,Estadio José Amalfitani,Buenos Aires,played,ESP,es,https://flagcdn.com/w80/es.png,SWE,se,https://flagcdn.com/w80/se.png
+1978,Group 3,1978-06-11,,,Brazil,Austria,1,0,,Estadio José Maria Minella,Mar del Plata,played,BRA,br,https://flagcdn.com/w80/br.png,AUT,at,https://flagcdn.com/w80/at.png
+1978,Group 4,1978-06-03,,,Peru,Scotland,3,1,,Estadio Chateau Carreras,Córdoba,played,PER,pe,https://flagcdn.com/w80/pe.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1978,Group 4,1978-06-03,,,Netherlands,Iran,3,0,,Estadio Ciudad de Mendoza,Mendoza,played,NED,nl,https://flagcdn.com/w80/nl.png,IRN,ir,https://flagcdn.com/w80/ir.png
+1978,Group 4,1978-06-07,,,Scotland,Iran,1,1,,Estadio Chateau Carreras,Córdoba,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,IRN,ir,https://flagcdn.com/w80/ir.png
+1978,Group 4,1978-06-07,,,Netherlands,Peru,0,0,,Estadio Ciudad de Mendoza,Mendoza,played,NED,nl,https://flagcdn.com/w80/nl.png,PER,pe,https://flagcdn.com/w80/pe.png
+1978,Group 4,1978-06-11,,,Peru,Iran,4,1,,Estadio Chateau Carreras,Córdoba,played,PER,pe,https://flagcdn.com/w80/pe.png,IRN,ir,https://flagcdn.com/w80/ir.png
+1978,Group 4,1978-06-11,,,Scotland,Netherlands,3,2,,Estadio Ciudad de Mendoza,Mendoza,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,NED,nl,https://flagcdn.com/w80/nl.png
+1978,Group A,1978-06-14,,,Italy,West Germany,0,0,,Estadio Monumental,Buenos Aires,played,ITA,it,https://flagcdn.com/w80/it.png,FRG,de,https://flagcdn.com/w80/de.png
+1978,Group A,1978-06-14,,,Austria,Netherlands,1,5,,Estadio Chateau Carreras,Córdoba,played,AUT,at,https://flagcdn.com/w80/at.png,NED,nl,https://flagcdn.com/w80/nl.png
+1978,Group A,1978-06-18,,,Italy,Austria,1,0,,Estadio Monumental,Buenos Aires,played,ITA,it,https://flagcdn.com/w80/it.png,AUT,at,https://flagcdn.com/w80/at.png
+1978,Group A,1978-06-18,,,Netherlands,West Germany,2,2,,Estadio Chateau Carreras,Córdoba,played,NED,nl,https://flagcdn.com/w80/nl.png,FRG,de,https://flagcdn.com/w80/de.png
+1978,Group A,1978-06-21,,,Italy,Netherlands,1,2,,Estadio Monumental,Buenos Aires,played,ITA,it,https://flagcdn.com/w80/it.png,NED,nl,https://flagcdn.com/w80/nl.png
+1978,Group A,1978-06-21,,,Austria,West Germany,3,2,,Estadio Chateau Carreras,Córdoba,played,AUT,at,https://flagcdn.com/w80/at.png,FRG,de,https://flagcdn.com/w80/de.png
+1978,Group B,1978-06-14,,,Argentina,Poland,2,0,,Estadio Gigante de Arroyito,Rosario,played,ARG,ar,https://flagcdn.com/w80/ar.png,POL,pl,https://flagcdn.com/w80/pl.png
+1978,Group B,1978-06-14,,,Peru,Brazil,0,3,,Estadio Ciudad de Mendoza,Mendoza,played,PER,pe,https://flagcdn.com/w80/pe.png,BRA,br,https://flagcdn.com/w80/br.png
+1978,Group B,1978-06-18,,,Argentina,Brazil,0,0,,Estadio Gigante de Arroyito,Rosario,played,ARG,ar,https://flagcdn.com/w80/ar.png,BRA,br,https://flagcdn.com/w80/br.png
+1978,Group B,1978-06-18,,,Peru,Poland,0,1,,Estadio Ciudad de Mendoza,Mendoza,played,PER,pe,https://flagcdn.com/w80/pe.png,POL,pl,https://flagcdn.com/w80/pl.png
+1978,Group B,1978-06-21,,,Argentina,Peru,6,0,,Estadio Gigante de Arroyito,Rosario,played,ARG,ar,https://flagcdn.com/w80/ar.png,PER,pe,https://flagcdn.com/w80/pe.png
+1978,Group B,1978-06-21,,,Poland,Brazil,1,3,,Estadio Ciudad de Mendoza,Mendoza,played,POL,pl,https://flagcdn.com/w80/pl.png,BRA,br,https://flagcdn.com/w80/br.png
+1978,Third place match,1978-06-24,,,Brazil,Italy,2,1,,Estadio Monumental,Buenos Aires,played,BRA,br,https://flagcdn.com/w80/br.png,ITA,it,https://flagcdn.com/w80/it.png
+1978,Final,1978-06-25,,,Netherlands,Argentina,1,3,a.e.t. (1-1),Estadio Monumental,Buenos Aires,played,NED,nl,https://flagcdn.com/w80/nl.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1982,Group 1,1982-06-14,,,Italy,Poland,0,0,,Balaídos,Vigo,played,ITA,it,https://flagcdn.com/w80/it.png,POL,pl,https://flagcdn.com/w80/pl.png
+1982,Group 1,1982-06-15,,,Peru,Cameroon,0,0,,Estadio de Riazor,A Coruña,played,PER,pe,https://flagcdn.com/w80/pe.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1982,Group 1,1982-06-18,,,Italy,Peru,1,1,,Balaídos,Vigo,played,ITA,it,https://flagcdn.com/w80/it.png,PER,pe,https://flagcdn.com/w80/pe.png
+1982,Group 1,1982-06-19,,,Poland,Cameroon,0,0,,Estadio de Riazor,A Coruña,played,POL,pl,https://flagcdn.com/w80/pl.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1982,Group 1,1982-06-22,,,Poland,Peru,5,1,,Estadio de Riazor,A Coruña,played,POL,pl,https://flagcdn.com/w80/pl.png,PER,pe,https://flagcdn.com/w80/pe.png
+1982,Group 1,1982-06-23,,,Italy,Cameroon,1,1,,Balaídos,Vigo,played,ITA,it,https://flagcdn.com/w80/it.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1982,Group 2,1982-06-16,,,West Germany,Algeria,1,2,,El Molinón,Gijón,played,FRG,de,https://flagcdn.com/w80/de.png,ALG,dz,https://flagcdn.com/w80/dz.png
+1982,Group 2,1982-06-17,,,Chile,Austria,0,1,,Estadio Carlos Tartiere,Oviedo,played,CHI,cl,https://flagcdn.com/w80/cl.png,AUT,at,https://flagcdn.com/w80/at.png
+1982,Group 2,1982-06-20,,,West Germany,Chile,4,1,,El Molinón,Gijón,played,FRG,de,https://flagcdn.com/w80/de.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1982,Group 2,1982-06-21,,,Algeria,Austria,0,2,,Estadio Carlos Tartiere,Oviedo,played,ALG,dz,https://flagcdn.com/w80/dz.png,AUT,at,https://flagcdn.com/w80/at.png
+1982,Group 2,1982-06-24,,,Algeria,Chile,3,2,,Estadio Carlos Tartiere,Oviedo,played,ALG,dz,https://flagcdn.com/w80/dz.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1982,Group 2,1982-06-25,,,West Germany,Austria,1,0,,El Molinón,Gijón,played,FRG,de,https://flagcdn.com/w80/de.png,AUT,at,https://flagcdn.com/w80/at.png
+1982,Group 3,1982-06-13,,,Argentina,Belgium,0,1,,Camp Nou,Barcelona,played,ARG,ar,https://flagcdn.com/w80/ar.png,BEL,be,https://flagcdn.com/w80/be.png
+1982,Group 3,1982-06-15,,,Hungary,El Salvador,10,1,,Nuevo Estadio,Elche,played,HUN,hu,https://flagcdn.com/w80/hu.png,SLV,sv,https://flagcdn.com/w80/sv.png
+1982,Group 3,1982-06-18,,,Argentina,Hungary,4,1,,Estadio José Rico Pérez,Alicante,played,ARG,ar,https://flagcdn.com/w80/ar.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1982,Group 3,1982-06-19,,,Belgium,El Salvador,1,0,,Nuevo Estadio,Elche,played,BEL,be,https://flagcdn.com/w80/be.png,SLV,sv,https://flagcdn.com/w80/sv.png
+1982,Group 3,1982-06-22,,,Belgium,Hungary,1,1,,Nuevo Estadio,Elche,played,BEL,be,https://flagcdn.com/w80/be.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1982,Group 3,1982-06-23,,,Argentina,El Salvador,2,0,,Estadio José Rico Pérez,Alicante,played,ARG,ar,https://flagcdn.com/w80/ar.png,SLV,sv,https://flagcdn.com/w80/sv.png
+1982,Group 4,1982-06-16,,,England,France,3,1,,Estadio San Mamés,Bilbao,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1982,Group 4,1982-06-17,,,Czechoslovakia,Kuwait,1,1,,Estadio José Zorrilla,Valladolid,played,TCH,cz,https://flagcdn.com/w80/cz.png,KUW,kw,https://flagcdn.com/w80/kw.png
+1982,Group 4,1982-06-20,,,England,Czechoslovakia,2,0,,Estadio San Mamés,Bilbao,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1982,Group 4,1982-06-21,,,France,Kuwait,4,1,,Estadio José Zorrilla,Valladolid,played,FRA,fr,https://flagcdn.com/w80/fr.png,KUW,kw,https://flagcdn.com/w80/kw.png
+1982,Group 4,1982-06-24,,,France,Czechoslovakia,1,1,,Estadio José Zorrilla,Valladolid,played,FRA,fr,https://flagcdn.com/w80/fr.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1982,Group 4,1982-06-25,,,England,Kuwait,1,0,,Estadio San Mamés,Bilbao,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,KUW,kw,https://flagcdn.com/w80/kw.png
+1982,Group 5,1982-06-16,,,Spain,Honduras,1,1,,Estadio Luis Casanova,Valencia,played,ESP,es,https://flagcdn.com/w80/es.png,HON,hn,https://flagcdn.com/w80/hn.png
+1982,Group 5,1982-06-17,,,Yugoslavia,Northern Ireland,0,0,,La Romareda,Zaragoza,played,YUG,rs,https://flagcdn.com/w80/rs.png,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1982,Group 5,1982-06-20,,,Spain,Yugoslavia,2,1,,Estadio Luis Casanova,Valencia,played,ESP,es,https://flagcdn.com/w80/es.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1982,Group 5,1982-06-21,,,Honduras,Northern Ireland,1,1,,La Romareda,Zaragoza,played,HON,hn,https://flagcdn.com/w80/hn.png,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1982,Group 5,1982-06-24,,,Honduras,Yugoslavia,0,1,,La Romareda,Zaragoza,played,HON,hn,https://flagcdn.com/w80/hn.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1982,Group 5,1982-06-25,,,Spain,Northern Ireland,0,1,,Estadio Luis Casanova,Valencia,played,ESP,es,https://flagcdn.com/w80/es.png,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1982,Group 6,1982-06-14,,,Brazil,Soviet Union,2,1,,Estadio Ramón Sánchez Pizjuán,Seville,played,BRA,br,https://flagcdn.com/w80/br.png,URS,ru,https://flagcdn.com/w80/ru.png
+1982,Group 6,1982-06-15,,,Scotland,New Zealand,5,2,,Estadio La Rosaleda,Málaga,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,NZL,nz,https://flagcdn.com/w80/nz.png
+1982,Group 6,1982-06-18,,,Brazil,Scotland,4,1,,Estadio Benito Villamarín,Seville,played,BRA,br,https://flagcdn.com/w80/br.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1982,Group 6,1982-06-19,,,Soviet Union,New Zealand,3,0,,Estadio La Rosaleda,Málaga,played,URS,ru,https://flagcdn.com/w80/ru.png,NZL,nz,https://flagcdn.com/w80/nz.png
+1982,Group 6,1982-06-22,,,Soviet Union,Scotland,2,2,,Estadio La Rosaleda,Málaga,played,URS,ru,https://flagcdn.com/w80/ru.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1982,Group 6,1982-06-23,,,Brazil,New Zealand,4,0,,Estadio Benito Villamarín,Seville,played,BRA,br,https://flagcdn.com/w80/br.png,NZL,nz,https://flagcdn.com/w80/nz.png
+1982,Group A,1982-06-28,,,Poland,Belgium,3,0,,Camp Nou,Barcelona,played,POL,pl,https://flagcdn.com/w80/pl.png,BEL,be,https://flagcdn.com/w80/be.png
+1982,Group A,1982-07-01,,,Belgium,Soviet Union,0,1,,Camp Nou,Barcelona,played,BEL,be,https://flagcdn.com/w80/be.png,URS,ru,https://flagcdn.com/w80/ru.png
+1982,Group A,1982-07-04,,,Soviet Union,Poland,0,0,,Camp Nou,Barcelona,played,URS,ru,https://flagcdn.com/w80/ru.png,POL,pl,https://flagcdn.com/w80/pl.png
+1982,Group B,1982-06-29,,,West Germany,England,0,0,,Estadio Santiago Bernabéu,Madrid,played,FRG,de,https://flagcdn.com/w80/de.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1982,Group B,1982-07-02,,,West Germany,Spain,2,1,,Estadio Santiago Bernabéu,Madrid,played,FRG,de,https://flagcdn.com/w80/de.png,ESP,es,https://flagcdn.com/w80/es.png
+1982,Group B,1982-07-05,,,Spain,England,0,0,,Estadio Santiago Bernabéu,Madrid,played,ESP,es,https://flagcdn.com/w80/es.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1982,Group C,1982-06-29,,,Italy,Argentina,2,1,,Estadio Sarriá,Barcelona,played,ITA,it,https://flagcdn.com/w80/it.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1982,Group C,1982-07-02,,,Argentina,Brazil,1,3,,Estadio Sarriá,Barcelona,played,ARG,ar,https://flagcdn.com/w80/ar.png,BRA,br,https://flagcdn.com/w80/br.png
+1982,Group C,1982-07-05,,,Italy,Brazil,3,2,,Estadio Sarriá,Barcelona,played,ITA,it,https://flagcdn.com/w80/it.png,BRA,br,https://flagcdn.com/w80/br.png
+1982,Group D,1982-06-28,,,Austria,France,0,1,,Estadio Vicente Calderón,Madrid,played,AUT,at,https://flagcdn.com/w80/at.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1982,Group D,1982-07-01,,,Austria,Northern Ireland,2,2,,Estadio Vicente Calderón,Madrid,played,AUT,at,https://flagcdn.com/w80/at.png,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1982,Group D,1982-07-04,,,Northern Ireland,France,1,4,,Estadio Vicente Calderón,Madrid,played,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1982,Semi-finals,1982-07-08,,,Poland,Italy,0,2,,Camp Nou,Barcelona,played,POL,pl,https://flagcdn.com/w80/pl.png,ITA,it,https://flagcdn.com/w80/it.png
+1982,Semi-finals,1982-07-08,,,West Germany,France,3,3,a.e.t. (1-1) 5-4 pen.,Estadio Ramón Sánchez Pizjuán,Seville,played,FRG,de,https://flagcdn.com/w80/de.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1982,Third place match,1982-07-10,,,Poland,France,3,2,,Estadio José Rico Pérez,Alicante,played,POL,pl,https://flagcdn.com/w80/pl.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1982,Final,1982-07-11,,,Italy,West Germany,3,1,,Estadio Santiago Bernabéu,,played,ITA,it,https://flagcdn.com/w80/it.png,FRG,de,https://flagcdn.com/w80/de.png
+1986,Group A,1986-05-31,,,Bulgaria,Italy,1,1,,Estadio Azteca,Mexico City,played,BUL,bg,https://flagcdn.com/w80/bg.png,ITA,it,https://flagcdn.com/w80/it.png
+1986,Group A,1986-06-02,,,Argentina,South Korea,3,1,,Estadio Olímpico Universitario,Mexico City,played,ARG,ar,https://flagcdn.com/w80/ar.png,KOR,kr,https://flagcdn.com/w80/kr.png
+1986,Group A,1986-06-05,,,Italy,Argentina,1,1,,Estadio Cuauhtémoc,Puebla,played,ITA,it,https://flagcdn.com/w80/it.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1986,Group A,1986-06-05,,,South Korea,Bulgaria,1,1,,Estadio Olímpico Universitario,Mexico City,played,KOR,kr,https://flagcdn.com/w80/kr.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1986,Group A,1986-06-10,,,South Korea,Italy,2,3,,Estadio Cuauhtémoc,Puebla,played,KOR,kr,https://flagcdn.com/w80/kr.png,ITA,it,https://flagcdn.com/w80/it.png
+1986,Group A,1986-06-10,,,Argentina,Bulgaria,2,0,,Estadio Olímpico Universitario,Mexico City,played,ARG,ar,https://flagcdn.com/w80/ar.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1986,Group B,1986-06-03,,,Belgium,Mexico,1,2,,Estadio Azteca,Mexico City,played,BEL,be,https://flagcdn.com/w80/be.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1986,Group B,1986-06-04,,,Paraguay,Iraq,1,0,,Estadio Nemesio Díez,Toluca,played,PAR,py,https://flagcdn.com/w80/py.png,IRQ,iq,https://flagcdn.com/w80/iq.png
+1986,Group B,1986-06-07,,,Mexico,Paraguay,1,1,,Estadio Azteca,Mexico City,played,MEX,mx,https://flagcdn.com/w80/mx.png,PAR,py,https://flagcdn.com/w80/py.png
+1986,Group B,1986-06-08,,,Iraq,Belgium,1,2,,Estadio Nemesio Díez,Toluca,played,IRQ,iq,https://flagcdn.com/w80/iq.png,BEL,be,https://flagcdn.com/w80/be.png
+1986,Group B,1986-06-11,,,Iraq,Mexico,0,1,,Estadio Azteca,Mexico City,played,IRQ,iq,https://flagcdn.com/w80/iq.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1986,Group B,1986-06-11,,,Paraguay,Belgium,2,2,,Estadio Nemesio Díez,Toluca,played,PAR,py,https://flagcdn.com/w80/py.png,BEL,be,https://flagcdn.com/w80/be.png
+1986,Group C,1986-06-01,,,Canada,France,0,1,,Estadio Nou Camp,León,played,CAN,ca,https://flagcdn.com/w80/ca.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1986,Group C,1986-06-02,,,Soviet Union,Hungary,6,0,,Estadio Sergio León Chavez,Irapuato,played,URS,ru,https://flagcdn.com/w80/ru.png,HUN,hu,https://flagcdn.com/w80/hu.png
+1986,Group C,1986-06-05,,,France,Soviet Union,1,1,,Estadio Nou Camp,León,played,FRA,fr,https://flagcdn.com/w80/fr.png,URS,ru,https://flagcdn.com/w80/ru.png
+1986,Group C,1986-06-06,,,Hungary,Canada,2,0,,Estadio Sergio León Chavez,Irapuato,played,HUN,hu,https://flagcdn.com/w80/hu.png,CAN,ca,https://flagcdn.com/w80/ca.png
+1986,Group C,1986-06-09,,,Hungary,France,0,3,,Estadio Nou Camp,León,played,HUN,hu,https://flagcdn.com/w80/hu.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1986,Group C,1986-06-09,,,Soviet Union,Canada,2,0,,Estadio Sergio León Chavez,Irapuato,played,URS,ru,https://flagcdn.com/w80/ru.png,CAN,ca,https://flagcdn.com/w80/ca.png
+1986,Group D,1986-06-01,,,Spain,Brazil,0,1,,Estadio Jalisco,Guadalajara,played,ESP,es,https://flagcdn.com/w80/es.png,BRA,br,https://flagcdn.com/w80/br.png
+1986,Group D,1986-06-03,,,Algeria,Northern Ireland,1,1,,Estadio Tres de Marzo,Guadalajara,played,ALG,dz,https://flagcdn.com/w80/dz.png,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1986,Group D,1986-06-06,,,Brazil,Algeria,1,0,,Estadio Jalisco,Guadalajara,played,BRA,br,https://flagcdn.com/w80/br.png,ALG,dz,https://flagcdn.com/w80/dz.png
+1986,Group D,1986-06-07,,,Northern Ireland,Spain,1,2,,Estadio Tres de Marzo,Guadalajara,played,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png,ESP,es,https://flagcdn.com/w80/es.png
+1986,Group D,1986-06-12,,,Northern Ireland,Brazil,0,3,,Estadio Jalisco,Guadalajara,played,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png,BRA,br,https://flagcdn.com/w80/br.png
+1986,Group D,1986-06-12,,,Algeria,Spain,0,3,,Estadio Tecnológico,Monterrey,played,ALG,dz,https://flagcdn.com/w80/dz.png,ESP,es,https://flagcdn.com/w80/es.png
+1986,Group E,1986-06-04,,,Uruguay,West Germany,1,1,,Estadio La Corregidora,Querétaro,played,URU,uy,https://flagcdn.com/w80/uy.png,FRG,de,https://flagcdn.com/w80/de.png
+1986,Group E,1986-06-04,,,Scotland,Denmark,0,1,,Estadio Neza 86,Nezahualcóyotl,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,DEN,dk,https://flagcdn.com/w80/dk.png
+1986,Group E,1986-06-08,,,West Germany,Scotland,2,1,,Estadio La Corregidora,Querétaro,played,FRG,de,https://flagcdn.com/w80/de.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1986,Group E,1986-06-08,,,Denmark,Uruguay,6,1,,Estadio Neza 86,Nezahualcóyotl,played,DEN,dk,https://flagcdn.com/w80/dk.png,URU,uy,https://flagcdn.com/w80/uy.png
+1986,Group E,1986-06-13,,,Denmark,West Germany,2,0,,Estadio La Corregidora,Querétaro,played,DEN,dk,https://flagcdn.com/w80/dk.png,FRG,de,https://flagcdn.com/w80/de.png
+1986,Group E,1986-06-13,,,Scotland,Uruguay,0,0,,Estadio Neza 86,Nezahualcóyotl,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,URU,uy,https://flagcdn.com/w80/uy.png
+1986,Group F,1986-06-02,,,Morocco,Poland,0,0,,Estadio Universitario,Monterrey,played,MAR,ma,https://flagcdn.com/w80/ma.png,POL,pl,https://flagcdn.com/w80/pl.png
+1986,Group F,1986-06-03,,,Portugal,England,1,0,,Estadio Tecnológico,Monterrey,played,POR,pt,https://flagcdn.com/w80/pt.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1986,Group F,1986-06-06,,,England,Morocco,0,0,,Estadio Tecnológico,Monterrey,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,MAR,ma,https://flagcdn.com/w80/ma.png
+1986,Group F,1986-06-07,,,Poland,Portugal,1,0,,Estadio Universitario,Monterrey,played,POL,pl,https://flagcdn.com/w80/pl.png,POR,pt,https://flagcdn.com/w80/pt.png
+1986,Group F,1986-06-11,,,Portugal,Morocco,1,3,,Estadio Tres de Marzo,Guadalajara,played,POR,pt,https://flagcdn.com/w80/pt.png,MAR,ma,https://flagcdn.com/w80/ma.png
+1986,Group F,1986-06-11,,,England,Poland,3,0,,Estadio Tecnológico,Monterrey,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,POL,pl,https://flagcdn.com/w80/pl.png
+1986,Round of 16,1986-06-15,,,Mexico,Bulgaria,2,0,,Estadio Azteca,Mexico City,played,MEX,mx,https://flagcdn.com/w80/mx.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1986,Round of 16,1986-06-15,,,Soviet Union,Belgium,3,4,a.e.t. (2-2),Estadio Nou Camp,León,played,URS,ru,https://flagcdn.com/w80/ru.png,BEL,be,https://flagcdn.com/w80/be.png
+1986,Round of 16,1986-06-16,,,Argentina,Uruguay,1,0,,Estadio Cuauhtémoc,Puebla,played,ARG,ar,https://flagcdn.com/w80/ar.png,URU,uy,https://flagcdn.com/w80/uy.png
+1986,Round of 16,1986-06-16,,,Brazil,Poland,4,0,,Estadio Jalisco,Guadalajara,played,BRA,br,https://flagcdn.com/w80/br.png,POL,pl,https://flagcdn.com/w80/pl.png
+1986,Round of 16,1986-06-17,,,Italy,France,0,2,,Estadio Olímpico Universitario,Mexico City,played,ITA,it,https://flagcdn.com/w80/it.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1986,Round of 16,1986-06-17,,,Morocco,West Germany,0,1,,Estadio Universitario,Monterrey,played,MAR,ma,https://flagcdn.com/w80/ma.png,FRG,de,https://flagcdn.com/w80/de.png
+1986,Round of 16,1986-06-18,,,England,Paraguay,3,0,,Estadio Azteca,Mexico City,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,PAR,py,https://flagcdn.com/w80/py.png
+1986,Round of 16,1986-06-18,,,Denmark,Spain,1,5,,Estadio La Corregidora,Querétaro,played,DEN,dk,https://flagcdn.com/w80/dk.png,ESP,es,https://flagcdn.com/w80/es.png
+1986,Quarter-finals,1986-06-21,,,Brazil,France,1,1,a.e.t. (1-1) 3-4 pen.,Estadio Jalisco,Guadalajara,played,BRA,br,https://flagcdn.com/w80/br.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1986,Quarter-finals,1986-06-21,,,West Germany,Mexico,0,0,a.e.t. (0-0) 4-1 pen.,Estadio Universitario,Monterrey,played,FRG,de,https://flagcdn.com/w80/de.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1986,Quarter-finals,1986-06-22,,,Spain,Belgium,1,1,a.e.t. (1-1) 4-5 pen.,Estadio Cuauhtémoc,Puebla,played,ESP,es,https://flagcdn.com/w80/es.png,BEL,be,https://flagcdn.com/w80/be.png
+1986,Quarter-finals,1986-06-22,,,Argentina,England,2,1,,Estadio Azteca,Mexico City,played,ARG,ar,https://flagcdn.com/w80/ar.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1986,Semi-finals,1986-06-25,,,Argentina,Belgium,2,0,,Estadio Azteca,Mexico City,played,ARG,ar,https://flagcdn.com/w80/ar.png,BEL,be,https://flagcdn.com/w80/be.png
+1986,Semi-finals,1986-06-25,,,France,West Germany,0,2,,Estadio Jalisco,Guadalajara,played,FRA,fr,https://flagcdn.com/w80/fr.png,FRG,de,https://flagcdn.com/w80/de.png
+1986,Third place match,1986-06-28,,,France,Belgium,4,2,a.e.t. (2-2),Estadio Cuauhtémoc,Puebla,played,FRA,fr,https://flagcdn.com/w80/fr.png,BEL,be,https://flagcdn.com/w80/be.png
+1986,Final,1986-06-29,,,Argentina,West Germany,3,2,,Estadio Azteca,Mexico City,played,ARG,ar,https://flagcdn.com/w80/ar.png,FRG,de,https://flagcdn.com/w80/de.png
+1990,Group A,1990-06-09,,,Italy,Austria,1,0,,Stadio Olimpico,Rome,played,ITA,it,https://flagcdn.com/w80/it.png,AUT,at,https://flagcdn.com/w80/at.png
+1990,Group A,1990-06-10,,,United States,Czechoslovakia,1,5,,Stadio Comunale,Florence,played,USA,us,https://flagcdn.com/w80/us.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1990,Group A,1990-06-14,,,Italy,United States,1,0,,Stadio Olimpico,Rome,played,ITA,it,https://flagcdn.com/w80/it.png,USA,us,https://flagcdn.com/w80/us.png
+1990,Group A,1990-06-15,,,Austria,Czechoslovakia,0,1,,Stadio Comunale,Florence,played,AUT,at,https://flagcdn.com/w80/at.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1990,Group A,1990-06-19,,,Italy,Czechoslovakia,2,0,,Stadio Olimpico,Rome,played,ITA,it,https://flagcdn.com/w80/it.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1990,Group A,1990-06-19,,,Austria,United States,2,1,,Stadio Comunale,Florence,played,AUT,at,https://flagcdn.com/w80/at.png,USA,us,https://flagcdn.com/w80/us.png
+1990,Group B,1990-06-08,,,Argentina,Cameroon,0,1,,San Siro,Milan,played,ARG,ar,https://flagcdn.com/w80/ar.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1990,Group B,1990-06-09,,,Soviet Union,Romania,0,2,,Stadio San Nicola,Bari,played,URS,ru,https://flagcdn.com/w80/ru.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1990,Group B,1990-06-13,,,Argentina,Soviet Union,2,0,,Stadio San Paolo,Naples,played,ARG,ar,https://flagcdn.com/w80/ar.png,URS,ru,https://flagcdn.com/w80/ru.png
+1990,Group B,1990-06-14,,,Cameroon,Romania,2,1,,Stadio San Nicola,Bari,played,CMR,cm,https://flagcdn.com/w80/cm.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1990,Group B,1990-06-18,,,Argentina,Romania,1,1,,Stadio San Paolo,Naples,played,ARG,ar,https://flagcdn.com/w80/ar.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1990,Group B,1990-06-18,,,Cameroon,Soviet Union,0,4,,Stadio San Nicola,Bari,played,CMR,cm,https://flagcdn.com/w80/cm.png,URS,ru,https://flagcdn.com/w80/ru.png
+1990,Group C,1990-06-10,,,Brazil,Sweden,2,1,,Stadio Delle Alpi,Turin,played,BRA,br,https://flagcdn.com/w80/br.png,SWE,se,https://flagcdn.com/w80/se.png
+1990,Group C,1990-06-11,,,Costa Rica,Scotland,1,0,,Stadio Luigi Ferraris,Genoa,played,CRC,cr,https://flagcdn.com/w80/cr.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1990,Group C,1990-06-16,,,Brazil,Costa Rica,1,0,,Stadio Delle Alpi,Turin,played,BRA,br,https://flagcdn.com/w80/br.png,CRC,cr,https://flagcdn.com/w80/cr.png
+1990,Group C,1990-06-16,,,Sweden,Scotland,1,2,,Stadio Luigi Ferraris,Genoa,played,SWE,se,https://flagcdn.com/w80/se.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1990,Group C,1990-06-20,,,Brazil,Scotland,1,0,,Stadio Delle Alpi,Turin,played,BRA,br,https://flagcdn.com/w80/br.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1990,Group C,1990-06-20,,,Sweden,Costa Rica,1,2,,Stadio Luigi Ferraris,Genoa,played,SWE,se,https://flagcdn.com/w80/se.png,CRC,cr,https://flagcdn.com/w80/cr.png
+1990,Group D,1990-06-09,,,United Arab Emirates,Colombia,0,2,,Stadio Renato Dall'Ara,Bologna,played,UAE,ae,https://flagcdn.com/w80/ae.png,COL,co,https://flagcdn.com/w80/co.png
+1990,Group D,1990-06-10,,,West Germany,Yugoslavia,4,1,,San Siro,Milan,played,FRG,de,https://flagcdn.com/w80/de.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1990,Group D,1990-06-14,,,Yugoslavia,Colombia,1,0,,Stadio Renato Dall'Ara,Bologna,played,YUG,rs,https://flagcdn.com/w80/rs.png,COL,co,https://flagcdn.com/w80/co.png
+1990,Group D,1990-06-15,,,West Germany,United Arab Emirates,5,1,,San Siro,Milan,played,FRG,de,https://flagcdn.com/w80/de.png,UAE,ae,https://flagcdn.com/w80/ae.png
+1990,Group D,1990-06-19,,,West Germany,Colombia,1,1,,San Siro,Milan,played,FRG,de,https://flagcdn.com/w80/de.png,COL,co,https://flagcdn.com/w80/co.png
+1990,Group D,1990-06-19,,,Yugoslavia,United Arab Emirates,4,1,,Stadio Renato Dall'Ara,Bologna,played,YUG,rs,https://flagcdn.com/w80/rs.png,UAE,ae,https://flagcdn.com/w80/ae.png
+1990,Group E,1990-06-12,,,Belgium,South Korea,2,0,,Stadio Marc'Antonio Bentegodi,Verona,played,BEL,be,https://flagcdn.com/w80/be.png,KOR,kr,https://flagcdn.com/w80/kr.png
+1990,Group E,1990-06-13,,,Uruguay,Spain,0,0,,Stadio Friuli,Udine,played,URU,uy,https://flagcdn.com/w80/uy.png,ESP,es,https://flagcdn.com/w80/es.png
+1990,Group E,1990-06-17,,,Belgium,Uruguay,3,1,,Stadio Marc'Antonio Bentegodi,Verona,played,BEL,be,https://flagcdn.com/w80/be.png,URU,uy,https://flagcdn.com/w80/uy.png
+1990,Group E,1990-06-17,,,South Korea,Spain,1,3,,Stadio Friuli,Udine,played,KOR,kr,https://flagcdn.com/w80/kr.png,ESP,es,https://flagcdn.com/w80/es.png
+1990,Group E,1990-06-21,,,Belgium,Spain,1,2,,Stadio Marc'Antonio Bentegodi,Verona,played,BEL,be,https://flagcdn.com/w80/be.png,ESP,es,https://flagcdn.com/w80/es.png
+1990,Group E,1990-06-21,,,South Korea,Uruguay,0,1,,Stadio Friuli,Udine,played,KOR,kr,https://flagcdn.com/w80/kr.png,URU,uy,https://flagcdn.com/w80/uy.png
+1990,Group F,1990-06-11,,,England,Ireland,1,1,,Stadio Sant'Elia,Cagliari,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,IRL,ie,https://flagcdn.com/w80/ie.png
+1990,Group F,1990-06-12,,,Netherlands,Egypt,1,1,,Stadio La Favorita,Palermo,played,NED,nl,https://flagcdn.com/w80/nl.png,EGY,eg,https://flagcdn.com/w80/eg.png
+1990,Group F,1990-06-16,,,England,Netherlands,0,0,,Stadio Sant'Elia,Cagliari,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,NED,nl,https://flagcdn.com/w80/nl.png
+1990,Group F,1990-06-17,,,Ireland,Egypt,0,0,,Stadio La Favorita,Palermo,played,IRL,ie,https://flagcdn.com/w80/ie.png,EGY,eg,https://flagcdn.com/w80/eg.png
+1990,Group F,1990-06-21,,,England,Egypt,1,0,,Stadio Sant'Elia,Cagliari,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,EGY,eg,https://flagcdn.com/w80/eg.png
+1990,Group F,1990-06-21,,,Ireland,Netherlands,1,1,,Stadio La Favorita,Palermo,played,IRL,ie,https://flagcdn.com/w80/ie.png,NED,nl,https://flagcdn.com/w80/nl.png
+1990,Round of 16,1990-06-23,,,Cameroon,Colombia,2,1,a.e.t. (0-0),Stadio San Paolo,Naples,played,CMR,cm,https://flagcdn.com/w80/cm.png,COL,co,https://flagcdn.com/w80/co.png
+1990,Round of 16,1990-06-23,,,Czechoslovakia,Costa Rica,4,1,,Stadio San Nicola,Bari,played,TCH,cz,https://flagcdn.com/w80/cz.png,CRC,cr,https://flagcdn.com/w80/cr.png
+1990,Round of 16,1990-06-24,,,Brazil,Argentina,0,1,,Stadio Delle Alpi,Turin,played,BRA,br,https://flagcdn.com/w80/br.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1990,Round of 16,1990-06-24,,,West Germany,Netherlands,2,1,,San Siro,Milan,played,FRG,de,https://flagcdn.com/w80/de.png,NED,nl,https://flagcdn.com/w80/nl.png
+1990,Round of 16,1990-06-25,,,Ireland,Romania,0,0,a.e.t. (0-0) 5-4 pen.,Stadio Luigi Ferraris,Genoa,played,IRL,ie,https://flagcdn.com/w80/ie.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1990,Round of 16,1990-06-25,,,Italy,Uruguay,2,0,,Stadio Olimpico,Rome,played,ITA,it,https://flagcdn.com/w80/it.png,URU,uy,https://flagcdn.com/w80/uy.png
+1990,Round of 16,1990-06-26,,,Spain,Yugoslavia,1,2,a.e.t. (1-1),Stadio Marc'Antonio Bentegodi,Verona,played,ESP,es,https://flagcdn.com/w80/es.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1990,Round of 16,1990-06-26,,,England,Belgium,1,0,a.e.t. (0-0),Stadio Renato Dall'Ara,Bologna,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,BEL,be,https://flagcdn.com/w80/be.png
+1990,Quarter-finals,1990-06-30,,,Yugoslavia,Argentina,0,0,a.e.t. (0-0) 2-3 pen.,Stadio Artemio Franchi,Florence,played,YUG,rs,https://flagcdn.com/w80/rs.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1990,Quarter-finals,1990-06-30,,,Italy,Ireland,1,0,,Stadio Olimpico,Rome,played,ITA,it,https://flagcdn.com/w80/it.png,IRL,ie,https://flagcdn.com/w80/ie.png
+1990,Quarter-finals,1990-07-01,,,West Germany,Czechoslovakia,1,0,,San Siro,Milan,played,FRG,de,https://flagcdn.com/w80/de.png,TCH,cz,https://flagcdn.com/w80/cz.png
+1990,Quarter-finals,1990-07-01,,,England,Cameroon,3,2,a.e.t. (2-2),Stadio San Paolo,Naples,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1990,Semi-finals,1990-07-03,,,Italy,Argentina,1,1,a.e.t. (1-1) 3-4 pen.,Stadio San Paolo,Naples,played,ITA,it,https://flagcdn.com/w80/it.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1990,Semi-finals,1990-07-04,,,West Germany,England,1,1,a.e.t. (1-1) 4-3 pen.,Stadio delle Alpi,Turin,played,FRG,de,https://flagcdn.com/w80/de.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1990,Third place match,1990-07-07,,,Italy,England,2,1,,Stadio San Nicola,Bari,played,ITA,it,https://flagcdn.com/w80/it.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1990,Final,1990-07-08,,,West Germany,Argentina,1,0,,Stadio Olimpico,Rome,played,FRG,de,https://flagcdn.com/w80/de.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1994,Group A,1994-06-18,,,USA,Switzerland,1,1,,Pontiac Silverdome,Pontiac,played,USA,us,https://flagcdn.com/w80/us.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1994,Group A,1994-06-18,,,Colombia,Romania,1,3,,Rose Bowl,Pasadena,played,COL,co,https://flagcdn.com/w80/co.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1994,Group A,1994-06-22,,,Romania,Switzerland,1,4,,Pontiac Silverdome,Pontiac,played,ROU,ro,https://flagcdn.com/w80/ro.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1994,Group A,1994-06-22,,,USA,Colombia,2,1,,Rose Bowl,Pasadena,played,USA,us,https://flagcdn.com/w80/us.png,COL,co,https://flagcdn.com/w80/co.png
+1994,Group A,1994-06-26,,,USA,Romania,0,1,,Rose Bowl,Pasadena,played,USA,us,https://flagcdn.com/w80/us.png,ROU,ro,https://flagcdn.com/w80/ro.png
+1994,Group A,1994-06-26,,,Switzerland,Colombia,0,2,,Stanford Stadium,Stanford,played,SUI,ch,https://flagcdn.com/w80/ch.png,COL,co,https://flagcdn.com/w80/co.png
+1994,Group B,1994-06-19,,,Cameroon,Sweden,2,2,,Rose Bowl,Pasadena,played,CMR,cm,https://flagcdn.com/w80/cm.png,SWE,se,https://flagcdn.com/w80/se.png
+1994,Group B,1994-06-20,,,Brazil,Russia,2,0,,Stanford Stadium,Stanford,played,BRA,br,https://flagcdn.com/w80/br.png,RUS,ru,https://flagcdn.com/w80/ru.png
+1994,Group B,1994-06-24,,,Brazil,Cameroon,3,0,,Stanford Stadium,Stanford,played,BRA,br,https://flagcdn.com/w80/br.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1994,Group B,1994-06-24,,,Sweden,Russia,3,1,,Pontiac Silverdome,Pontiac,played,SWE,se,https://flagcdn.com/w80/se.png,RUS,ru,https://flagcdn.com/w80/ru.png
+1994,Group B,1994-06-28,,,Russia,Cameroon,6,1,,Stanford Stadium,Stanford,played,RUS,ru,https://flagcdn.com/w80/ru.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1994,Group B,1994-06-28,,,Brazil,Sweden,1,1,,Pontiac Silverdome,Pontiac,played,BRA,br,https://flagcdn.com/w80/br.png,SWE,se,https://flagcdn.com/w80/se.png
+1994,Group C,1994-06-17,,,Germany,Bolivia,1,0,,Soldier Field,Chicago,played,GER,de,https://flagcdn.com/w80/de.png,BOL,bo,https://flagcdn.com/w80/bo.png
+1994,Group C,1994-06-17,,,Spain,South Korea,2,2,,Cotton Bowl,Dallas,played,ESP,es,https://flagcdn.com/w80/es.png,KOR,kr,https://flagcdn.com/w80/kr.png
+1994,Group C,1994-06-21,,,Germany,Spain,1,1,,Soldier Field,Chicago,played,GER,de,https://flagcdn.com/w80/de.png,ESP,es,https://flagcdn.com/w80/es.png
+1994,Group C,1994-06-23,,,South Korea,Bolivia,0,0,,Foxboro Stadium,Foxborough,played,KOR,kr,https://flagcdn.com/w80/kr.png,BOL,bo,https://flagcdn.com/w80/bo.png
+1994,Group C,1994-06-27,,,Bolivia,Spain,1,3,,Soldier Field,Chicago,played,BOL,bo,https://flagcdn.com/w80/bo.png,ESP,es,https://flagcdn.com/w80/es.png
+1994,Group C,1994-06-27,,,Germany,South Korea,3,2,,Cotton Bowl,Dallas,played,GER,de,https://flagcdn.com/w80/de.png,KOR,kr,https://flagcdn.com/w80/kr.png
+1994,Group D,1994-06-21,,,Argentina,Greece,4,0,,Foxboro Stadium,Foxborough,played,ARG,ar,https://flagcdn.com/w80/ar.png,GRE,gr,https://flagcdn.com/w80/gr.png
+1994,Group D,1994-06-21,,,Nigeria,Bulgaria,3,0,,Cotton Bowl,Dallas,played,NGA,ng,https://flagcdn.com/w80/ng.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1994,Group D,1994-06-25,,,Argentina,Nigeria,2,1,,Foxboro Stadium,Foxborough,played,ARG,ar,https://flagcdn.com/w80/ar.png,NGA,ng,https://flagcdn.com/w80/ng.png
+1994,Group D,1994-06-26,,,Greece,Bulgaria,0,4,,Soldier Field,Chicago,played,GRE,gr,https://flagcdn.com/w80/gr.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1994,Group D,1994-06-30,,,Greece,Nigeria,0,2,,Foxboro Stadium,Foxborough,played,GRE,gr,https://flagcdn.com/w80/gr.png,NGA,ng,https://flagcdn.com/w80/ng.png
+1994,Group D,1994-06-30,,,Argentina,Bulgaria,0,2,,Cotton Bowl,Dallas,played,ARG,ar,https://flagcdn.com/w80/ar.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1994,Group E,1994-06-18,,,Italy,Ireland,0,1,,Giants Stadium,East Rutherford,played,ITA,it,https://flagcdn.com/w80/it.png,IRL,ie,https://flagcdn.com/w80/ie.png
+1994,Group E,1994-06-19,,,Norway,Mexico,1,0,,RFK Stadium,Washington,played,NOR,no,https://flagcdn.com/w80/no.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1994,Group E,1994-06-23,,,Italy,Norway,1,0,,Giants Stadium,East Rutherford,played,ITA,it,https://flagcdn.com/w80/it.png,NOR,no,https://flagcdn.com/w80/no.png
+1994,Group E,1994-06-24,,,Mexico,Ireland,2,1,,Citrus Bowl,Orlando,played,MEX,mx,https://flagcdn.com/w80/mx.png,IRL,ie,https://flagcdn.com/w80/ie.png
+1994,Group E,1994-06-28,,,Ireland,Norway,0,0,,Giants Stadium,East Rutherford,played,IRL,ie,https://flagcdn.com/w80/ie.png,NOR,no,https://flagcdn.com/w80/no.png
+1994,Group E,1994-06-28,,,Italy,Mexico,1,1,,RFK Stadium,Washington,played,ITA,it,https://flagcdn.com/w80/it.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1994,Group F,1994-06-19,,,Belgium,Morocco,1,0,,Citrus Bowl,Orlando,played,BEL,be,https://flagcdn.com/w80/be.png,MAR,ma,https://flagcdn.com/w80/ma.png
+1994,Group F,1994-06-20,,,Netherlands,Saudi Arabia,2,1,,RFK Stadium,Washington,played,NED,nl,https://flagcdn.com/w80/nl.png,KSA,sa,https://flagcdn.com/w80/sa.png
+1994,Group F,1994-06-25,,,Belgium,Netherlands,1,0,,Citrus Bowl,Orlando,played,BEL,be,https://flagcdn.com/w80/be.png,NED,nl,https://flagcdn.com/w80/nl.png
+1994,Group F,1994-06-25,,,Saudi Arabia,Morocco,2,1,,Giants Stadium,East Rutherford,played,KSA,sa,https://flagcdn.com/w80/sa.png,MAR,ma,https://flagcdn.com/w80/ma.png
+1994,Group F,1994-06-29,,,Morocco,Netherlands,1,2,,Citrus Bowl,Orlando,played,MAR,ma,https://flagcdn.com/w80/ma.png,NED,nl,https://flagcdn.com/w80/nl.png
+1994,Group F,1994-06-29,,,Belgium,Saudi Arabia,0,1,,RFK Stadium,Washington,played,BEL,be,https://flagcdn.com/w80/be.png,KSA,sa,https://flagcdn.com/w80/sa.png
+1994,Round of 16,1994-07-02,,,Germany,Belgium,3,2,,Soldier Field,Chicago,played,GER,de,https://flagcdn.com/w80/de.png,BEL,be,https://flagcdn.com/w80/be.png
+1994,Round of 16,1994-07-02,,,Spain,Switzerland,3,0,,RFK Stadium,Washington,played,ESP,es,https://flagcdn.com/w80/es.png,SUI,ch,https://flagcdn.com/w80/ch.png
+1994,Round of 16,1994-07-03,,,Saudi Arabia,Sweden,1,3,,Cotton Bowl,Dallas,played,KSA,sa,https://flagcdn.com/w80/sa.png,SWE,se,https://flagcdn.com/w80/se.png
+1994,Round of 16,1994-07-03,,,Romania,Argentina,3,2,,Rose Bowl,Pasadena,played,ROU,ro,https://flagcdn.com/w80/ro.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1994,Round of 16,1994-07-04,,,Netherlands,Ireland,2,0,,Citrus Bowl,Orlando,played,NED,nl,https://flagcdn.com/w80/nl.png,IRL,ie,https://flagcdn.com/w80/ie.png
+1994,Round of 16,1994-07-04,,,Brazil,USA,1,0,,Stanford Stadium,Stanford,played,BRA,br,https://flagcdn.com/w80/br.png,USA,us,https://flagcdn.com/w80/us.png
+1994,Round of 16,1994-07-05,,,Nigeria,Italy,1,2,a.e.t. (1-1),Foxboro Stadium,Foxborough,played,NGA,ng,https://flagcdn.com/w80/ng.png,ITA,it,https://flagcdn.com/w80/it.png
+1994,Round of 16,1994-07-05,,,Mexico,Bulgaria,1,1,a.e.t. (1-1) 1-3 pen.,Giants Stadium,East Rutherford,played,MEX,mx,https://flagcdn.com/w80/mx.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1994,Quarter-finals,1994-07-09,,,Italy,Spain,2,1,,Foxboro Stadium,Foxborough,played,ITA,it,https://flagcdn.com/w80/it.png,ESP,es,https://flagcdn.com/w80/es.png
+1994,Quarter-finals,1994-07-09,,,Netherlands,Brazil,2,3,,Cotton Bowl,Dallas,played,NED,nl,https://flagcdn.com/w80/nl.png,BRA,br,https://flagcdn.com/w80/br.png
+1994,Quarter-finals,1994-07-10,,,Bulgaria,Germany,2,1,,Giants Stadium,East Rutherford,played,BUL,bg,https://flagcdn.com/w80/bg.png,GER,de,https://flagcdn.com/w80/de.png
+1994,Quarter-finals,1994-07-10,,,Romania,Sweden,2,2,a.e.t. (1-1) 4-5 pen.,Stanford Stadium,Stanford,played,ROU,ro,https://flagcdn.com/w80/ro.png,SWE,se,https://flagcdn.com/w80/se.png
+1994,Semi-finals,1994-07-13,,,Bulgaria,Italy,1,2,,Giants Stadium,East Rutherford,played,BUL,bg,https://flagcdn.com/w80/bg.png,ITA,it,https://flagcdn.com/w80/it.png
+1994,Semi-finals,1994-07-13,,,Sweden,Brazil,0,1,,Rose Bowl,Pasadena,played,SWE,se,https://flagcdn.com/w80/se.png,BRA,br,https://flagcdn.com/w80/br.png
+1994,Third-place match,1994-07-16,,,Sweden,Bulgaria,4,0,,Rose Bowl,Pasadena,played,SWE,se,https://flagcdn.com/w80/se.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1994,Final,1994-07-17,,,Brazil,Italy,0,0,a.e.t. (0-0) 3-2 pen.,Rose Bowl,Pasadena,played,BRA,br,https://flagcdn.com/w80/br.png,ITA,it,https://flagcdn.com/w80/it.png
+1998,Group A,1998-06-10,,,Brazil,Scotland,2,1,,Stade de France,Saint-Denis,played,BRA,br,https://flagcdn.com/w80/br.png,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1998,Group A,1998-06-10,,,Morocco,Norway,2,2,,Stade de la Mosson,Montpellier,played,MAR,ma,https://flagcdn.com/w80/ma.png,NOR,no,https://flagcdn.com/w80/no.png
+1998,Group A,1998-06-16,,,Scotland,Norway,1,1,,Parc Lescure,Bordeaux,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,NOR,no,https://flagcdn.com/w80/no.png
+1998,Group A,1998-06-16,,,Brazil,Morocco,3,0,,Stade de la Beaujoire,Nantes,played,BRA,br,https://flagcdn.com/w80/br.png,MAR,ma,https://flagcdn.com/w80/ma.png
+1998,Group A,1998-06-23,,,Scotland,Morocco,0,3,,Stade Geoffroy-Guichard,Saint-Étienne,played,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png,MAR,ma,https://flagcdn.com/w80/ma.png
+1998,Group A,1998-06-23,,,Brazil,Norway,1,2,,Stade Vélodrome,Marseille,played,BRA,br,https://flagcdn.com/w80/br.png,NOR,no,https://flagcdn.com/w80/no.png
+1998,Group B,1998-06-11,,,Cameroon,Austria,1,1,,Stade de Toulouse,Toulouse,played,CMR,cm,https://flagcdn.com/w80/cm.png,AUT,at,https://flagcdn.com/w80/at.png
+1998,Group B,1998-06-11,,,Italy,Chile,2,2,,Parc Lescure,Bordeaux,played,ITA,it,https://flagcdn.com/w80/it.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1998,Group B,1998-06-17,,,Chile,Austria,1,1,,Stade Geoffroy-Guichard,Saint-Étienne,played,CHI,cl,https://flagcdn.com/w80/cl.png,AUT,at,https://flagcdn.com/w80/at.png
+1998,Group B,1998-06-17,,,Italy,Cameroon,3,0,,Stade de la Mosson,Montpellier,played,ITA,it,https://flagcdn.com/w80/it.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1998,Group B,1998-06-23,,,Italy,Austria,2,1,,Stade de France,Saint-Denis,played,ITA,it,https://flagcdn.com/w80/it.png,AUT,at,https://flagcdn.com/w80/at.png
+1998,Group B,1998-06-23,,,Chile,Cameroon,1,1,,Stade de la Beaujoire,Nantes,played,CHI,cl,https://flagcdn.com/w80/cl.png,CMR,cm,https://flagcdn.com/w80/cm.png
+1998,Group C,1998-06-12,,,Saudi Arabia,Denmark,0,1,,Stade Félix Bollaert,Lens,played,KSA,sa,https://flagcdn.com/w80/sa.png,DEN,dk,https://flagcdn.com/w80/dk.png
+1998,Group C,1998-06-12,,,France,South Africa,3,0,,Stade Vélodrome,Marseille,played,FRA,fr,https://flagcdn.com/w80/fr.png,RSA,za,https://flagcdn.com/w80/za.png
+1998,Group C,1998-06-18,,,France,Saudi Arabia,4,0,,Stade de France,Saint-Denis,played,FRA,fr,https://flagcdn.com/w80/fr.png,KSA,sa,https://flagcdn.com/w80/sa.png
+1998,Group C,1998-06-18,,,South Africa,Denmark,1,1,,Stade de Toulouse,Toulouse,played,RSA,za,https://flagcdn.com/w80/za.png,DEN,dk,https://flagcdn.com/w80/dk.png
+1998,Group C,1998-06-24,,,France,Denmark,2,1,,Stade Gerland,Lyon,played,FRA,fr,https://flagcdn.com/w80/fr.png,DEN,dk,https://flagcdn.com/w80/dk.png
+1998,Group C,1998-06-24,,,South Africa,Saudi Arabia,2,2,,Parc Lescure,Bordeaux,played,RSA,za,https://flagcdn.com/w80/za.png,KSA,sa,https://flagcdn.com/w80/sa.png
+1998,Group D,1998-06-12,,,Paraguay,Bulgaria,0,0,,Stade de la Mosson,Montpellier,played,PAR,py,https://flagcdn.com/w80/py.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1998,Group D,1998-06-13,,,Spain,Nigeria,2,3,,Stade de la Beaujoire,Nantes,played,ESP,es,https://flagcdn.com/w80/es.png,NGA,ng,https://flagcdn.com/w80/ng.png
+1998,Group D,1998-06-19,,,Nigeria,Bulgaria,1,0,,Parc des Princes,Paris,played,NGA,ng,https://flagcdn.com/w80/ng.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1998,Group D,1998-06-19,,,Spain,Paraguay,0,0,,Stade Geoffroy-Guichard,Saint-Étienne,played,ESP,es,https://flagcdn.com/w80/es.png,PAR,py,https://flagcdn.com/w80/py.png
+1998,Group D,1998-06-24,,,Spain,Bulgaria,6,1,,Stade Félix Bollaert,Lens,played,ESP,es,https://flagcdn.com/w80/es.png,BUL,bg,https://flagcdn.com/w80/bg.png
+1998,Group D,1998-06-24,,,Nigeria,Paraguay,1,3,,Stade de Toulouse,Toulouse,played,NGA,ng,https://flagcdn.com/w80/ng.png,PAR,py,https://flagcdn.com/w80/py.png
+1998,Group E,1998-06-13,,,Netherlands,Belgium,0,0,,Stade de France,Saint-Denis,played,NED,nl,https://flagcdn.com/w80/nl.png,BEL,be,https://flagcdn.com/w80/be.png
+1998,Group E,1998-06-13,,,South Korea,Mexico,1,3,,Stade Gerland,Lyon,played,KOR,kr,https://flagcdn.com/w80/kr.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1998,Group E,1998-06-20,,,Netherlands,South Korea,5,0,,Stade Vélodrome,Marseille,played,NED,nl,https://flagcdn.com/w80/nl.png,KOR,kr,https://flagcdn.com/w80/kr.png
+1998,Group E,1998-06-20,,,Belgium,Mexico,2,2,,Parc Lescure,Bordeaux,played,BEL,be,https://flagcdn.com/w80/be.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1998,Group E,1998-06-25,,,Belgium,South Korea,1,1,,Parc des Princes,Paris,played,BEL,be,https://flagcdn.com/w80/be.png,KOR,kr,https://flagcdn.com/w80/kr.png
+1998,Group E,1998-06-25,,,Netherlands,Mexico,2,2,,Stade Geoffroy-Guichard,Saint-Étienne,played,NED,nl,https://flagcdn.com/w80/nl.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1998,Group F,1998-06-14,,,Yugoslavia,Iran,1,0,,Stade Geoffroy-Guichard,Saint-Étienne,played,YUG,rs,https://flagcdn.com/w80/rs.png,IRN,ir,https://flagcdn.com/w80/ir.png
+1998,Group F,1998-06-15,,,Germany,USA,2,0,,Parc des Princes,Paris,played,GER,de,https://flagcdn.com/w80/de.png,USA,us,https://flagcdn.com/w80/us.png
+1998,Group F,1998-06-21,,,Germany,Yugoslavia,2,2,,Stade Félix Bollaert,Lens,played,GER,de,https://flagcdn.com/w80/de.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1998,Group F,1998-06-21,,,USA,Iran,1,2,,Stade Gerland,Lyon,played,USA,us,https://flagcdn.com/w80/us.png,IRN,ir,https://flagcdn.com/w80/ir.png
+1998,Group F,1998-06-25,,,Germany,Iran,2,0,,Stade de la Mosson,Montpellier,played,GER,de,https://flagcdn.com/w80/de.png,IRN,ir,https://flagcdn.com/w80/ir.png
+1998,Group F,1998-06-25,,,USA,Yugoslavia,0,1,,Stade de la Beaujoire,Nantes,played,USA,us,https://flagcdn.com/w80/us.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1998,Group G,1998-06-15,,,Romania,Colombia,1,0,,Stade Gerland,Lyon,played,ROU,ro,https://flagcdn.com/w80/ro.png,COL,co,https://flagcdn.com/w80/co.png
+1998,Group G,1998-06-15,,,England,Tunisia,2,0,,Stade Vélodrome,Marseille,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,TUN,tn,https://flagcdn.com/w80/tn.png
+1998,Group G,1998-06-22,,,Colombia,Tunisia,1,0,,Stade de la Mosson,Montpellier,played,COL,co,https://flagcdn.com/w80/co.png,TUN,tn,https://flagcdn.com/w80/tn.png
+1998,Group G,1998-06-22,,,Romania,England,2,1,,Stade de Toulouse,Toulouse,played,ROU,ro,https://flagcdn.com/w80/ro.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1998,Group G,1998-06-26,,,Romania,Tunisia,1,1,,Stade de France,Saint-Denis,played,ROU,ro,https://flagcdn.com/w80/ro.png,TUN,tn,https://flagcdn.com/w80/tn.png
+1998,Group G,1998-06-26,,,Colombia,England,0,2,,Stade Félix Bollaert,Lens,played,COL,co,https://flagcdn.com/w80/co.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1998,Group H,1998-06-14,,,Jamaica,Croatia,1,3,,Stade Félix Bollaert,Lens,played,JAM,jm,https://flagcdn.com/w80/jm.png,CRO,hr,https://flagcdn.com/w80/hr.png
+1998,Group H,1998-06-14,,,Argentina,Japan,1,0,,Stade de Toulouse,Toulouse,played,ARG,ar,https://flagcdn.com/w80/ar.png,JPN,jp,https://flagcdn.com/w80/jp.png
+1998,Group H,1998-06-20,,,Japan,Croatia,0,1,,Stade de la Beaujoire,Nantes,played,JPN,jp,https://flagcdn.com/w80/jp.png,CRO,hr,https://flagcdn.com/w80/hr.png
+1998,Group H,1998-06-21,,,Argentina,Jamaica,5,0,,Parc des Princes,Paris,played,ARG,ar,https://flagcdn.com/w80/ar.png,JAM,jm,https://flagcdn.com/w80/jm.png
+1998,Group H,1998-06-26,,,Japan,Jamaica,1,2,,Stade Gerland,Lyon,played,JPN,jp,https://flagcdn.com/w80/jp.png,JAM,jm,https://flagcdn.com/w80/jm.png
+1998,Group H,1998-06-26,,,Argentina,Croatia,1,0,,Parc Lescure,Bordeaux,played,ARG,ar,https://flagcdn.com/w80/ar.png,CRO,hr,https://flagcdn.com/w80/hr.png
+1998,Round of 16,1998-06-27,,,Brazil,Chile,4,1,,Parc des Princes,Paris,played,BRA,br,https://flagcdn.com/w80/br.png,CHI,cl,https://flagcdn.com/w80/cl.png
+1998,Round of 16,1998-06-27,,,Italy,Norway,1,0,,Stade Vélodrome,Marseille,played,ITA,it,https://flagcdn.com/w80/it.png,NOR,no,https://flagcdn.com/w80/no.png
+1998,Round of 16,1998-06-28,,,Nigeria,Denmark,1,4,,Stade de France,Saint-Denis,played,NGA,ng,https://flagcdn.com/w80/ng.png,DEN,dk,https://flagcdn.com/w80/dk.png
+1998,Round of 16,1998-06-28,,,France,Paraguay,1,0,a.e.t. (0-0),Stade Félix Bollaert,Lens,played,FRA,fr,https://flagcdn.com/w80/fr.png,PAR,py,https://flagcdn.com/w80/py.png
+1998,Round of 16,1998-06-29,,,Germany,Mexico,2,1,,Stade de la Mosson,Montpellier,played,GER,de,https://flagcdn.com/w80/de.png,MEX,mx,https://flagcdn.com/w80/mx.png
+1998,Round of 16,1998-06-29,,,Netherlands,Yugoslavia,2,1,,Stade de Toulouse,Toulouse,played,NED,nl,https://flagcdn.com/w80/nl.png,YUG,rs,https://flagcdn.com/w80/rs.png
+1998,Round of 16,1998-06-30,,,Argentina,England,2,2,a.e.t. (2-2) 4-3 pen.,Stade Geoffroy-Guichard,Saint-Étienne,played,ARG,ar,https://flagcdn.com/w80/ar.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1998,Round of 16,1998-06-30,,,Romania,Croatia,0,1,,Parc Lescure,Bordeaux,played,ROU,ro,https://flagcdn.com/w80/ro.png,CRO,hr,https://flagcdn.com/w80/hr.png
+1998,Quarter-finals,1998-07-03,,,Italy,France,0,0,a.e.t. (0-0) 3-4 pen.,Stade de France,Saint-Denis,played,ITA,it,https://flagcdn.com/w80/it.png,FRA,fr,https://flagcdn.com/w80/fr.png
+1998,Quarter-finals,1998-07-03,,,Brazil,Denmark,3,2,,Stade de la Beaujoire,Nantes,played,BRA,br,https://flagcdn.com/w80/br.png,DEN,dk,https://flagcdn.com/w80/dk.png
+1998,Quarter-finals,1998-07-04,,,Germany,Croatia,0,3,,Stade Gerland,Lyon,played,GER,de,https://flagcdn.com/w80/de.png,CRO,hr,https://flagcdn.com/w80/hr.png
+1998,Quarter-finals,1998-07-04,,,Netherlands,Argentina,2,1,,Stade Vélodrome,Marseille,played,NED,nl,https://flagcdn.com/w80/nl.png,ARG,ar,https://flagcdn.com/w80/ar.png
+1998,Semi-finals,1998-07-07,,,Brazil,Netherlands,1,1,a.e.t. (1-1) 4-2 pen.,Stade Vélodrome,Marseille,played,BRA,br,https://flagcdn.com/w80/br.png,NED,nl,https://flagcdn.com/w80/nl.png
+1998,Semi-finals,1998-07-08,,,France,Croatia,2,1,,Stade de France,Saint-Denis,played,FRA,fr,https://flagcdn.com/w80/fr.png,CRO,hr,https://flagcdn.com/w80/hr.png
+1998,Third place match,1998-07-11,,,Netherlands,Croatia,1,2,,Parc des Princes,Paris,played,NED,nl,https://flagcdn.com/w80/nl.png,CRO,hr,https://flagcdn.com/w80/hr.png
+1998,Final,1998-07-12,,,Brazil,France,0,3,,Stade de France,Saint-Denis,played,BRA,br,https://flagcdn.com/w80/br.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2002,Group A,2002-05-31,,,France,Senegal,0,1,,Seoul World Cup Stadium,Seoul,played,FRA,fr,https://flagcdn.com/w80/fr.png,SEN,sn,https://flagcdn.com/w80/sn.png
+2002,Group A,2002-06-01,,,Uruguay,Denmark,1,2,,Munsu Cup Stadium,Ulsan,played,URU,uy,https://flagcdn.com/w80/uy.png,DEN,dk,https://flagcdn.com/w80/dk.png
+2002,Group A,2002-06-06,,,France,Uruguay,0,0,,Asiad Main Stadium,Busan,played,FRA,fr,https://flagcdn.com/w80/fr.png,URU,uy,https://flagcdn.com/w80/uy.png
+2002,Group A,2002-06-06,,,Denmark,Senegal,1,1,,Daegu World Cup Stadium,Daegu,played,DEN,dk,https://flagcdn.com/w80/dk.png,SEN,sn,https://flagcdn.com/w80/sn.png
+2002,Group A,2002-06-11,,,Denmark,France,2,0,,Incheon Munhak Stadium,Incheon,played,DEN,dk,https://flagcdn.com/w80/dk.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2002,Group A,2002-06-11,,,Senegal,Uruguay,3,3,,Suwon World Cup Stadium,Suwon,played,SEN,sn,https://flagcdn.com/w80/sn.png,URU,uy,https://flagcdn.com/w80/uy.png
+2002,Group B,2002-06-02,,,Paraguay,South Africa,2,2,,Asiad Main Stadium,Busan,played,PAR,py,https://flagcdn.com/w80/py.png,RSA,za,https://flagcdn.com/w80/za.png
+2002,Group B,2002-06-02,,,Spain,Slovenia,3,1,,Gwangju World Cup Stadium,Gwangju,played,ESP,es,https://flagcdn.com/w80/es.png,SVN,si,https://flagcdn.com/w80/si.png
+2002,Group B,2002-06-07,,,Spain,Paraguay,3,1,,Jeonju World Cup Stadium,Jeonju,played,ESP,es,https://flagcdn.com/w80/es.png,PAR,py,https://flagcdn.com/w80/py.png
+2002,Group B,2002-06-08,,,South Africa,Slovenia,1,0,,Daegu World Cup Stadium,Daegu,played,RSA,za,https://flagcdn.com/w80/za.png,SVN,si,https://flagcdn.com/w80/si.png
+2002,Group B,2002-06-12,,,South Africa,Spain,2,3,,Daejeon World Cup Stadium,Daejeon,played,RSA,za,https://flagcdn.com/w80/za.png,ESP,es,https://flagcdn.com/w80/es.png
+2002,Group B,2002-06-12,,,Slovenia,Paraguay,1,3,,Jeju World Cup Stadium,Jeju,played,SVN,si,https://flagcdn.com/w80/si.png,PAR,py,https://flagcdn.com/w80/py.png
+2002,Group C,2002-06-03,,,Brazil,Turkey,2,1,,Munsu Cup Stadium,Ulsan,played,BRA,br,https://flagcdn.com/w80/br.png,TUR,tr,https://flagcdn.com/w80/tr.png
+2002,Group C,2002-06-04,,,China,Costa Rica,0,2,,Gwangju World Cup Stadium,Gwangju,played,CHN,cn,https://flagcdn.com/w80/cn.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2002,Group C,2002-06-08,,,Brazil,China,4,0,,Jeju World Cup Stadium,Jeju,played,BRA,br,https://flagcdn.com/w80/br.png,CHN,cn,https://flagcdn.com/w80/cn.png
+2002,Group C,2002-06-09,,,Costa Rica,Turkey,1,1,,Incheon Munhak Stadium,Incheon,played,CRC,cr,https://flagcdn.com/w80/cr.png,TUR,tr,https://flagcdn.com/w80/tr.png
+2002,Group C,2002-06-13,,,Costa Rica,Brazil,2,5,,Suwon World Cup Stadium,Suwon,played,CRC,cr,https://flagcdn.com/w80/cr.png,BRA,br,https://flagcdn.com/w80/br.png
+2002,Group C,2002-06-13,,,Turkey,China,3,0,,Seoul World Cup Stadium,Seoul,played,TUR,tr,https://flagcdn.com/w80/tr.png,CHN,cn,https://flagcdn.com/w80/cn.png
+2002,Group D,2002-06-04,,,South Korea,Poland,2,0,,Asiad Main Stadium,Busan,played,KOR,kr,https://flagcdn.com/w80/kr.png,POL,pl,https://flagcdn.com/w80/pl.png
+2002,Group D,2002-06-05,,,USA,Portugal,3,2,,Suwon World Cup Stadium,Suwon,played,USA,us,https://flagcdn.com/w80/us.png,POR,pt,https://flagcdn.com/w80/pt.png
+2002,Group D,2002-06-10,,,South Korea,USA,1,1,,Daegu World Cup Stadium,Daegu,played,KOR,kr,https://flagcdn.com/w80/kr.png,USA,us,https://flagcdn.com/w80/us.png
+2002,Group D,2002-06-10,,,Portugal,Poland,4,0,,Jeonju World Cup Stadium,Jeonju,played,POR,pt,https://flagcdn.com/w80/pt.png,POL,pl,https://flagcdn.com/w80/pl.png
+2002,Group D,2002-06-14,,,Portugal,South Korea,0,1,,Incheon Munhak Stadium,Incheon,played,POR,pt,https://flagcdn.com/w80/pt.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2002,Group D,2002-06-14,,,Poland,USA,3,1,,Daejeon World Cup Stadium,Daejeon,played,POL,pl,https://flagcdn.com/w80/pl.png,USA,us,https://flagcdn.com/w80/us.png
+2002,Group E,2002-06-01,,,Ireland,Cameroon,1,1,,Niigata Stadium,Niigata,played,IRL,ie,https://flagcdn.com/w80/ie.png,CMR,cm,https://flagcdn.com/w80/cm.png
+2002,Group E,2002-06-01,,,Germany,Saudi Arabia,8,0,,Sapporo Dome,Sapporo,played,GER,de,https://flagcdn.com/w80/de.png,KSA,sa,https://flagcdn.com/w80/sa.png
+2002,Group E,2002-06-05,,,Germany,Ireland,1,1,,Kashima Soccer Stadium,Ibaraki,played,GER,de,https://flagcdn.com/w80/de.png,IRL,ie,https://flagcdn.com/w80/ie.png
+2002,Group E,2002-06-06,,,Cameroon,Saudi Arabia,1,0,,Saitama Stadium,Saitama,played,CMR,cm,https://flagcdn.com/w80/cm.png,KSA,sa,https://flagcdn.com/w80/sa.png
+2002,Group E,2002-06-11,,,Cameroon,Germany,0,2,,Shizuoka Stadium,Shizuoka,played,CMR,cm,https://flagcdn.com/w80/cm.png,GER,de,https://flagcdn.com/w80/de.png
+2002,Group E,2002-06-11,,,Saudi Arabia,Ireland,0,3,,International Stadium Yokohama,Yokohama,played,KSA,sa,https://flagcdn.com/w80/sa.png,IRL,ie,https://flagcdn.com/w80/ie.png
+2002,Group F,2002-06-02,,,England,Sweden,1,1,,Saitama Stadium,Saitama,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,SWE,se,https://flagcdn.com/w80/se.png
+2002,Group F,2002-06-02,,,Argentina,Nigeria,1,0,,Kashima Soccer Stadium,Ibaraki,played,ARG,ar,https://flagcdn.com/w80/ar.png,NGA,ng,https://flagcdn.com/w80/ng.png
+2002,Group F,2002-06-07,,,Sweden,Nigeria,2,1,,Kobe Wing Stadium,Kobe,played,SWE,se,https://flagcdn.com/w80/se.png,NGA,ng,https://flagcdn.com/w80/ng.png
+2002,Group F,2002-06-07,,,Argentina,England,0,1,,Sapporo Dome,Sapporo,played,ARG,ar,https://flagcdn.com/w80/ar.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2002,Group F,2002-06-12,,,Sweden,Argentina,1,1,,Miyagi Stadium,Miyagi,played,SWE,se,https://flagcdn.com/w80/se.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2002,Group F,2002-06-12,,,Nigeria,England,0,0,,Nagai Stadium,Osaka,played,NGA,ng,https://flagcdn.com/w80/ng.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2002,Group G,2002-06-03,,,Croatia,Mexico,0,1,,Niigata Stadium,Niigata,played,CRO,hr,https://flagcdn.com/w80/hr.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2002,Group G,2002-06-03,,,Italy,Ecuador,2,0,,Sapporo Dome,Sapporo,played,ITA,it,https://flagcdn.com/w80/it.png,ECU,ec,https://flagcdn.com/w80/ec.png
+2002,Group G,2002-06-08,,,Italy,Croatia,1,2,,Kashima Soccer Stadium,Ibaraki,played,ITA,it,https://flagcdn.com/w80/it.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2002,Group G,2002-06-09,,,Mexico,Ecuador,2,1,,Miyagi Stadium,Miyagi,played,MEX,mx,https://flagcdn.com/w80/mx.png,ECU,ec,https://flagcdn.com/w80/ec.png
+2002,Group G,2002-06-13,,,Mexico,Italy,1,1,,Ōita Stadium,Ōita,played,MEX,mx,https://flagcdn.com/w80/mx.png,ITA,it,https://flagcdn.com/w80/it.png
+2002,Group G,2002-06-13,,,Ecuador,Croatia,1,0,,International Stadium Yokohama,Yokohama,played,ECU,ec,https://flagcdn.com/w80/ec.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2002,Group H,2002-06-04,,,Japan,Belgium,2,2,,Saitama Stadium,Saitama,played,JPN,jp,https://flagcdn.com/w80/jp.png,BEL,be,https://flagcdn.com/w80/be.png
+2002,Group H,2002-06-05,,,Russia,Tunisia,2,0,,Kobe Wing Stadium,Kobe,played,RUS,ru,https://flagcdn.com/w80/ru.png,TUN,tn,https://flagcdn.com/w80/tn.png
+2002,Group H,2002-06-09,,,Japan,Russia,1,0,,International Stadium Yokohama,Yokohama,played,JPN,jp,https://flagcdn.com/w80/jp.png,RUS,ru,https://flagcdn.com/w80/ru.png
+2002,Group H,2002-06-10,,,Tunisia,Belgium,1,1,,Ōita Stadium,Ōita,played,TUN,tn,https://flagcdn.com/w80/tn.png,BEL,be,https://flagcdn.com/w80/be.png
+2002,Group H,2002-06-14,,,Tunisia,Japan,0,2,,Nagai Stadium,Osaka,played,TUN,tn,https://flagcdn.com/w80/tn.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2002,Group H,2002-06-14,,,Belgium,Russia,3,2,,Shizuoka Stadium,Shizuoka,played,BEL,be,https://flagcdn.com/w80/be.png,RUS,ru,https://flagcdn.com/w80/ru.png
+2002,Round of 16,2002-06-15,,,Germany,Paraguay,1,0,,Jeju World Cup Stadium,Jeju,played,GER,de,https://flagcdn.com/w80/de.png,PAR,py,https://flagcdn.com/w80/py.png
+2002,Round of 16,2002-06-15,,,Denmark,England,0,3,,Niigata Stadium,Niigata,played,DEN,dk,https://flagcdn.com/w80/dk.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2002,Round of 16,2002-06-16,,,Sweden,Senegal,1,2,a.e.t. (1-1),Ōita Stadium,Ōita,played,SWE,se,https://flagcdn.com/w80/se.png,SEN,sn,https://flagcdn.com/w80/sn.png
+2002,Round of 16,2002-06-16,,,Spain,Ireland,1,1,a.e.t. (1-1) 3-2 pen.,Suwon World Cup Stadium,Suwon,played,ESP,es,https://flagcdn.com/w80/es.png,IRL,ie,https://flagcdn.com/w80/ie.png
+2002,Round of 16,2002-06-17,,,Mexico,USA,0,2,,Jeonju World Cup Stadium,Jeonju,played,MEX,mx,https://flagcdn.com/w80/mx.png,USA,us,https://flagcdn.com/w80/us.png
+2002,Round of 16,2002-06-17,,,Brazil,Belgium,2,0,,Kobe Wing Stadium,Kobe,played,BRA,br,https://flagcdn.com/w80/br.png,BEL,be,https://flagcdn.com/w80/be.png
+2002,Round of 16,2002-06-18,,,Japan,Turkey,0,1,,Miyagi Stadium,Miyagi,played,JPN,jp,https://flagcdn.com/w80/jp.png,TUR,tr,https://flagcdn.com/w80/tr.png
+2002,Round of 16,2002-06-18,,,South Korea,Italy,2,1,a.e.t. (1-1),Daejeon World Cup Stadium,Daejeon,played,KOR,kr,https://flagcdn.com/w80/kr.png,ITA,it,https://flagcdn.com/w80/it.png
+2002,Quarter-finals,2002-06-21,,,England,Brazil,1,2,,Shizuoka Stadium,Shizuoka,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,BRA,br,https://flagcdn.com/w80/br.png
+2002,Quarter-finals,2002-06-21,,,Germany,USA,1,0,,Munsu Cup Stadium,Ulsan,played,GER,de,https://flagcdn.com/w80/de.png,USA,us,https://flagcdn.com/w80/us.png
+2002,Quarter-finals,2002-06-22,,,Spain,South Korea,0,0,a.e.t. (0-0) 3-5 pen.,Gwangju World Cup Stadium,Gwangju,played,ESP,es,https://flagcdn.com/w80/es.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2002,Quarter-finals,2002-06-22,,,Senegal,Turkey,0,1,a.e.t. (0-0),Nagai Stadium,Osaka,played,SEN,sn,https://flagcdn.com/w80/sn.png,TUR,tr,https://flagcdn.com/w80/tr.png
+2002,Semi-finals,2002-06-25,,,Germany,South Korea,1,0,,Seoul World Cup Stadium,Seoul,played,GER,de,https://flagcdn.com/w80/de.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2002,Semi-finals,2002-06-26,,,Brazil,Turkey,1,0,,Saitama Stadium,Saitama,played,BRA,br,https://flagcdn.com/w80/br.png,TUR,tr,https://flagcdn.com/w80/tr.png
+2002,Third place play-off,2002-06-29,,,South Korea,Turkey,2,3,,Daegu World Cup Stadium,Daegu,played,KOR,kr,https://flagcdn.com/w80/kr.png,TUR,tr,https://flagcdn.com/w80/tr.png
+2002,Final,2002-06-30,,,Germany,Brazil,0,2,,International Stadium Yokohama,Yokohama,played,GER,de,https://flagcdn.com/w80/de.png,BRA,br,https://flagcdn.com/w80/br.png
+2006,Group A,2006-06-09,,,Germany,Costa Rica,4,2,(2-1),Allianz Arena,München,played,GER,de,https://flagcdn.com/w80/de.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2006,Group A,2006-06-09,,,Poland,Ecuador,0,2,(0-1),Veltins-Arena,Gelsenkirchen,played,POL,pl,https://flagcdn.com/w80/pl.png,ECU,ec,https://flagcdn.com/w80/ec.png
+2006,Group A,2006-06-14,,,Germany,Poland,1,0,(0-0),Signal Iduna Park,Dortmund,played,GER,de,https://flagcdn.com/w80/de.png,POL,pl,https://flagcdn.com/w80/pl.png
+2006,Group A,2006-06-15,,,Ecuador,Costa Rica,3,0,(1-0),AOL Arena,Hamburg,played,ECU,ec,https://flagcdn.com/w80/ec.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2006,Group A,2006-06-20,,,Ecuador,Germany,0,3,(0-2),Olympiastadion,Berlin,played,ECU,ec,https://flagcdn.com/w80/ec.png,GER,de,https://flagcdn.com/w80/de.png
+2006,Group A,2006-06-20,,,Costa Rica,Poland,1,2,(1-1),AWD-Arena,Hannover,played,CRC,cr,https://flagcdn.com/w80/cr.png,POL,pl,https://flagcdn.com/w80/pl.png
+2006,Group B,2006-06-10,,,England,Paraguay,1,0,(1-0),Commerzbank-Arena,Frankfurt,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,PAR,py,https://flagcdn.com/w80/py.png
+2006,Group B,2006-06-10,,,Trinidad and Tobago,Sweden,0,0,,Signal Iduna Park,Dortmund,played,TRI,tt,https://flagcdn.com/w80/tt.png,SWE,se,https://flagcdn.com/w80/se.png
+2006,Group B,2006-06-15,,,England,Trinidad and Tobago,2,0,(0-0),Frankenstadion,Nürnberg,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,TRI,tt,https://flagcdn.com/w80/tt.png
+2006,Group B,2006-06-15,,,Sweden,Paraguay,1,0,(0-0),Olympiastadion,Berlin,played,SWE,se,https://flagcdn.com/w80/se.png,PAR,py,https://flagcdn.com/w80/py.png
+2006,Group B,2006-06-20,,,Sweden,England,2,2,(0-1),RheinEnergieStadion,Köln,played,SWE,se,https://flagcdn.com/w80/se.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2006,Group B,2006-06-20,,,Paraguay,Trinidad and Tobago,2,0,(1-0),Fritz-Walter-Stadion,Kaiserslautern,played,PAR,py,https://flagcdn.com/w80/py.png,TRI,tt,https://flagcdn.com/w80/tt.png
+2006,Group C,2006-06-10,,,Argentina,Côte d'Ivoire,2,1,(2-0),AOL Arena,Hamburg,played,ARG,ar,https://flagcdn.com/w80/ar.png,CIV,ci,https://flagcdn.com/w80/ci.png
+2006,Group C,2006-06-11,,,Serbia and Montenegro,Netherlands,0,1,(0-1),Zentralstadion,Leipzig,played,SCG,rs,https://flagcdn.com/w80/rs.png,NED,nl,https://flagcdn.com/w80/nl.png
+2006,Group C,2006-06-16,,,Argentina,Serbia and Montenegro,6,0,(3-0),Veltins-Arena,Gelsenkirchen,played,ARG,ar,https://flagcdn.com/w80/ar.png,SCG,rs,https://flagcdn.com/w80/rs.png
+2006,Group C,2006-06-16,,,Netherlands,Côte d'Ivoire,2,1,(2-1),Gottlieb-Daimler-Stadion,Stuttgart,played,NED,nl,https://flagcdn.com/w80/nl.png,CIV,ci,https://flagcdn.com/w80/ci.png
+2006,Group C,2006-06-21,,,Netherlands,Argentina,0,0,,Commerzbank-Arena,Frankfurt,played,NED,nl,https://flagcdn.com/w80/nl.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2006,Group C,2006-06-21,,,Côte d'Ivoire,Serbia and Montenegro,3,2,(1-2),Allianz Arena,München,played,CIV,ci,https://flagcdn.com/w80/ci.png,SCG,rs,https://flagcdn.com/w80/rs.png
+2006,Group D,2006-06-11,,,Mexico,Iran,3,1,(1-1),Frankenstadion,Nürnberg,played,MEX,mx,https://flagcdn.com/w80/mx.png,IRN,ir,https://flagcdn.com/w80/ir.png
+2006,Group D,2006-06-11,,,Angola,Portugal,0,1,(0-1),RheinEnergieStadion,Köln,played,ANG,ao,https://flagcdn.com/w80/ao.png,POR,pt,https://flagcdn.com/w80/pt.png
+2006,Group D,2006-06-16,,,Mexico,Angola,0,0,,AWD-Arena,Hannover,played,MEX,mx,https://flagcdn.com/w80/mx.png,ANG,ao,https://flagcdn.com/w80/ao.png
+2006,Group D,2006-06-17,,,Portugal,Iran,2,0,(0-0),Commerzbank-Arena,Frankfurt,played,POR,pt,https://flagcdn.com/w80/pt.png,IRN,ir,https://flagcdn.com/w80/ir.png
+2006,Group D,2006-06-21,,,Portugal,Mexico,2,1,(2-1),Veltins-Arena,Gelsenkirchen,played,POR,pt,https://flagcdn.com/w80/pt.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2006,Group D,2006-06-21,,,Iran,Angola,1,1,(0-0),Zentralstadion,Leipzig,played,IRN,ir,https://flagcdn.com/w80/ir.png,ANG,ao,https://flagcdn.com/w80/ao.png
+2006,Group E,2006-06-12,,,Italy,Ghana,2,0,(1-0),AWD-Arena,Hannover,played,ITA,it,https://flagcdn.com/w80/it.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2006,Group E,2006-06-12,,,USA,Czech Republic,0,3,(0-2),Veltins-Arena,Gelsenkirchen,played,USA,us,https://flagcdn.com/w80/us.png,CZE,cz,https://flagcdn.com/w80/cz.png
+2006,Group E,2006-06-17,,,Italy,USA,1,1,(1-1),Fritz-Walter-Stadion,Kaiserslautern,played,ITA,it,https://flagcdn.com/w80/it.png,USA,us,https://flagcdn.com/w80/us.png
+2006,Group E,2006-06-17,,,Czech Republic,Ghana,0,2,(0-1),RheinEnergieStadion,Köln,played,CZE,cz,https://flagcdn.com/w80/cz.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2006,Group E,2006-06-22,,,Czech Republic,Italy,0,2,(0-1),AOL Arena,Hamburg,played,CZE,cz,https://flagcdn.com/w80/cz.png,ITA,it,https://flagcdn.com/w80/it.png
+2006,Group E,2006-06-22,,,Ghana,USA,2,1,(2-1),Frankenstadion,Nürnberg,played,GHA,gh,https://flagcdn.com/w80/gh.png,USA,us,https://flagcdn.com/w80/us.png
+2006,Group F,2006-06-13,,,Brazil,Croatia,1,0,(1-0),Olympiastadion,Berlin,played,BRA,br,https://flagcdn.com/w80/br.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2006,Group F,2006-06-12,,,Australia,Japan,3,1,(0-1),Fritz-Walter-Stadion,Kaiserslautern,played,AUS,au,https://flagcdn.com/w80/au.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2006,Group F,2006-06-18,,,Brazil,Australia,2,0,(0-0),Allianz Arena,München,played,BRA,br,https://flagcdn.com/w80/br.png,AUS,au,https://flagcdn.com/w80/au.png
+2006,Group F,2006-06-18,,,Japan,Croatia,0,0,,Frankenstadion,Nürnberg,played,JPN,jp,https://flagcdn.com/w80/jp.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2006,Group F,2006-06-22,,,Japan,Brazil,1,4,(1-1),Signal Iduna Park,Dortmund,played,JPN,jp,https://flagcdn.com/w80/jp.png,BRA,br,https://flagcdn.com/w80/br.png
+2006,Group F,2006-06-22,,,Croatia,Australia,2,2,(1-1),Gottlieb-Daimler-Stadion,Stuttgart,played,CRO,hr,https://flagcdn.com/w80/hr.png,AUS,au,https://flagcdn.com/w80/au.png
+2006,Group G,2006-06-13,,,France,Switzerland,0,0,,Gottlieb-Daimler-Stadion,Stuttgart,played,FRA,fr,https://flagcdn.com/w80/fr.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2006,Group G,2006-06-13,,,South Korea,Togo,2,1,(0-1),Commerzbank-Arena,Frankfurt,played,KOR,kr,https://flagcdn.com/w80/kr.png,TOG,tg,https://flagcdn.com/w80/tg.png
+2006,Group G,2006-06-18,,,France,South Korea,1,1,(1-0),Zentralstadion,Leipzig,played,FRA,fr,https://flagcdn.com/w80/fr.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2006,Group G,2006-06-19,,,Togo,Switzerland,0,2,(0-1),Signal Iduna Park,Dortmund,played,TOG,tg,https://flagcdn.com/w80/tg.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2006,Group G,2006-06-23,,,Togo,France,0,2,(0-0),RheinEnergieStadion,Köln,played,TOG,tg,https://flagcdn.com/w80/tg.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2006,Group G,2006-06-23,,,Switzerland,South Korea,2,0,(1-0),AWD-Arena,Hannover,played,SUI,ch,https://flagcdn.com/w80/ch.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2006,Group H,2006-06-14,,,Spain,Ukraine,4,0,(2-0),Zentralstadion,Leipzig,played,ESP,es,https://flagcdn.com/w80/es.png,UKR,ua,https://flagcdn.com/w80/ua.png
+2006,Group H,2006-06-14,,,Tunisia,Saudi Arabia,2,2,(1-0),Allianz Arena,München,played,TUN,tn,https://flagcdn.com/w80/tn.png,KSA,sa,https://flagcdn.com/w80/sa.png
+2006,Group H,2006-06-19,,,Spain,Tunisia,3,1,(0-1),Gottlieb-Daimler-Stadion,Stuttgart,played,ESP,es,https://flagcdn.com/w80/es.png,TUN,tn,https://flagcdn.com/w80/tn.png
+2006,Group H,2006-06-19,,,Saudi Arabia,Ukraine,0,4,(0-2),AOL Arena,Hamburg,played,KSA,sa,https://flagcdn.com/w80/sa.png,UKR,ua,https://flagcdn.com/w80/ua.png
+2006,Group H,2006-06-23,,,Saudi Arabia,Spain,0,1,(0-1),Fritz-Walter-Stadion,Kaiserslautern,played,KSA,sa,https://flagcdn.com/w80/sa.png,ESP,es,https://flagcdn.com/w80/es.png
+2006,Group H,2006-06-23,,,Ukraine,Tunisia,1,0,(0-0),Olympiastadion,Berlin,played,UKR,ua,https://flagcdn.com/w80/ua.png,TUN,tn,https://flagcdn.com/w80/tn.png
+2006,Round of 16,2006-06-24,,,Germany,Sweden,2,0,(2-0),Allianz Arena,München,played,GER,de,https://flagcdn.com/w80/de.png,SWE,se,https://flagcdn.com/w80/se.png
+2006,Round of 16,2006-06-24,,,Argentina,Mexico,2,1,"a.e.t. (1-1, 1-1)",Zentralstadion,Leipzig,played,ARG,ar,https://flagcdn.com/w80/ar.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2006,Round of 16,2006-06-25,,,England,Ecuador,1,0,(0-0),Gottlieb-Daimler-Stadion,Stuttgart,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,ECU,ec,https://flagcdn.com/w80/ec.png
+2006,Round of 16,2006-06-25,,,Portugal,Netherlands,1,0,(1-0),Frankenstadion,Nürnberg,played,POR,pt,https://flagcdn.com/w80/pt.png,NED,nl,https://flagcdn.com/w80/nl.png
+2006,Round of 16,2006-06-26,,,Italy,Australia,1,0,(0-0),Fritz-Walter-Stadion,Kaiserslautern,played,ITA,it,https://flagcdn.com/w80/it.png,AUS,au,https://flagcdn.com/w80/au.png
+2006,Round of 16,2006-06-26,,,Switzerland,Ukraine,0,0,a.e.t. (0-0),RheinEnergieStadion,"Köln, 0-3 pen.",played,SUI,ch,https://flagcdn.com/w80/ch.png,UKR,ua,https://flagcdn.com/w80/ua.png
+2006,Round of 16,2006-06-27,,,Brazil,Ghana,3,0,(2-0),Signal Iduna Park,Dortmund,played,BRA,br,https://flagcdn.com/w80/br.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2006,Round of 16,2006-06-27,,,Spain,France,1,3,(1-1),AWD-Arena,Hannover,played,ESP,es,https://flagcdn.com/w80/es.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2006,Quarterfinals,2006-06-30,,,Germany,Argentina,1,1,"a.e.t. (1-1, 0-0) 4-2 pen.",Olympiastadion,Berlin,played,GER,de,https://flagcdn.com/w80/de.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2006,Quarterfinals,2006-06-30,,,Italy,Ukraine,3,0,(1-0),AOL Arena,Hamburg,played,ITA,it,https://flagcdn.com/w80/it.png,UKR,ua,https://flagcdn.com/w80/ua.png
+2006,Quarterfinals,2006-07-01,,,England,Portugal,0,0,a.e.t. (0-0) 1-3 pen.,Veltins-Arena,Gelsenkirchen,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,POR,pt,https://flagcdn.com/w80/pt.png
+2006,Quarterfinals,2006-07-01,,,Brazil,France,0,1,(0-0),Commerzbank-Arena,Frankfurt,played,BRA,br,https://flagcdn.com/w80/br.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2006,Semifinals,2006-07-04,,,Germany,Italy,0,2,a.e.t. (0-0),Signal Iduna Park,Dortmund,played,GER,de,https://flagcdn.com/w80/de.png,ITA,it,https://flagcdn.com/w80/it.png
+2006,Semifinals,2006-07-05,,,Portugal,France,0,1,(0-1),Allianz Arena,München,played,POR,pt,https://flagcdn.com/w80/pt.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2006,Third-place play-off,2006-07-08,,,Germany,Portugal,3,1,(0-0),Gottlieb-Daimler-Stadion,Stuttgart,played,GER,de,https://flagcdn.com/w80/de.png,POR,pt,https://flagcdn.com/w80/pt.png
+2006,Final,2006-07-09,,,Italy,France,1,1,"a.e.t. (1-1, 1-1) 5-3 pen.",Olympiastadion,Berlin,played,ITA,it,https://flagcdn.com/w80/it.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2010,Group A,2010-06-11,16:00,,South Africa,Mexico,1,1,,Soccer City,Johannesburg,played,RSA,za,https://flagcdn.com/w80/za.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2010,Group A,2010-06-11,20:30,,Uruguay,France,0,0,,Cape Town Stadium,Cape Town,played,URU,uy,https://flagcdn.com/w80/uy.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2010,Group A,2010-06-16,20:30,,South Africa,Uruguay,0,3,,Loftus Versfeld Stadium,Pretoria,played,RSA,za,https://flagcdn.com/w80/za.png,URU,uy,https://flagcdn.com/w80/uy.png
+2010,Group A,2010-06-17,20:30,,France,Mexico,0,2,,Peter Mokaba Stadium,Polokwane,played,FRA,fr,https://flagcdn.com/w80/fr.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2010,Group A,2010-06-22,16:00,,Mexico,Uruguay,0,1,,Royal Bafokeng Stadium,Rustenburg,played,MEX,mx,https://flagcdn.com/w80/mx.png,URU,uy,https://flagcdn.com/w80/uy.png
+2010,Group A,2010-06-22,16:00,,France,South Africa,1,2,,Free State Stadium,Bloemfontein,played,FRA,fr,https://flagcdn.com/w80/fr.png,RSA,za,https://flagcdn.com/w80/za.png
+2010,Group B,2010-06-12,13:30,,South Korea,Greece,2,0,,Nelson Mandela Bay Stadium,Port Elizabeth,played,KOR,kr,https://flagcdn.com/w80/kr.png,GRE,gr,https://flagcdn.com/w80/gr.png
+2010,Group B,2010-06-12,16:00,,Argentina,Nigeria,1,0,,Ellis Park Stadium,Johannesburg,played,ARG,ar,https://flagcdn.com/w80/ar.png,NGA,ng,https://flagcdn.com/w80/ng.png
+2010,Group B,2010-06-17,13:30,,Argentina,South Korea,4,1,,Soccer City,Johannesburg,played,ARG,ar,https://flagcdn.com/w80/ar.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2010,Group B,2010-06-17,16:00,,Greece,Nigeria,2,1,,Free State Stadium,Bloemfontein,played,GRE,gr,https://flagcdn.com/w80/gr.png,NGA,ng,https://flagcdn.com/w80/ng.png
+2010,Group B,2010-06-22,20:30,,Nigeria,South Korea,2,2,,Moses Mabhida Stadium,Durban,played,NGA,ng,https://flagcdn.com/w80/ng.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2010,Group B,2010-06-22,20:30,,Greece,Argentina,0,2,,Peter Mokaba Stadium,Polokwane,played,GRE,gr,https://flagcdn.com/w80/gr.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2010,Group C,2010-06-12,20:30,,England,USA,1,1,,Royal Bafokeng Stadium,Rustenburg,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,USA,us,https://flagcdn.com/w80/us.png
+2010,Group C,2010-06-13,13:30,,Algeria,Slovenia,0,1,,Peter Mokaba Stadium,Polokwane,played,ALG,dz,https://flagcdn.com/w80/dz.png,SVN,si,https://flagcdn.com/w80/si.png
+2010,Group C,2010-06-18,16:00,,Slovenia,USA,2,2,,Ellis Park Stadium,Johannesburg,played,SVN,si,https://flagcdn.com/w80/si.png,USA,us,https://flagcdn.com/w80/us.png
+2010,Group C,2010-06-18,20:30,,England,Algeria,0,0,,Cape Town Stadium,Cape Town,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,ALG,dz,https://flagcdn.com/w80/dz.png
+2010,Group C,2010-06-23,16:00,,USA,Algeria,1,0,,Loftus Versfeld Stadium,Pretoria,played,USA,us,https://flagcdn.com/w80/us.png,ALG,dz,https://flagcdn.com/w80/dz.png
+2010,Group C,2010-06-23,16:00,,Slovenia,England,0,1,,Nelson Mandela Bay Stadium,Port Elizabeth,played,SVN,si,https://flagcdn.com/w80/si.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2010,Group D,2010-06-13,16:00,,Serbia,Ghana,0,1,,Loftus Versfeld Stadium,Pretoria,played,SRB,rs,https://flagcdn.com/w80/rs.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2010,Group D,2010-06-13,20:30,,Germany,Australia,4,0,,Moses Mabhida Stadium,Durban,played,GER,de,https://flagcdn.com/w80/de.png,AUS,au,https://flagcdn.com/w80/au.png
+2010,Group D,2010-06-18,13:30,,Germany,Serbia,0,1,,Nelson Mandela Bay Stadium,Port Elizabeth,played,GER,de,https://flagcdn.com/w80/de.png,SRB,rs,https://flagcdn.com/w80/rs.png
+2010,Group D,2010-06-19,16:00,,Ghana,Australia,1,1,,Royal Bafokeng Stadium,Rustenburg,played,GHA,gh,https://flagcdn.com/w80/gh.png,AUS,au,https://flagcdn.com/w80/au.png
+2010,Group D,2010-06-23,20:30,,Australia,Serbia,2,1,,Mbombela Stadium,Nelspruit,played,AUS,au,https://flagcdn.com/w80/au.png,SRB,rs,https://flagcdn.com/w80/rs.png
+2010,Group D,2010-06-23,20:30,,Ghana,Germany,0,1,,Soccer City,Johannesburg,played,GHA,gh,https://flagcdn.com/w80/gh.png,GER,de,https://flagcdn.com/w80/de.png
+2010,Group E,2010-06-14,13:30,,Netherlands,Denmark,2,0,,Soccer City,Johannesburg,played,NED,nl,https://flagcdn.com/w80/nl.png,DEN,dk,https://flagcdn.com/w80/dk.png
+2010,Group E,2010-06-14,16:00,,Japan,Cameroon,1,0,,Free State Stadium,Bloemfontein,played,JPN,jp,https://flagcdn.com/w80/jp.png,CMR,cm,https://flagcdn.com/w80/cm.png
+2010,Group E,2010-06-19,13:30,,Netherlands,Japan,1,0,,Moses Mabhida Stadium,Durban,played,NED,nl,https://flagcdn.com/w80/nl.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2010,Group E,2010-06-19,20:30,,Cameroon,Denmark,1,2,,Loftus Versfeld Stadium,Pretoria,played,CMR,cm,https://flagcdn.com/w80/cm.png,DEN,dk,https://flagcdn.com/w80/dk.png
+2010,Group E,2010-06-24,20:30,,Denmark,Japan,1,3,,Royal Bafokeng Stadium,Rustenburg,played,DEN,dk,https://flagcdn.com/w80/dk.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2010,Group E,2010-06-24,20:30,,Cameroon,Netherlands,1,2,,Cape Town Stadium,Cape Town,played,CMR,cm,https://flagcdn.com/w80/cm.png,NED,nl,https://flagcdn.com/w80/nl.png
+2010,Group F,2010-06-14,20:30,,Italy,Paraguay,1,1,,Cape Town Stadium,Cape Town,played,ITA,it,https://flagcdn.com/w80/it.png,PAR,py,https://flagcdn.com/w80/py.png
+2010,Group F,2010-06-15,13:30,,New Zealand,Slovakia,1,1,,Royal Bafokeng Stadium,Rustenburg,played,NZL,nz,https://flagcdn.com/w80/nz.png,SVK,sk,https://flagcdn.com/w80/sk.png
+2010,Group F,2010-06-20,13:30,,Slovakia,Paraguay,0,2,,Free State Stadium,Bloemfontein,played,SVK,sk,https://flagcdn.com/w80/sk.png,PAR,py,https://flagcdn.com/w80/py.png
+2010,Group F,2010-06-20,16:00,,Italy,New Zealand,1,1,,Mbombela Stadium,Nelspruit,played,ITA,it,https://flagcdn.com/w80/it.png,NZL,nz,https://flagcdn.com/w80/nz.png
+2010,Group F,2010-06-24,16:00,,Slovakia,Italy,3,2,,Ellis Park Stadium,Johannesburg,played,SVK,sk,https://flagcdn.com/w80/sk.png,ITA,it,https://flagcdn.com/w80/it.png
+2010,Group F,2010-06-24,16:00,,Paraguay,New Zealand,0,0,,Peter Mokaba Stadium,Polokwane,played,PAR,py,https://flagcdn.com/w80/py.png,NZL,nz,https://flagcdn.com/w80/nz.png
+2010,Group G,2010-06-15,16:00,,Côte d'Ivoire,Portugal,0,0,,Nelson Mandela Bay Stadium,Port Elizabeth,played,CIV,ci,https://flagcdn.com/w80/ci.png,POR,pt,https://flagcdn.com/w80/pt.png
+2010,Group G,2010-06-15,20:30,,Brazil,North Korea,2,1,,Ellis Park Stadium,Johannesburg,played,BRA,br,https://flagcdn.com/w80/br.png,PRK,kp,https://flagcdn.com/w80/kp.png
+2010,Group G,2010-06-20,20:30,,Brazil,Côte d'Ivoire,3,1,,Soccer City,Johannesburg,played,BRA,br,https://flagcdn.com/w80/br.png,CIV,ci,https://flagcdn.com/w80/ci.png
+2010,Group G,2010-06-21,13:30,,Portugal,North Korea,7,0,,Cape Town Stadium,Cape Town,played,POR,pt,https://flagcdn.com/w80/pt.png,PRK,kp,https://flagcdn.com/w80/kp.png
+2010,Group G,2010-06-25,16:00,,Portugal,Brazil,0,0,,Moses Mabhida Stadium,Durban,played,POR,pt,https://flagcdn.com/w80/pt.png,BRA,br,https://flagcdn.com/w80/br.png
+2010,Group G,2010-06-25,16:00,,North Korea,Côte d'Ivoire,0,3,,Mbombela Stadium,Nelspruit,played,PRK,kp,https://flagcdn.com/w80/kp.png,CIV,ci,https://flagcdn.com/w80/ci.png
+2010,Group H,2010-06-16,13:30,,Honduras,Chile,0,1,,Mbombela Stadium,Nelspruit,played,HON,hn,https://flagcdn.com/w80/hn.png,CHI,cl,https://flagcdn.com/w80/cl.png
+2010,Group H,2010-06-16,16:00,,Spain,Switzerland,0,1,,Moses Mabhida Stadium,Durban,played,ESP,es,https://flagcdn.com/w80/es.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2010,Group H,2010-06-21,16:00,,Chile,Switzerland,1,0,,Nelson Mandela Bay Stadium,Port Elizabeth,played,CHI,cl,https://flagcdn.com/w80/cl.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2010,Group H,2010-06-21,20:30,,Spain,Honduras,2,0,,Ellis Park Stadium,Johannesburg,played,ESP,es,https://flagcdn.com/w80/es.png,HON,hn,https://flagcdn.com/w80/hn.png
+2010,Group H,2010-06-25,20:30,,Chile,Spain,1,2,,Loftus Versfeld Stadium,Pretoria,played,CHI,cl,https://flagcdn.com/w80/cl.png,ESP,es,https://flagcdn.com/w80/es.png
+2010,Group H,2010-06-25,20:30,,Switzerland,Honduras,0,0,,Free State Stadium,Bloemfontein,played,SUI,ch,https://flagcdn.com/w80/ch.png,HON,hn,https://flagcdn.com/w80/hn.png
+2010,Round of 16,2010-06-26,16:00,,Uruguay,South Korea,2,1,,Nelson Mandela Bay Stadium,Port Elizabeth,played,URU,uy,https://flagcdn.com/w80/uy.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2010,Round of 16,2010-06-26,20:30,,USA,Ghana,1,2,a.e.t. (1-1),Royal Bafokeng Stadium,Rustenburg,played,USA,us,https://flagcdn.com/w80/us.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2010,Round of 16,2010-06-27,16:00,,Germany,England,4,1,,Free State Stadium,Bloemfontein,played,GER,de,https://flagcdn.com/w80/de.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2010,Round of 16,2010-06-27,20:30,,Argentina,Mexico,3,1,,Soccer City,Johannesburg,played,ARG,ar,https://flagcdn.com/w80/ar.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2010,Round of 16,2010-06-28,16:00,,Netherlands,Slovakia,2,1,,Moses Mabhida Stadium,Durban,played,NED,nl,https://flagcdn.com/w80/nl.png,SVK,sk,https://flagcdn.com/w80/sk.png
+2010,Round of 16,2010-06-28,20:30,,Brazil,Chile,3,0,,Ellis Park Stadium,Johannesburg,played,BRA,br,https://flagcdn.com/w80/br.png,CHI,cl,https://flagcdn.com/w80/cl.png
+2010,Round of 16,2010-06-29,16:00,,Paraguay,Japan,0,0,a.e.t. (0-0) 5-3 pen.,Loftus Versfeld Stadium,Pretoria,played,PAR,py,https://flagcdn.com/w80/py.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2010,Round of 16,2010-06-29,20:30,,Spain,Portugal,1,0,,Cape Town Stadium,Cape Town,played,ESP,es,https://flagcdn.com/w80/es.png,POR,pt,https://flagcdn.com/w80/pt.png
+2010,Quarterfinals,2010-07-02,16:00,,Netherlands,Brazil,2,1,,Nelson Mandela Bay Stadium,Port Elizabeth,played,NED,nl,https://flagcdn.com/w80/nl.png,BRA,br,https://flagcdn.com/w80/br.png
+2010,Quarterfinals,2010-07-02,20:30,,Uruguay,Ghana,1,1,a.e.t. (1-1) 4-2 pen.,Soccer City,Johannesburg,played,URU,uy,https://flagcdn.com/w80/uy.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2010,Quarterfinals,2010-07-03,16:00,,Argentina,Germany,0,4,,Cape Town Stadium,Cape Town,played,ARG,ar,https://flagcdn.com/w80/ar.png,GER,de,https://flagcdn.com/w80/de.png
+2010,Quarterfinals,2010-07-03,20:30,,Paraguay,Spain,0,1,,Ellis Park Stadium,Johannesburg,played,PAR,py,https://flagcdn.com/w80/py.png,ESP,es,https://flagcdn.com/w80/es.png
+2010,Semifinals,2010-07-06,20:30,,Uruguay,Netherlands,2,3,,Cape Town Stadium,Cape Town,played,URU,uy,https://flagcdn.com/w80/uy.png,NED,nl,https://flagcdn.com/w80/nl.png
+2010,Semifinals,2010-07-07,20:30,,Germany,Spain,0,1,,Moses Mabhida Stadium,Durban,played,GER,de,https://flagcdn.com/w80/de.png,ESP,es,https://flagcdn.com/w80/es.png
+2010,Third-place play-off,2010-07-10,20:30,,Uruguay,Germany,2,3,,Nelson Mandela Bay Stadium,Port Elizabeth,played,URU,uy,https://flagcdn.com/w80/uy.png,GER,de,https://flagcdn.com/w80/de.png
+2010,Final,2010-07-11,20:30,,Netherlands,Spain,0,1,a.e.t. (0-0),Soccer City,Johannesburg,played,NED,nl,https://flagcdn.com/w80/nl.png,ESP,es,https://flagcdn.com/w80/es.png
+2014,Group A,2014-06-12,17:00,UTC-3,Brazil,Croatia,3,1,(1-1),Arena de São Paulo,São Paulo,played,BRA,br,https://flagcdn.com/w80/br.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2014,Group A,2014-06-13,13:00,UTC-3,Mexico,Cameroon,1,0,(0-0),Estádio das Dunas,Natal,played,MEX,mx,https://flagcdn.com/w80/mx.png,CMR,cm,https://flagcdn.com/w80/cm.png
+2014,Group A,2014-06-17,16:00,UTC-3,Brazil,Mexico,0,0,,Estádio Castelão,Fortaleza,played,BRA,br,https://flagcdn.com/w80/br.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2014,Group A,2014-06-18,18:00,UTC-4,Cameroon,Croatia,0,4,,Arena Amazônia,Manaus,played,CMR,cm,https://flagcdn.com/w80/cm.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2014,Group A,2014-06-23,17:00,UTC-3,Cameroon,Brazil,1,4,,Estádio Nacional Mané Garrincha,Brasília,played,CMR,cm,https://flagcdn.com/w80/cm.png,BRA,br,https://flagcdn.com/w80/br.png
+2014,Group A,2014-06-23,17:00,UTC-3,Croatia,Mexico,1,3,,Arena Pernambuco,Recife,played,CRO,hr,https://flagcdn.com/w80/hr.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2014,Group B,2014-06-13,16:00,UTC-3,Spain,Netherlands,1,5,(1-1),Arena Fonte Nova,Salvador,played,ESP,es,https://flagcdn.com/w80/es.png,NED,nl,https://flagcdn.com/w80/nl.png
+2014,Group B,2014-06-13,18:00,UTC-4,Chile,Australia,3,1,(2-1),Arena Pantanal,Cuiabá,played,CHI,cl,https://flagcdn.com/w80/cl.png,AUS,au,https://flagcdn.com/w80/au.png
+2014,Group B,2014-06-18,13:00,UTC-3,Australia,Netherlands,2,3,,Estádio Beira-Rio,Porto Alegre,played,AUS,au,https://flagcdn.com/w80/au.png,NED,nl,https://flagcdn.com/w80/nl.png
+2014,Group B,2014-06-18,16:00,UTC-3,Spain,Chile,0,2,,Estádio do Maracanã,Rio de Janeiro,played,ESP,es,https://flagcdn.com/w80/es.png,CHI,cl,https://flagcdn.com/w80/cl.png
+2014,Group B,2014-06-23,13:00,UTC-3,Australia,Spain,0,3,,Arena da Baixada,Curitiba,played,AUS,au,https://flagcdn.com/w80/au.png,ESP,es,https://flagcdn.com/w80/es.png
+2014,Group B,2014-06-23,13:00,UTC-3,Netherlands,Chile,2,0,,Arena de São Paulo,São Paulo,played,NED,nl,https://flagcdn.com/w80/nl.png,CHI,cl,https://flagcdn.com/w80/cl.png
+2014,Group C,2014-06-14,13:00,UTC-3,Colombia,Greece,3,0,,Estádio Mineirão,Belo Horizonte,played,COL,co,https://flagcdn.com/w80/co.png,GRE,gr,https://flagcdn.com/w80/gr.png
+2014,Group C,2014-06-14,22:00,UTC-3,Côte d'Ivoire,Japan,2,1,,Arena Pernambuco,Recife,played,CIV,ci,https://flagcdn.com/w80/ci.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2014,Group C,2014-06-19,13:00,UTC-3,Colombia,Côte d'Ivoire,2,1,,Estádio Nacional Mané Garrincha,Brasília,played,COL,co,https://flagcdn.com/w80/co.png,CIV,ci,https://flagcdn.com/w80/ci.png
+2014,Group C,2014-06-19,19:00,UTC-3,Japan,Greece,0,0,,Estádio das Dunas,Natal,played,JPN,jp,https://flagcdn.com/w80/jp.png,GRE,gr,https://flagcdn.com/w80/gr.png
+2014,Group C,2014-06-24,16:00,UTC-4,Japan,Colombia,1,4,,Arena Pantanal,Cuiabá,played,JPN,jp,https://flagcdn.com/w80/jp.png,COL,co,https://flagcdn.com/w80/co.png
+2014,Group C,2014-06-24,17:00,UTC-3,Greece,Côte d'Ivoire,2,1,,Estádio Castelão,Fortaleza,played,GRE,gr,https://flagcdn.com/w80/gr.png,CIV,ci,https://flagcdn.com/w80/ci.png
+2014,Group D,2014-06-14,16:00,UTC-3,Uruguay,Costa Rica,1,3,,Estádio Castelão,Fortaleza,played,URU,uy,https://flagcdn.com/w80/uy.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2014,Group D,2014-06-14,18:00,UTC-4,England,Italy,1,2,,Arena Amazônia,Manaus,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,ITA,it,https://flagcdn.com/w80/it.png
+2014,Group D,2014-06-19,16:00,UTC-3,Uruguay,England,2,1,,Arena de São Paulo,São Paulo,played,URU,uy,https://flagcdn.com/w80/uy.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2014,Group D,2014-06-20,13:00,UTC-3,Italy,Costa Rica,0,1,,Arena Pernambuco,Recife,played,ITA,it,https://flagcdn.com/w80/it.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2014,Group D,2014-06-24,13:00,UTC-3,Italy,Uruguay,0,1,,Estádio das Dunas,Natal,played,ITA,it,https://flagcdn.com/w80/it.png,URU,uy,https://flagcdn.com/w80/uy.png
+2014,Group D,2014-06-24,13:00,UTC-3,Costa Rica,England,0,0,,Estádio Mineirão,Belo Horizonte,played,CRC,cr,https://flagcdn.com/w80/cr.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2014,Group E,2014-06-15,13:00,UTC-3,Switzerland,Ecuador,2,1,,Estádio Nacional Mané Garrincha,Brasília,played,SUI,ch,https://flagcdn.com/w80/ch.png,ECU,ec,https://flagcdn.com/w80/ec.png
+2014,Group E,2014-06-15,16:00,UTC-3,France,Honduras,3,0,,Estádio Beira-Rio,Porto Alegre,played,FRA,fr,https://flagcdn.com/w80/fr.png,HON,hn,https://flagcdn.com/w80/hn.png
+2014,Group E,2014-06-20,16:00,UTC-3,Switzerland,France,2,5,,Arena Fonte Nova,Salvador,played,SUI,ch,https://flagcdn.com/w80/ch.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2014,Group E,2014-06-20,19:00,UTC-3,Honduras,Ecuador,1,2,,Arena da Baixada,Curitiba,played,HON,hn,https://flagcdn.com/w80/hn.png,ECU,ec,https://flagcdn.com/w80/ec.png
+2014,Group E,2014-06-25,16:00,UTC-4,Honduras,Switzerland,0,3,,Arena Amazônia,Manaus,played,HON,hn,https://flagcdn.com/w80/hn.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2014,Group E,2014-06-25,17:00,UTC-3,Ecuador,France,0,0,,Estádio do Maracanã,Rio de Janeiro,played,ECU,ec,https://flagcdn.com/w80/ec.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2014,Group F,2014-06-15,19:00,UTC-3,Argentina,Bosnia-Herzegovina,2,1,,Estádio do Maracanã,Rio de Janeiro,played,ARG,ar,https://flagcdn.com/w80/ar.png,BIH,ba,https://flagcdn.com/w80/ba.png
+2014,Group F,2014-06-16,16:00,UTC-3,Iran,Nigeria,0,0,,Arena da Baixada,Curitiba,played,IRN,ir,https://flagcdn.com/w80/ir.png,NGA,ng,https://flagcdn.com/w80/ng.png
+2014,Group F,2014-06-21,13:00,UTC-3,Argentina,Iran,1,0,,Estádio Mineirão,Belo Horizonte,played,ARG,ar,https://flagcdn.com/w80/ar.png,IRN,ir,https://flagcdn.com/w80/ir.png
+2014,Group F,2014-06-21,18:00,UTC-4,Nigeria,Bosnia-Herzegovina,1,0,,Arena Pantanal,Cuiabá,played,NGA,ng,https://flagcdn.com/w80/ng.png,BIH,ba,https://flagcdn.com/w80/ba.png
+2014,Group F,2014-06-25,13:00,UTC-3,Nigeria,Argentina,2,3,,Estádio Beira-Rio,Porto Alegre,played,NGA,ng,https://flagcdn.com/w80/ng.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2014,Group F,2014-06-25,13:00,UTC-3,Bosnia-Herzegovina,Iran,3,1,,Arena Fonte Nova,Salvador,played,BIH,ba,https://flagcdn.com/w80/ba.png,IRN,ir,https://flagcdn.com/w80/ir.png
+2014,Group G,2014-06-16,13:00,UTC-3,Germany,Portugal,4,0,,Arena Fonte Nova,Salvador,played,GER,de,https://flagcdn.com/w80/de.png,POR,pt,https://flagcdn.com/w80/pt.png
+2014,Group G,2014-06-16,19:00,UTC-3,Ghana,USA,1,2,,Estádio das Dunas,Natal,played,GHA,gh,https://flagcdn.com/w80/gh.png,USA,us,https://flagcdn.com/w80/us.png
+2014,Group G,2014-06-21,16:00,UTC-3,Germany,Ghana,2,2,,Estádio Castelão,Fortaleza,played,GER,de,https://flagcdn.com/w80/de.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2014,Group G,2014-06-22,18:00,UTC-4,USA,Portugal,2,2,,Arena Amazônia,Manaus,played,USA,us,https://flagcdn.com/w80/us.png,POR,pt,https://flagcdn.com/w80/pt.png
+2014,Group G,2014-06-26,13:00,UTC-3,USA,Germany,0,1,,Arena Pernambuco,Recife,played,USA,us,https://flagcdn.com/w80/us.png,GER,de,https://flagcdn.com/w80/de.png
+2014,Group G,2014-06-26,13:00,UTC-3,Portugal,Ghana,2,1,,Estádio Nacional Mané Garrincha,Brasília,played,POR,pt,https://flagcdn.com/w80/pt.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2014,Group H,2014-06-17,13:00,UTC-3,Belgium,Algeria,2,1,,Estádio Mineirão,Belo Horizonte,played,BEL,be,https://flagcdn.com/w80/be.png,ALG,dz,https://flagcdn.com/w80/dz.png
+2014,Group H,2014-06-17,18:00,UTC-4,Russia,South Korea,1,1,,Arena Pantanal,Cuiabá,played,RUS,ru,https://flagcdn.com/w80/ru.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2014,Group H,2014-06-22,13:00,UTC-3,Belgium,Russia,1,0,,Estádio do Maracanã,Rio de Janeiro,played,BEL,be,https://flagcdn.com/w80/be.png,RUS,ru,https://flagcdn.com/w80/ru.png
+2014,Group H,2014-06-22,16:00,UTC-3,South Korea,Algeria,2,4,,Estádio Beira-Rio,Porto Alegre,played,KOR,kr,https://flagcdn.com/w80/kr.png,ALG,dz,https://flagcdn.com/w80/dz.png
+2014,Group H,2014-06-26,17:00,UTC-3,South Korea,Belgium,0,1,,Arena de São Paulo,São Paulo,played,KOR,kr,https://flagcdn.com/w80/kr.png,BEL,be,https://flagcdn.com/w80/be.png
+2014,Group H,2014-06-26,17:00,UTC-3,Algeria,Russia,1,1,,Arena da Baixada,Curitiba,played,ALG,dz,https://flagcdn.com/w80/dz.png,RUS,ru,https://flagcdn.com/w80/ru.png
+2014,Round of 16,2014-06-28,13:00,UTC-3,Brazil,Chile,1,1,"a.e.t. (1-1, 1-1) 3-2 pen.",Estádio Mineirão,Belo Horizonte   # 1A - 2B,played,BRA,br,https://flagcdn.com/w80/br.png,CHI,cl,https://flagcdn.com/w80/cl.png
+2014,Round of 16,2014-06-28,17:00,UTC-3,Colombia,Uruguay,2,0,(1-0),Estádio do Maracanã,Rio de Janeiro   # 1C - 2D,played,COL,co,https://flagcdn.com/w80/co.png,URU,uy,https://flagcdn.com/w80/uy.png
+2014,Round of 16,2014-06-29,13:00,UTC-3,Netherlands,Mexico,2,1,(0-0),Estádio Castelão,Fortaleza         # 1B - 2A,played,NED,nl,https://flagcdn.com/w80/nl.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2014,Round of 16,2014-06-29,17:00,UTC-3,Costa Rica,Greece,1,1,"a.e.t. (1-1, 0-0) 5-3 pen.",Arena Pernambuco,Recife      # 1D - 2C,played,CRC,cr,https://flagcdn.com/w80/cr.png,GRE,gr,https://flagcdn.com/w80/gr.png
+2014,Round of 16,2014-06-30,13:00,UTC-3,France,Nigeria,2,0,(0-0),Estádio Nacional Mané Garrincha,Brasília      # 1E - 2F,played,FRA,fr,https://flagcdn.com/w80/fr.png,NGA,ng,https://flagcdn.com/w80/ng.png
+2014,Round of 16,2014-06-30,17:00,UTC-3,Germany,Algeria,2,1,"a.e.t. (0-0, 0-0)",Estádio Beira-Rio,Porto Alegre     # 1G - 2H,played,GER,de,https://flagcdn.com/w80/de.png,ALG,dz,https://flagcdn.com/w80/dz.png
+2014,Round of 16,2014-07-01,13:00,UTC-3,Argentina,Switzerland,1,0,"a.e.t. (0-0, 0-0)",Arena de São Paulo,São Paulo    # 1F - 2E,played,ARG,ar,https://flagcdn.com/w80/ar.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2014,Round of 16,2014-07-01,17:00,UTC-3,Belgium,USA,2,1,"a.e.t. (0-0, 0-0)",Arena Fonte Nova,Salvador     # 1H - 2G,played,BEL,be,https://flagcdn.com/w80/be.png,USA,us,https://flagcdn.com/w80/us.png
+2014,Quarter-finals,2014-07-04,13:00,UTC-3,France,Germany,0,1,(0-1),Estádio do Maracanã,Rio de Janeiro    # W53 - W54,played,FRA,fr,https://flagcdn.com/w80/fr.png,GER,de,https://flagcdn.com/w80/de.png
+2014,Quarter-finals,2014-07-04,17:00,UTC-3,Brazil,Colombia,2,1,(1-0),Estádio Castelão,Fortaleza    # W49 - W50,played,BRA,br,https://flagcdn.com/w80/br.png,COL,co,https://flagcdn.com/w80/co.png
+2014,Quarter-finals,2014-07-05,13:00,UTC-3,Argentina,Belgium,1,0,(1-0),Estádio Nacional Mané Garrincha,Brasília    # W55 - W56,played,ARG,ar,https://flagcdn.com/w80/ar.png,BEL,be,https://flagcdn.com/w80/be.png
+2014,Quarter-finals,2014-07-05,17:00,UTC-3,Netherlands,Costa Rica,0,0,"a.e.t. (0-0, 0-0) 4-3 pen.",Arena Fonte Nova,Salvador    # W51 - W52,played,NED,nl,https://flagcdn.com/w80/nl.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2014,Semi-finals,2014-07-08,17:00,UTC-3,Brazil,Germany,1,7,(0-5),Estádio Mineirão,Belo Horizonte    # W57 - W58,played,BRA,br,https://flagcdn.com/w80/br.png,GER,de,https://flagcdn.com/w80/de.png
+2014,Semi-finals,2014-07-09,17:00,UTC-3,Netherlands,Argentina,0,0,"a.e.t. (0-0, 0-0) 2-4 pen.",Arena de São Paulo,São Paulo     # W59 - W69,played,NED,nl,https://flagcdn.com/w80/nl.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2014,Match for third place,2014-07-12,17:00,UTC-3,Brazil,Netherlands,0,3,(0-2),Estádio Nacional Mané Garrincha,Brasília,played,BRA,br,https://flagcdn.com/w80/br.png,NED,nl,https://flagcdn.com/w80/nl.png
+2014,Final,2014-07-13,16:00,UTC-3,Germany,Argentina,1,0,"a.e.t. (0-0, 0-0)",Estádio do Maracanã,Rio de Janeiro,played,GER,de,https://flagcdn.com/w80/de.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2018,Group A,2018-06-14,18:00,UTC+3,Russia,Saudi Arabia,5,0,(2-0),Luzhniki Stadium,Moscow,played,RUS,ru,https://flagcdn.com/w80/ru.png,KSA,sa,https://flagcdn.com/w80/sa.png
+2018,Group A,2018-06-15,17:00,UTC+5,Egypt,Uruguay,0,1,(0-0),Ekaterinburg Arena,Ekaterinburg,played,EGY,eg,https://flagcdn.com/w80/eg.png,URU,uy,https://flagcdn.com/w80/uy.png
+2018,Group A,2018-06-19,21:00,UTC+3,Russia,Egypt,3,1,(0-0),Saint Petersburg Stadium,Saint Petersburg,played,RUS,ru,https://flagcdn.com/w80/ru.png,EGY,eg,https://flagcdn.com/w80/eg.png
+2018,Group A,2018-06-20,18:00,UTC+3,Uruguay,Saudi Arabia,1,0,(1-0),Rostov Arena,Rostov-on-Don,played,URU,uy,https://flagcdn.com/w80/uy.png,KSA,sa,https://flagcdn.com/w80/sa.png
+2018,Group A,2018-06-25,18:00,UTC+4,Uruguay,Russia,3,0,(2-0),Samara Arena,Samara,played,URU,uy,https://flagcdn.com/w80/uy.png,RUS,ru,https://flagcdn.com/w80/ru.png
+2018,Group A,2018-06-25,17:00,UTC+3,Saudi Arabia,Egypt,2,1,(1-1),Volgograd Arena,Volgograd,played,KSA,sa,https://flagcdn.com/w80/sa.png,EGY,eg,https://flagcdn.com/w80/eg.png
+2018,Group B,2018-06-15,18:00,UTC+3,Morocco,Iran,0,1,(0-0),Saint Petersburg Stadium,Saint Petersburg,played,MAR,ma,https://flagcdn.com/w80/ma.png,IRN,ir,https://flagcdn.com/w80/ir.png
+2018,Group B,2018-06-15,21:00,UTC+3,Portugal,Spain,3,3,(2-1),Fisht Stadium,Sochi,played,POR,pt,https://flagcdn.com/w80/pt.png,ESP,es,https://flagcdn.com/w80/es.png
+2018,Group B,2018-06-20,15:00,UTC+3,Portugal,Morocco,1,0,(1-0),Luzhniki Stadium,Moscow,played,POR,pt,https://flagcdn.com/w80/pt.png,MAR,ma,https://flagcdn.com/w80/ma.png
+2018,Group B,2018-06-20,21:00,UTC+3,Iran,Spain,0,1,(0-0),Kazan Arena,Kazan,played,IRN,ir,https://flagcdn.com/w80/ir.png,ESP,es,https://flagcdn.com/w80/es.png
+2018,Group B,2018-06-25,21:00,UTC+3,Iran,Portugal,1,1,(0-1),Mordovia Arena,Saransk,played,IRN,ir,https://flagcdn.com/w80/ir.png,POR,pt,https://flagcdn.com/w80/pt.png
+2018,Group B,2018-06-25,20:00,UTC+2,Spain,Morocco,2,2,(1-1),Kaliningrad Stadium,Kaliningrad,played,ESP,es,https://flagcdn.com/w80/es.png,MAR,ma,https://flagcdn.com/w80/ma.png
+2018,Group C,2018-06-16,13:00,UTC+3,France,Australia,2,1,(0-0),Kazan Arena,Kazan,played,FRA,fr,https://flagcdn.com/w80/fr.png,AUS,au,https://flagcdn.com/w80/au.png
+2018,Group C,2018-06-16,19:00,UTC+3,Peru,Denmark,0,1,(0-0),Mordovia Arena,Saransk,played,PER,pe,https://flagcdn.com/w80/pe.png,DEN,dk,https://flagcdn.com/w80/dk.png
+2018,Group C,2018-06-21,16:00,UTC+4,Denmark,Australia,1,1,(1-1),Samara Arena,Samara,played,DEN,dk,https://flagcdn.com/w80/dk.png,AUS,au,https://flagcdn.com/w80/au.png
+2018,Group C,2018-06-21,20:00,UTC+5,France,Peru,1,0,(1-0),Ekaterinburg Arena,Ekaterinburg,played,FRA,fr,https://flagcdn.com/w80/fr.png,PER,pe,https://flagcdn.com/w80/pe.png
+2018,Group C,2018-06-26,17:00,UTC+3,Denmark,France,0,0,(0-0),Luzhniki Stadium,Moscow,played,DEN,dk,https://flagcdn.com/w80/dk.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2018,Group C,2018-06-26,17:00,UTC+3,Australia,Peru,0,2,(0-1),Fisht Stadium,Sochi,played,AUS,au,https://flagcdn.com/w80/au.png,PER,pe,https://flagcdn.com/w80/pe.png
+2018,Group D,2018-06-16,16:00,UTC+3,Argentina,Iceland,1,1,(1-1),Spartak Stadium,Moscow,played,ARG,ar,https://flagcdn.com/w80/ar.png,ISL,is,https://flagcdn.com/w80/is.png
+2018,Group D,2018-06-16,21:00,UTC+2,Croatia,Nigeria,2,0,(1-0),Kaliningrad Stadium,Kaliningrad,played,CRO,hr,https://flagcdn.com/w80/hr.png,NGA,ng,https://flagcdn.com/w80/ng.png
+2018,Group D,2018-06-21,21:00,UTC+3,Argentina,Croatia,0,3,(0-0),Nizhny Novgorod Stadium,Nizhny Novgorod,played,ARG,ar,https://flagcdn.com/w80/ar.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2018,Group D,2018-06-22,18:00,UTC+3,Nigeria,Iceland,2,0,(0-0),Volgograd Arena,Volgograd,played,NGA,ng,https://flagcdn.com/w80/ng.png,ISL,is,https://flagcdn.com/w80/is.png
+2018,Group D,2018-06-26,21:00,UTC+3,Nigeria,Argentina,1,2,(0-1),Saint Petersburg Stadium,Saint Petersburg,played,NGA,ng,https://flagcdn.com/w80/ng.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2018,Group D,2018-06-26,21:00,UTC+3,Iceland,Croatia,1,2,(0-0),Rostov Arena,Rostov-on-Don,played,ISL,is,https://flagcdn.com/w80/is.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2018,Group E,2018-06-17,16:00,UTC+4,Costa Rica,Serbia,0,1,(0-0),Samara Arena,Samara,played,CRC,cr,https://flagcdn.com/w80/cr.png,SRB,rs,https://flagcdn.com/w80/rs.png
+2018,Group E,2018-06-17,21:00,UTC+3,Brazil,Switzerland,1,1,(1-0),Rostov Arena,Rostov-on-Don,played,BRA,br,https://flagcdn.com/w80/br.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2018,Group E,2018-06-22,15:00,UTC+3,Brazil,Costa Rica,2,0,(0-0),Saint Petersburg Stadium,Saint Petersburg,played,BRA,br,https://flagcdn.com/w80/br.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2018,Group E,2018-06-22,20:00,UTC+2,Serbia,Switzerland,1,2,(1-0),Kaliningrad Stadium,Kaliningrad,played,SRB,rs,https://flagcdn.com/w80/rs.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2018,Group E,2018-06-27,21:00,UTC+3,Serbia,Brazil,0,2,(0-1),Spartak Stadium,Moscow,played,SRB,rs,https://flagcdn.com/w80/rs.png,BRA,br,https://flagcdn.com/w80/br.png
+2018,Group E,2018-06-27,21:00,UTC+3,Switzerland,Costa Rica,2,2,(1-0),Nizhny Novgorod Stadium,Nizhny Novgorod,played,SUI,ch,https://flagcdn.com/w80/ch.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2018,Group F,2018-06-17,18:00,UTC+3,Germany,Mexico,0,1,(0-1),Luzhniki Stadium,Moscow,played,GER,de,https://flagcdn.com/w80/de.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2018,Group F,2018-06-18,15:00,UTC+3,Sweden,South Korea,1,0,(0-0),Nizhny Novgorod Stadium,Nizhny Novgorod,played,SWE,se,https://flagcdn.com/w80/se.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2018,Group F,2018-06-23,18:00,UTC+3,South Korea,Mexico,1,2,(0-1),Rostov Arena,Rostov-on-Don,played,KOR,kr,https://flagcdn.com/w80/kr.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2018,Group F,2018-06-23,21:00,UTC+3,Germany,Sweden,2,1,(0-1),Fisht Stadium,Sochi,played,GER,de,https://flagcdn.com/w80/de.png,SWE,se,https://flagcdn.com/w80/se.png
+2018,Group F,2018-06-27,17:00,UTC+3,South Korea,Germany,2,0,(0-0),Kazan Arena,Kazan,played,KOR,kr,https://flagcdn.com/w80/kr.png,GER,de,https://flagcdn.com/w80/de.png
+2018,Group F,2018-06-27,19:00,UTC+5,Mexico,Sweden,0,3,(0-0),Ekaterinburg Arena,Ekaterinburg,played,MEX,mx,https://flagcdn.com/w80/mx.png,SWE,se,https://flagcdn.com/w80/se.png
+2018,Group G,2018-06-18,18:00,UTC+3,Belgium,Panama,3,0,(0-0),Fisht Stadium,Sochi,played,BEL,be,https://flagcdn.com/w80/be.png,PAN,pa,https://flagcdn.com/w80/pa.png
+2018,Group G,2018-06-18,21:00,UTC+3,Tunisia,England,1,2,(1-1),Volgograd Arena,Volgograd,played,TUN,tn,https://flagcdn.com/w80/tn.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2018,Group G,2018-06-23,15:00,UTC+3,Belgium,Tunisia,5,2,(3-1),Spartak Stadium,Moscow,played,BEL,be,https://flagcdn.com/w80/be.png,TUN,tn,https://flagcdn.com/w80/tn.png
+2018,Group G,2018-06-24,15:00,UTC+3,England,Panama,6,1,(5-0),Nizhny Novgorod Stadium,Nizhny Novgorod,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,PAN,pa,https://flagcdn.com/w80/pa.png
+2018,Group G,2018-06-28,20:00,UTC+2,England,Belgium,0,1,(0-0),Kaliningrad Stadium,Kaliningrad,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,BEL,be,https://flagcdn.com/w80/be.png
+2018,Group G,2018-06-28,21:00,UTC+3,Panama,Tunisia,1,2,(1-0),Mordovia Arena,Saransk,played,PAN,pa,https://flagcdn.com/w80/pa.png,TUN,tn,https://flagcdn.com/w80/tn.png
+2018,Group H,2018-06-19,15:00,UTC+3,Colombia,Japan,1,2,(1-1),Mordovia Arena,Saransk,played,COL,co,https://flagcdn.com/w80/co.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2018,Group H,2018-06-19,18:00,UTC+3,Poland,Senegal,1,2,(0-1),Spartak Stadium,Moscow,played,POL,pl,https://flagcdn.com/w80/pl.png,SEN,sn,https://flagcdn.com/w80/sn.png
+2018,Group H,2018-06-24,20:00,UTC+5,Japan,Senegal,2,2,(1-1),Ekaterinburg Arena,Ekaterinburg,played,JPN,jp,https://flagcdn.com/w80/jp.png,SEN,sn,https://flagcdn.com/w80/sn.png
+2018,Group H,2018-06-24,21:00,UTC+3,Poland,Colombia,0,3,(0-1),Kazan Arena,Kazan,played,POL,pl,https://flagcdn.com/w80/pl.png,COL,co,https://flagcdn.com/w80/co.png
+2018,Group H,2018-06-28,17:00,UTC+3,Japan,Poland,0,1,(0-1),Volgograd Arena,Volgograd,played,JPN,jp,https://flagcdn.com/w80/jp.png,POL,pl,https://flagcdn.com/w80/pl.png
+2018,Group H,2018-06-28,18:00,UTC+4,Senegal,Colombia,0,1,(0-1),Samara Arena,Samara,played,SEN,sn,https://flagcdn.com/w80/sn.png,COL,co,https://flagcdn.com/w80/co.png
+2018,Round of 16,2018-06-30,17:00,UTC+3,France,Argentina,4,3,(1-1),Kazan Arena,Kazan,played,FRA,fr,https://flagcdn.com/w80/fr.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2018,Round of 16,2018-06-30,21:00,UTC+3,Uruguay,Portugal,2,1,(1-0),Fisht Stadium,Sochi,played,URU,uy,https://flagcdn.com/w80/uy.png,POR,pt,https://flagcdn.com/w80/pt.png
+2018,Round of 16,2018-07-01,17:00,UTC+3,Spain,Russia,1,1,"a.e.t. (1-1, 1-1) 3-4 pen.",Luzhniki Stadium,Moscow,played,ESP,es,https://flagcdn.com/w80/es.png,RUS,ru,https://flagcdn.com/w80/ru.png
+2018,Round of 16,2018-07-01,21:00,UTC+3,Croatia,Denmark,1,1,"a.e.t. (1-1, 1-1) 3-2 pen.",Nizhny Novgorod Stadium,Nizhny Novgorod,played,CRO,hr,https://flagcdn.com/w80/hr.png,DEN,dk,https://flagcdn.com/w80/dk.png
+2018,Round of 16,2018-07-02,18:00,UTC+4,Brazil,Mexico,2,0,(0-0),Samara Arena,Samara,played,BRA,br,https://flagcdn.com/w80/br.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2018,Round of 16,2018-07-02,21:00,UTC+3,Belgium,Japan,3,2,(0-0),Rostov Arena,Rostov-on-Don,played,BEL,be,https://flagcdn.com/w80/be.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2018,Round of 16,2018-07-03,17:00,UTC+3,Sweden,Switzerland,1,0,(0-0),Saint Petersburg Stadium,Saint Petersburg,played,SWE,se,https://flagcdn.com/w80/se.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2018,Round of 16,2018-07-03,21:00,UTC+3,Colombia,England,1,1,"a.e.t. (1-1, 0-0) 3-4 pen.",Spartak Stadium,Moscow,played,COL,co,https://flagcdn.com/w80/co.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2018,Quarter-finals,2018-07-06,17:00,UTC+3,Uruguay,France,0,2,(0-1),Nizhny Novgorod Stadium,Nizhny Novgorod,played,URU,uy,https://flagcdn.com/w80/uy.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2018,Quarter-finals,2018-07-06,21:00,UTC+3,Brazil,Belgium,1,2,(0-2),Kazan Arena,Kazan,played,BRA,br,https://flagcdn.com/w80/br.png,BEL,be,https://flagcdn.com/w80/be.png
+2018,Quarter-finals,2018-07-07,18:00,UTC+4,Sweden,England,0,2,(0-1),Samara Arena,Samara,played,SWE,se,https://flagcdn.com/w80/se.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2018,Quarter-finals,2018-07-07,21:00,UTC+3,Russia,Croatia,2,2,"a.e.t. (1-1, 1-1) 3-4 pen.",Fisht Stadium,Sochi,played,RUS,ru,https://flagcdn.com/w80/ru.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2018,Semi-finals,2018-07-10,21:00,UTC+3,France,Belgium,1,0,(0-0),Saint Petersburg Stadium,St. Petersburg,played,FRA,fr,https://flagcdn.com/w80/fr.png,BEL,be,https://flagcdn.com/w80/be.png
+2018,Semi-finals,2018-07-11,21:00,UTC+3,Croatia,England,2,1,"a.e.t. (1-1, 0-1)",Luzhniki Stadium,Moscow,played,CRO,hr,https://flagcdn.com/w80/hr.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2018,Match for third place,2018-07-14,17:00,UTC+3,Belgium,England,2,0,(1-0),Saint Petersburg Stadium,St. Petersburg,played,BEL,be,https://flagcdn.com/w80/be.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2018,Final,2018-07-15,18:00,UTC+3,France,Croatia,4,2,(2-1),Luzhniki Stadium,Moscow,played,FRA,fr,https://flagcdn.com/w80/fr.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2022,Group A,2022-11-20,19:00,,Qatar,Ecuador,0,2,(0-2),Al Bayt Stadium,Al Khor,played,QAT,qa,https://flagcdn.com/w80/qa.png,ECU,ec,https://flagcdn.com/w80/ec.png
+2022,Group A,2022-11-21,19:00,,Senegal,Netherlands,0,2,(0-0),Al Thumama Stadium,Doha,played,SEN,sn,https://flagcdn.com/w80/sn.png,NED,nl,https://flagcdn.com/w80/nl.png
+2022,Group A,2022-11-25,16:00,,Qatar,Senegal,1,3,(0-1),Al Thumama Stadium,Doha,played,QAT,qa,https://flagcdn.com/w80/qa.png,SEN,sn,https://flagcdn.com/w80/sn.png
+2022,Group A,2022-11-25,19:00,,Netherlands,Ecuador,1,1,(1-0),Khalifa International Stadium,Al Rayyan,played,NED,nl,https://flagcdn.com/w80/nl.png,ECU,ec,https://flagcdn.com/w80/ec.png
+2022,Group A,2022-11-29,18:00,,Ecuador,Senegal,1,2,(0-1),Khalifa International Stadium,Al Rayyan,played,ECU,ec,https://flagcdn.com/w80/ec.png,SEN,sn,https://flagcdn.com/w80/sn.png
+2022,Group A,2022-11-29,,,Netherlands,Qatar,2,0,(1-0),Al Bayt Stadium,Al Khor,played,NED,nl,https://flagcdn.com/w80/nl.png,QAT,qa,https://flagcdn.com/w80/qa.png
+2022,Group B,2022-11-21,16:00,,England,Iran,6,2,(3-0),Khalifa International Stadium,Al Rayyan,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,IRN,ir,https://flagcdn.com/w80/ir.png
+2022,Group B,2022-11-21,22:00,,USA,Wales,1,1,(1-0),Ahmad bin Ali Stadium,Al Rayyan,played,USA,us,https://flagcdn.com/w80/us.png,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png
+2022,Group B,2022-11-25,13:00,,Wales,Iran,0,2,(0-0),Ahmad bin Ali Stadium,Al Rayyan,played,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png,IRN,ir,https://flagcdn.com/w80/ir.png
+2022,Group B,2022-11-25,22:00,,England,USA,0,0,,Al Bayt Stadium,Al Khor,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,USA,us,https://flagcdn.com/w80/us.png
+2022,Group B,2022-11-29,22:00,,Wales,England,0,3,(0-0),Ahmad bin Ali Stadium,Al Rayyan,played,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2022,Group B,2022-11-29,22:00,,Iran,USA,0,1,(0-1),Al Thumama Stadium,Doha,played,IRN,ir,https://flagcdn.com/w80/ir.png,USA,us,https://flagcdn.com/w80/us.png
+2022,Group C,2022-11-22,13:00,,Argentina,Saudi Arabia,1,2,(1-0),Lusail Iconic Stadium,Lusail,played,ARG,ar,https://flagcdn.com/w80/ar.png,KSA,sa,https://flagcdn.com/w80/sa.png
+2022,Group C,2022-11-22,19:00,,Mexico,Poland,0,0,,Stadium 974,Doha,played,MEX,mx,https://flagcdn.com/w80/mx.png,POL,pl,https://flagcdn.com/w80/pl.png
+2022,Group C,2022-11-26,16:00,,Poland,Saudi Arabia,2,0,(1-0),Education City Stadium,Al Rayyan,played,POL,pl,https://flagcdn.com/w80/pl.png,KSA,sa,https://flagcdn.com/w80/sa.png
+2022,Group C,2022-11-26,22:00,,Argentina,Mexico,2,0,(0-0),Lusail Iconic Stadium,Lusail,played,ARG,ar,https://flagcdn.com/w80/ar.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2022,Group C,2022-11-30,22:00,,Poland,Argentina,0,2,(0-0),Stadium 974,Doha,played,POL,pl,https://flagcdn.com/w80/pl.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2022,Group C,2022-11-30,22:00,,Saudi Arabia,Mexico,1,2,(0-0),Lusail Iconic Stadium,Lusail,played,KSA,sa,https://flagcdn.com/w80/sa.png,MEX,mx,https://flagcdn.com/w80/mx.png
+2022,Group D,2022-11-22,16:00,,Denmark,Tunisia,0,0,,Education City Stadium,Al Rayyan,played,DEN,dk,https://flagcdn.com/w80/dk.png,TUN,tn,https://flagcdn.com/w80/tn.png
+2022,Group D,2022-11-22,22:00,,France,Australia,4,1,(2-1),Al Janoub Stadium,Al Wakrah,played,FRA,fr,https://flagcdn.com/w80/fr.png,AUS,au,https://flagcdn.com/w80/au.png
+2022,Group D,2022-11-26,13:00,,Tunisia,Australia,0,1,(0-1),Al Janoub Stadium,Al Wakrah,played,TUN,tn,https://flagcdn.com/w80/tn.png,AUS,au,https://flagcdn.com/w80/au.png
+2022,Group D,2022-11-26,19:00,,France,Denmark,2,1,(0-0),Stadium 974,Doha,played,FRA,fr,https://flagcdn.com/w80/fr.png,DEN,dk,https://flagcdn.com/w80/dk.png
+2022,Group D,2022-11-30,18:00,,Australia,Denmark,1,0,(0-0),Al Janoub Stadium,Al Wakrah,played,AUS,au,https://flagcdn.com/w80/au.png,DEN,dk,https://flagcdn.com/w80/dk.png
+2022,Group D,2022-11-30,,,Tunisia,France,1,0,(0-0),Education City Stadium,Al Rayyan,played,TUN,tn,https://flagcdn.com/w80/tn.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2022,Group E,2022-11-23,16:00,,Germany,Japan,1,2,(1-0),Khalifa International Stadium,Al Rayyan,played,GER,de,https://flagcdn.com/w80/de.png,JPN,jp,https://flagcdn.com/w80/jp.png
+2022,Group E,2022-11-23,19:00,,Spain,Costa Rica,7,0,(3-0),Al Thumama Stadium,Doha,played,ESP,es,https://flagcdn.com/w80/es.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2022,Group E,2022-11-27,13:00,,Japan,Costa Rica,0,1,(0-0),Ahmad bin Ali Stadium,Al Rayyan,played,JPN,jp,https://flagcdn.com/w80/jp.png,CRC,cr,https://flagcdn.com/w80/cr.png
+2022,Group E,2022-11-27,22:00,,Spain,Germany,1,1,(0-0),Al Bayt Stadium,Al Khor,played,ESP,es,https://flagcdn.com/w80/es.png,GER,de,https://flagcdn.com/w80/de.png
+2022,Group E,2022-12-01,22:00,,Japan,Spain,2,1,(0-0),Khalifa International Stadium,Al Rayyan,played,JPN,jp,https://flagcdn.com/w80/jp.png,ESP,es,https://flagcdn.com/w80/es.png
+2022,Group E,2022-12-01,,,Costa Rica,Germany,2,4,(0-1),Al Bayt Stadium,Al Khor,played,CRC,cr,https://flagcdn.com/w80/cr.png,GER,de,https://flagcdn.com/w80/de.png
+2022,Group F,2022-11-23,13:00,,Morocco,Croatia,0,0,,Al Bayt Stadium,Al Khor,played,MAR,ma,https://flagcdn.com/w80/ma.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2022,Group F,2022-11-23,22:00,,Belgium,Canada,1,0,(1-0),Ahmad bin Ali Stadium,Al Rayyan,played,BEL,be,https://flagcdn.com/w80/be.png,CAN,ca,https://flagcdn.com/w80/ca.png
+2022,Group F,2022-11-27,16:00,,Belgium,Morocco,0,2,(0-0),Al Thumama Stadium,Doha,played,BEL,be,https://flagcdn.com/w80/be.png,MAR,ma,https://flagcdn.com/w80/ma.png
+2022,Group F,2022-11-27,19:00,,Croatia,Canada,4,1,(2-1),Khalifa International Stadium,Al Rayyan,played,CRO,hr,https://flagcdn.com/w80/hr.png,CAN,ca,https://flagcdn.com/w80/ca.png
+2022,Group F,2022-12-01,18:00,,Croatia,Belgium,0,0,,Ahmad bin Ali Stadium,Al Rayyan,played,CRO,hr,https://flagcdn.com/w80/hr.png,BEL,be,https://flagcdn.com/w80/be.png
+2022,Group F,2022-12-01,18:00,,Canada,Morocco,1,2,(1-2),Al Thumama Stadium,Doha,played,CAN,ca,https://flagcdn.com/w80/ca.png,MAR,ma,https://flagcdn.com/w80/ma.png
+2022,Group G,2022-11-24,13:00,,Switzerland,Cameroon,1,0,(0-0),Al Janoub Stadium,Al Wakrah,played,SUI,ch,https://flagcdn.com/w80/ch.png,CMR,cm,https://flagcdn.com/w80/cm.png
+2022,Group G,2022-11-24,22:00,,Brazil,Serbia,2,0,(0-0),Lusail Iconic Stadium,Lusail,played,BRA,br,https://flagcdn.com/w80/br.png,SRB,rs,https://flagcdn.com/w80/rs.png
+2022,Group G,2022-11-28,13:00,,Cameroon,Serbia,3,3,(1-2),Al Janoub Stadium,Al Wakrah,played,CMR,cm,https://flagcdn.com/w80/cm.png,SRB,rs,https://flagcdn.com/w80/rs.png
+2022,Group G,2022-11-28,19:00,,Brazil,Switzerland,1,0,(0-0),Stadium 974,Doha,played,BRA,br,https://flagcdn.com/w80/br.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2022,Group G,2022-12-02,22:00,,Serbia,Switzerland,2,3,(2-1),Stadium 974,Doha,played,SRB,rs,https://flagcdn.com/w80/rs.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2022,Group G,2022-12-02,22:00,,Cameroon,Brazil,1,0,(0-0),Lusail Iconic Stadium,Lusail,played,CMR,cm,https://flagcdn.com/w80/cm.png,BRA,br,https://flagcdn.com/w80/br.png
+2022,Group H,2022-11-24,16:00,,Uruguay,South Korea,0,0,,Education City Stadium,Al Rayyan,played,URU,uy,https://flagcdn.com/w80/uy.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2022,Group H,2022-11-24,19:00,,Portugal,Ghana,3,2,(0-0),Stadium 974,Doha,played,POR,pt,https://flagcdn.com/w80/pt.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2022,Group H,2022-11-28,16:00,,South Korea,Ghana,2,3,(0-2),Education City Stadium,Al Rayyan,played,KOR,kr,https://flagcdn.com/w80/kr.png,GHA,gh,https://flagcdn.com/w80/gh.png
+2022,Group H,2022-11-28,22:00,,Portugal,Uruguay,2,0,(0-0),Lusail Iconic Stadium,Lusail,played,POR,pt,https://flagcdn.com/w80/pt.png,URU,uy,https://flagcdn.com/w80/uy.png
+2022,Group H,2022-12-02,18:00,,Ghana,Uruguay,0,2,,Al Janoub Stadium,Al Wakrah,played,GHA,gh,https://flagcdn.com/w80/gh.png,URU,uy,https://flagcdn.com/w80/uy.png
+2022,Group H,2022-12-02,,,South Korea,Portugal,2,1,(1-1),Lusail Iconic Stadium,Lusail,played,KOR,kr,https://flagcdn.com/w80/kr.png,POR,pt,https://flagcdn.com/w80/pt.png
+2022,Round of 16,2022-12-03,18:00,,Netherlands,USA,3,1,(2-0),Khalifa International Stadium,Al Rayyan,played,NED,nl,https://flagcdn.com/w80/nl.png,USA,us,https://flagcdn.com/w80/us.png
+2022,Round of 16,2022-12-03,22:00,,Argentina,Australia,2,1,(1-0),Ahmad bin Ali Stadium,Al Rayyan,played,ARG,ar,https://flagcdn.com/w80/ar.png,AUS,au,https://flagcdn.com/w80/au.png
+2022,Round of 16,2022-12-04,18:00,,France,Poland,3,1,(1-0),Al Thumama Stadium,Doha,played,FRA,fr,https://flagcdn.com/w80/fr.png,POL,pl,https://flagcdn.com/w80/pl.png
+2022,Round of 16,2022-12-04,22:00,,England,Senegal,3,0,(2-0),Al Bayt Stadium,Al Khor,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,SEN,sn,https://flagcdn.com/w80/sn.png
+2022,Round of 16,2022-12-05,18:00,,Japan,Croatia,1,1,"a.e.t (1-1, 1-0) 1-3 pen.",Al Janoub Stadium,Al Wakrah,played,JPN,jp,https://flagcdn.com/w80/jp.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2022,Round of 16,2022-12-05,22:00,,Brazil,South Korea,4,1,(4-0),Stadium 974,Doha,played,BRA,br,https://flagcdn.com/w80/br.png,KOR,kr,https://flagcdn.com/w80/kr.png
+2022,Round of 16,2022-12-06,18:00,,Morocco,Spain,0,0,"a.e.t. (0-0, 0-0) 3-0 pen.",Education City Stadium,Al Rayyan,played,MAR,ma,https://flagcdn.com/w80/ma.png,ESP,es,https://flagcdn.com/w80/es.png
+2022,Round of 16,2022-12-06,22:00,,Portugal,Switzerland,6,1,(2-0),Lusail Iconic Stadium,Lusail,played,POR,pt,https://flagcdn.com/w80/pt.png,SUI,ch,https://flagcdn.com/w80/ch.png
+2022,Quarter-finals,2022-12-09,18:00,,Croatia,Brazil,1,1,"a.e.t. (0-0, 0-0) 4-2 pen.",Education City Stadium,Al Rayyan,played,CRO,hr,https://flagcdn.com/w80/hr.png,BRA,br,https://flagcdn.com/w80/br.png
+2022,Quarter-finals,2022-12-09,22:00,,Netherlands,Argentina,2,2,"a.e.t. (2-2, 1-0) 3-4 pen.",Lusail Iconic Stadium,Lusail,played,NED,nl,https://flagcdn.com/w80/nl.png,ARG,ar,https://flagcdn.com/w80/ar.png
+2022,Quarter-finals,2022-12-10,18:00,,Morocco,Portugal,1,0,(1-0),Al Thumama Stadium,Doha,played,MAR,ma,https://flagcdn.com/w80/ma.png,POR,pt,https://flagcdn.com/w80/pt.png
+2022,Quarter-finals,2022-12-10,22:00,,England,France,1,2,(0-1),Al Bayt Stadium,Al Khor,played,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png,FRA,fr,https://flagcdn.com/w80/fr.png
+2022,Semi-finals,2022-12-13,22:00,,Argentina,Croatia,3,0,(2-0),Lusail Iconic Stadium,Lusail,played,ARG,ar,https://flagcdn.com/w80/ar.png,CRO,hr,https://flagcdn.com/w80/hr.png
+2022,Semi-finals,2022-12-14,22:00,,France,Morocco,2,0,(1-0),Al Bayt Stadium,Al Khor,played,FRA,fr,https://flagcdn.com/w80/fr.png,MAR,ma,https://flagcdn.com/w80/ma.png
+2022,Match for third place,2022-12-17,18:00,,Croatia,Morocco,2,1,(2-1),Khalifa International Stadium,Al Rayyan,played,CRO,hr,https://flagcdn.com/w80/hr.png,MAR,ma,https://flagcdn.com/w80/ma.png
+2022,Final,2022-12-18,18:00,,Argentina,France,3,3,"a.e.t. (2-2, 2-0) 4-2 pen.",Lusail Iconic Stadium,Lusail,played,ARG,ar,https://flagcdn.com/w80/ar.png,FRA,fr,https://flagcdn.com/w80/fr.png

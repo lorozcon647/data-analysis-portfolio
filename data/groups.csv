@@ -1,0 +1,489 @@
+tournament_year,group_name,team,team_order,team_fifaCode,team_flagCode,team_flagUrl
+1930,Group 1,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+1930,Group 1,Chile,2,CHI,cl,https://flagcdn.com/w80/cl.png
+1930,Group 1,France,3,FRA,fr,https://flagcdn.com/w80/fr.png
+1930,Group 1,Mexico,4,MEX,mx,https://flagcdn.com/w80/mx.png
+1930,Group 2,Yugoslavia,1,YUG,rs,https://flagcdn.com/w80/rs.png
+1930,Group 2,Brazil,2,BRA,br,https://flagcdn.com/w80/br.png
+1930,Group 2,Bolivia,3,BOL,bo,https://flagcdn.com/w80/bo.png
+1930,Group 3,Uruguay,1,URU,uy,https://flagcdn.com/w80/uy.png
+1930,Group 3,Romania,2,ROU,ro,https://flagcdn.com/w80/ro.png
+1930,Group 3,Peru,3,PER,pe,https://flagcdn.com/w80/pe.png
+1930,Group 4,USA,1,USA,us,https://flagcdn.com/w80/us.png
+1930,Group 4,Paraguay,2,PAR,py,https://flagcdn.com/w80/py.png
+1930,Group 4,Belgium,3,BEL,be,https://flagcdn.com/w80/be.png
+1950,Group 1,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1950,Group 1,Mexico,2,MEX,mx,https://flagcdn.com/w80/mx.png
+1950,Group 1,Switzerland,3,SUI,ch,https://flagcdn.com/w80/ch.png
+1950,Group 1,Yugoslavia,4,YUG,rs,https://flagcdn.com/w80/rs.png
+1950,Group 2,England,1,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1950,Group 2,Chile,2,CHI,cl,https://flagcdn.com/w80/cl.png
+1950,Group 2,Spain,3,ESP,es,https://flagcdn.com/w80/es.png
+1950,Group 2,United States,4,USA,us,https://flagcdn.com/w80/us.png
+1950,Group 3,Italy,1,ITA,it,https://flagcdn.com/w80/it.png
+1950,Group 3,India,2,IND,in,https://flagcdn.com/w80/in.png
+1950,Group 3,Paraguay,3,PAR,py,https://flagcdn.com/w80/py.png
+1950,Group 3,Sweden,4,SWE,se,https://flagcdn.com/w80/se.png
+1950,Group 4,Uruguay,1,URU,uy,https://flagcdn.com/w80/uy.png
+1950,Group 4,Bolivia,2,BOL,bo,https://flagcdn.com/w80/bo.png
+1950,Group 4,France,3,FRA,fr,https://flagcdn.com/w80/fr.png
+1954,Group 1,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1954,Group 1,Yugoslavia,2,YUG,rs,https://flagcdn.com/w80/rs.png
+1954,Group 1,France,3,FRA,fr,https://flagcdn.com/w80/fr.png
+1954,Group 1,Mexico,4,MEX,mx,https://flagcdn.com/w80/mx.png
+1954,Group 2,Hungary,1,HUN,hu,https://flagcdn.com/w80/hu.png
+1954,Group 2,West Germany,2,FRG,de,https://flagcdn.com/w80/de.png
+1954,Group 2,Turkey,3,TUR,tr,https://flagcdn.com/w80/tr.png
+1954,Group 2,South Korea,4,KOR,kr,https://flagcdn.com/w80/kr.png
+1954,Group 3,Uruguay,1,URU,uy,https://flagcdn.com/w80/uy.png
+1954,Group 3,Austria,2,AUT,at,https://flagcdn.com/w80/at.png
+1954,Group 3,Czechoslovakia,3,TCH,cz,https://flagcdn.com/w80/cz.png
+1954,Group 3,Scotland,4,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1954,Group 4,England,1,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1954,Group 4,Switzerland,2,SUI,ch,https://flagcdn.com/w80/ch.png
+1954,Group 4,Italy,3,ITA,it,https://flagcdn.com/w80/it.png
+1954,Group 4,Belgium,4,BEL,be,https://flagcdn.com/w80/be.png
+1958,Group 1,West Germany,1,FRG,de,https://flagcdn.com/w80/de.png
+1958,Group 1,Northern Ireland,2,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1958,Group 1,Czechoslovakia,3,TCH,cz,https://flagcdn.com/w80/cz.png
+1958,Group 1,Argentina,4,ARG,ar,https://flagcdn.com/w80/ar.png
+1958,Group 2,France,1,FRA,fr,https://flagcdn.com/w80/fr.png
+1958,Group 2,Yugoslavia,2,YUG,rs,https://flagcdn.com/w80/rs.png
+1958,Group 2,Paraguay,3,PAR,py,https://flagcdn.com/w80/py.png
+1958,Group 2,Scotland,4,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1958,Group 3,Sweden,1,SWE,se,https://flagcdn.com/w80/se.png
+1958,Group 3,Wales,2,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png
+1958,Group 3,Hungary,3,HUN,hu,https://flagcdn.com/w80/hu.png
+1958,Group 3,Mexico,4,MEX,mx,https://flagcdn.com/w80/mx.png
+1958,Group 4,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1958,Group 4,Soviet Union,2,URS,ru,https://flagcdn.com/w80/ru.png
+1958,Group 4,England,3,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1958,Group 4,Austria,4,AUT,at,https://flagcdn.com/w80/at.png
+1962,Group 1,Soviet Union,1,URS,ru,https://flagcdn.com/w80/ru.png
+1962,Group 1,Yugoslavia,2,YUG,rs,https://flagcdn.com/w80/rs.png
+1962,Group 1,Uruguay,3,URU,uy,https://flagcdn.com/w80/uy.png
+1962,Group 1,Colombia,4,COL,co,https://flagcdn.com/w80/co.png
+1962,Group 2,West Germany,1,FRG,de,https://flagcdn.com/w80/de.png
+1962,Group 2,Chile,2,CHI,cl,https://flagcdn.com/w80/cl.png
+1962,Group 2,Italy,3,ITA,it,https://flagcdn.com/w80/it.png
+1962,Group 2,Switzerland,4,SUI,ch,https://flagcdn.com/w80/ch.png
+1962,Group 3,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1962,Group 3,Czechoslovakia,2,TCH,cz,https://flagcdn.com/w80/cz.png
+1962,Group 3,Mexico,3,MEX,mx,https://flagcdn.com/w80/mx.png
+1962,Group 3,Spain,4,ESP,es,https://flagcdn.com/w80/es.png
+1962,Group 4,Hungary,1,HUN,hu,https://flagcdn.com/w80/hu.png
+1962,Group 4,England,2,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1962,Group 4,Argentina,3,ARG,ar,https://flagcdn.com/w80/ar.png
+1962,Group 4,Bulgaria,4,BUL,bg,https://flagcdn.com/w80/bg.png
+1966,Group 1,England,1,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1966,Group 1,Uruguay,2,URU,uy,https://flagcdn.com/w80/uy.png
+1966,Group 1,Mexico,3,MEX,mx,https://flagcdn.com/w80/mx.png
+1966,Group 1,France,4,FRA,fr,https://flagcdn.com/w80/fr.png
+1966,Group 2,West Germany,1,FRG,de,https://flagcdn.com/w80/de.png
+1966,Group 2,Argentina,2,ARG,ar,https://flagcdn.com/w80/ar.png
+1966,Group 2,Spain,3,ESP,es,https://flagcdn.com/w80/es.png
+1966,Group 2,Switzerland,4,SUI,ch,https://flagcdn.com/w80/ch.png
+1966,Group 3,Portugal,1,POR,pt,https://flagcdn.com/w80/pt.png
+1966,Group 3,Hungary,2,HUN,hu,https://flagcdn.com/w80/hu.png
+1966,Group 3,Brazil,3,BRA,br,https://flagcdn.com/w80/br.png
+1966,Group 3,Bulgaria,4,BUL,bg,https://flagcdn.com/w80/bg.png
+1966,Group 4,Soviet Union,1,URS,ru,https://flagcdn.com/w80/ru.png
+1966,Group 4,North Korea,2,PRK,kp,https://flagcdn.com/w80/kp.png
+1966,Group 4,Italy,3,ITA,it,https://flagcdn.com/w80/it.png
+1966,Group 4,Chile,4,CHI,cl,https://flagcdn.com/w80/cl.png
+1970,Group 1,Soviet Union,1,URS,ru,https://flagcdn.com/w80/ru.png
+1970,Group 1,Mexico,2,MEX,mx,https://flagcdn.com/w80/mx.png
+1970,Group 1,Belgium,3,BEL,be,https://flagcdn.com/w80/be.png
+1970,Group 1,El Salvador,4,SLV,sv,https://flagcdn.com/w80/sv.png
+1970,Group 2,Italy,1,ITA,it,https://flagcdn.com/w80/it.png
+1970,Group 2,Uruguay,2,URU,uy,https://flagcdn.com/w80/uy.png
+1970,Group 2,Sweden,3,SWE,se,https://flagcdn.com/w80/se.png
+1970,Group 2,Israel,4,ISR,il,https://flagcdn.com/w80/il.png
+1970,Group 3,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1970,Group 3,England,2,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1970,Group 3,Romania,3,ROU,ro,https://flagcdn.com/w80/ro.png
+1970,Group 3,Czechoslovakia,4,TCH,cz,https://flagcdn.com/w80/cz.png
+1970,Group 4,West Germany,1,FRG,de,https://flagcdn.com/w80/de.png
+1970,Group 4,Peru,2,PER,pe,https://flagcdn.com/w80/pe.png
+1970,Group 4,Bulgaria,3,BUL,bg,https://flagcdn.com/w80/bg.png
+1970,Group 4,Morocco,4,MAR,ma,https://flagcdn.com/w80/ma.png
+1974,Group 1,East Germany,1,GDR,de,https://flagcdn.com/w80/de.png
+1974,Group 1,West Germany,2,FRG,de,https://flagcdn.com/w80/de.png
+1974,Group 1,Chile,3,CHI,cl,https://flagcdn.com/w80/cl.png
+1974,Group 1,Australia,4,AUS,au,https://flagcdn.com/w80/au.png
+1974,Group 2,Yugoslavia,1,YUG,rs,https://flagcdn.com/w80/rs.png
+1974,Group 2,Brazil,2,BRA,br,https://flagcdn.com/w80/br.png
+1974,Group 2,Scotland,3,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1974,Group 2,Zaire,4,ZAI,cd,https://flagcdn.com/w80/cd.png
+1974,Group 3,Netherlands,1,NED,nl,https://flagcdn.com/w80/nl.png
+1974,Group 3,Sweden,2,SWE,se,https://flagcdn.com/w80/se.png
+1974,Group 3,Bulgaria,3,BUL,bg,https://flagcdn.com/w80/bg.png
+1974,Group 3,Uruguay,4,URU,uy,https://flagcdn.com/w80/uy.png
+1974,Group 4,Poland,1,POL,pl,https://flagcdn.com/w80/pl.png
+1974,Group 4,Argentina,2,ARG,ar,https://flagcdn.com/w80/ar.png
+1974,Group 4,Italy,3,ITA,it,https://flagcdn.com/w80/it.png
+1974,Group 4,Haiti,4,HAI,ht,https://flagcdn.com/w80/ht.png
+1974,Group A,Netherlands,1,NED,nl,https://flagcdn.com/w80/nl.png
+1974,Group A,Brazil,2,BRA,br,https://flagcdn.com/w80/br.png
+1974,Group A,East Germany,3,GDR,de,https://flagcdn.com/w80/de.png
+1974,Group A,Argentina,4,ARG,ar,https://flagcdn.com/w80/ar.png
+1974,Group B,West Germany,1,FRG,de,https://flagcdn.com/w80/de.png
+1974,Group B,Poland,2,POL,pl,https://flagcdn.com/w80/pl.png
+1974,Group B,Sweden,3,SWE,se,https://flagcdn.com/w80/se.png
+1974,Group B,Yugoslavia,4,YUG,rs,https://flagcdn.com/w80/rs.png
+1978,Group 1,Italy,1,ITA,it,https://flagcdn.com/w80/it.png
+1978,Group 1,Argentina,2,ARG,ar,https://flagcdn.com/w80/ar.png
+1978,Group 1,France,3,FRA,fr,https://flagcdn.com/w80/fr.png
+1978,Group 1,Hungary,4,HUN,hu,https://flagcdn.com/w80/hu.png
+1978,Group 2,Poland,1,POL,pl,https://flagcdn.com/w80/pl.png
+1978,Group 2,West Germany,2,FRG,de,https://flagcdn.com/w80/de.png
+1978,Group 2,Tunisia,3,TUN,tn,https://flagcdn.com/w80/tn.png
+1978,Group 2,Mexico,4,MEX,mx,https://flagcdn.com/w80/mx.png
+1978,Group 3,Austria,1,AUT,at,https://flagcdn.com/w80/at.png
+1978,Group 3,Brazil,2,BRA,br,https://flagcdn.com/w80/br.png
+1978,Group 3,Spain,3,ESP,es,https://flagcdn.com/w80/es.png
+1978,Group 3,Sweden,4,SWE,se,https://flagcdn.com/w80/se.png
+1978,Group 4,Peru,1,PER,pe,https://flagcdn.com/w80/pe.png
+1978,Group 4,Netherlands,2,NED,nl,https://flagcdn.com/w80/nl.png
+1978,Group 4,Scotland,3,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1978,Group 4,Iran,4,IRN,ir,https://flagcdn.com/w80/ir.png
+1978,Group A,Netherlands,1,NED,nl,https://flagcdn.com/w80/nl.png
+1978,Group A,Italy,2,ITA,it,https://flagcdn.com/w80/it.png
+1978,Group A,West Germany,3,FRG,de,https://flagcdn.com/w80/de.png
+1978,Group A,Austria,4,AUT,at,https://flagcdn.com/w80/at.png
+1978,Group B,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+1978,Group B,Brazil,2,BRA,br,https://flagcdn.com/w80/br.png
+1978,Group B,Poland,3,POL,pl,https://flagcdn.com/w80/pl.png
+1978,Group B,Peru,4,PER,pe,https://flagcdn.com/w80/pe.png
+1982,Group 1,Poland,1,POL,pl,https://flagcdn.com/w80/pl.png
+1982,Group 1,Italy,2,ITA,it,https://flagcdn.com/w80/it.png
+1982,Group 1,Cameroon,3,CMR,cm,https://flagcdn.com/w80/cm.png
+1982,Group 1,Peru,4,PER,pe,https://flagcdn.com/w80/pe.png
+1982,Group 2,West Germany,1,FRG,de,https://flagcdn.com/w80/de.png
+1982,Group 2,Austria,2,AUT,at,https://flagcdn.com/w80/at.png
+1982,Group 2,Algeria,3,ALG,dz,https://flagcdn.com/w80/dz.png
+1982,Group 2,Chile,4,CHI,cl,https://flagcdn.com/w80/cl.png
+1982,Group 3,Belgium,1,BEL,be,https://flagcdn.com/w80/be.png
+1982,Group 3,Argentina,2,ARG,ar,https://flagcdn.com/w80/ar.png
+1982,Group 3,Hungary,3,HUN,hu,https://flagcdn.com/w80/hu.png
+1982,Group 3,El Salvador,4,SLV,sv,https://flagcdn.com/w80/sv.png
+1982,Group 4,England,1,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1982,Group 4,France,2,FRA,fr,https://flagcdn.com/w80/fr.png
+1982,Group 4,Czechoslovakia,3,TCH,cz,https://flagcdn.com/w80/cz.png
+1982,Group 4,Kuwait,4,KUW,kw,https://flagcdn.com/w80/kw.png
+1982,Group 5,Northern Ireland,1,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1982,Group 5,Spain,2,ESP,es,https://flagcdn.com/w80/es.png
+1982,Group 5,Yugoslavia,3,YUG,rs,https://flagcdn.com/w80/rs.png
+1982,Group 5,Honduras,4,HON,hn,https://flagcdn.com/w80/hn.png
+1982,Group 6,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1982,Group 6,Soviet Union,2,URS,ru,https://flagcdn.com/w80/ru.png
+1982,Group 6,Scotland,3,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1982,Group 6,New Zealand,4,NZL,nz,https://flagcdn.com/w80/nz.png
+1982,Group A,Poland,1,POL,pl,https://flagcdn.com/w80/pl.png
+1982,Group A,Soviet Union,2,URS,ru,https://flagcdn.com/w80/ru.png
+1982,Group A,Belgium,3,BEL,be,https://flagcdn.com/w80/be.png
+1982,Group B,West Germany,1,FRG,de,https://flagcdn.com/w80/de.png
+1982,Group B,England,2,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1982,Group B,Spain,3,ESP,es,https://flagcdn.com/w80/es.png
+1982,Group C,Italy,1,ITA,it,https://flagcdn.com/w80/it.png
+1982,Group C,Brazil,2,BRA,br,https://flagcdn.com/w80/br.png
+1982,Group C,Argentina,3,ARG,ar,https://flagcdn.com/w80/ar.png
+1982,Group D,France,1,FRA,fr,https://flagcdn.com/w80/fr.png
+1982,Group D,Austria,2,AUT,at,https://flagcdn.com/w80/at.png
+1982,Group D,Northern Ireland,3,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1986,Group A,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+1986,Group A,Italy,2,ITA,it,https://flagcdn.com/w80/it.png
+1986,Group A,Bulgaria,3,BUL,bg,https://flagcdn.com/w80/bg.png
+1986,Group A,South Korea,4,KOR,kr,https://flagcdn.com/w80/kr.png
+1986,Group B,Mexico,1,MEX,mx,https://flagcdn.com/w80/mx.png
+1986,Group B,Paraguay,2,PAR,py,https://flagcdn.com/w80/py.png
+1986,Group B,Belgium,3,BEL,be,https://flagcdn.com/w80/be.png
+1986,Group B,Iraq,4,IRQ,iq,https://flagcdn.com/w80/iq.png
+1986,Group C,Soviet Union,1,URS,ru,https://flagcdn.com/w80/ru.png
+1986,Group C,France,2,FRA,fr,https://flagcdn.com/w80/fr.png
+1986,Group C,Hungary,3,HUN,hu,https://flagcdn.com/w80/hu.png
+1986,Group C,Canada,4,CAN,ca,https://flagcdn.com/w80/ca.png
+1986,Group D,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1986,Group D,Spain,2,ESP,es,https://flagcdn.com/w80/es.png
+1986,Group D,Northern Ireland,3,NIR,gb-nir,https://flagcdn.com/w80/gb-nir.png
+1986,Group D,Algeria,4,ALG,dz,https://flagcdn.com/w80/dz.png
+1986,Group E,Denmark,1,DEN,dk,https://flagcdn.com/w80/dk.png
+1986,Group E,West Germany,2,FRG,de,https://flagcdn.com/w80/de.png
+1986,Group E,Uruguay,3,URU,uy,https://flagcdn.com/w80/uy.png
+1986,Group E,Scotland,4,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1986,Group F,Morocco,1,MAR,ma,https://flagcdn.com/w80/ma.png
+1986,Group F,England,2,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1986,Group F,Poland,3,POL,pl,https://flagcdn.com/w80/pl.png
+1986,Group F,Portugal,4,POR,pt,https://flagcdn.com/w80/pt.png
+1990,Group A,Italy,1,ITA,it,https://flagcdn.com/w80/it.png
+1990,Group A,Czechoslovakia,2,TCH,cz,https://flagcdn.com/w80/cz.png
+1990,Group A,Austria,3,AUT,at,https://flagcdn.com/w80/at.png
+1990,Group A,United States,4,USA,us,https://flagcdn.com/w80/us.png
+1990,Group B,Cameroon,1,CMR,cm,https://flagcdn.com/w80/cm.png
+1990,Group B,Romania,2,ROU,ro,https://flagcdn.com/w80/ro.png
+1990,Group B,Argentina,3,ARG,ar,https://flagcdn.com/w80/ar.png
+1990,Group B,Soviet Union,4,URS,ru,https://flagcdn.com/w80/ru.png
+1990,Group C,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1990,Group C,Costa Rica,2,CRC,cr,https://flagcdn.com/w80/cr.png
+1990,Group C,Scotland,3,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1990,Group C,Sweden,4,SWE,se,https://flagcdn.com/w80/se.png
+1990,Group D,West Germany,1,FRG,de,https://flagcdn.com/w80/de.png
+1990,Group D,Yugoslavia,2,YUG,rs,https://flagcdn.com/w80/rs.png
+1990,Group D,Colombia,3,COL,co,https://flagcdn.com/w80/co.png
+1990,Group D,United Arab Emirates,4,UAE,ae,https://flagcdn.com/w80/ae.png
+1990,Group E,Spain,1,ESP,es,https://flagcdn.com/w80/es.png
+1990,Group E,Belgium,2,BEL,be,https://flagcdn.com/w80/be.png
+1990,Group E,Uruguay,3,URU,uy,https://flagcdn.com/w80/uy.png
+1990,Group E,South Korea,4,KOR,kr,https://flagcdn.com/w80/kr.png
+1990,Group F,England,1,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1990,Group F,Ireland,2,IRL,ie,https://flagcdn.com/w80/ie.png
+1990,Group F,Netherlands,3,NED,nl,https://flagcdn.com/w80/nl.png
+1990,Group F,Egypt,4,EGY,eg,https://flagcdn.com/w80/eg.png
+1994,Group A,Romania,1,ROU,ro,https://flagcdn.com/w80/ro.png
+1994,Group A,Switzerland,2,SUI,ch,https://flagcdn.com/w80/ch.png
+1994,Group A,USA,3,USA,us,https://flagcdn.com/w80/us.png
+1994,Group A,Colombia,4,COL,co,https://flagcdn.com/w80/co.png
+1994,Group B,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1994,Group B,Sweden,2,SWE,se,https://flagcdn.com/w80/se.png
+1994,Group B,Russia,3,RUS,ru,https://flagcdn.com/w80/ru.png
+1994,Group B,Cameroon,4,CMR,cm,https://flagcdn.com/w80/cm.png
+1994,Group C,Germany,1,GER,de,https://flagcdn.com/w80/de.png
+1994,Group C,Spain,2,ESP,es,https://flagcdn.com/w80/es.png
+1994,Group C,South Korea,3,KOR,kr,https://flagcdn.com/w80/kr.png
+1994,Group C,Bolivia,4,BOL,bo,https://flagcdn.com/w80/bo.png
+1994,Group D,Nigeria,1,NGA,ng,https://flagcdn.com/w80/ng.png
+1994,Group D,Bulgaria,2,BUL,bg,https://flagcdn.com/w80/bg.png
+1994,Group D,Argentina,3,ARG,ar,https://flagcdn.com/w80/ar.png
+1994,Group D,Greece,4,GRE,gr,https://flagcdn.com/w80/gr.png
+1994,Group E,Mexico,1,MEX,mx,https://flagcdn.com/w80/mx.png
+1994,Group E,Ireland,2,IRL,ie,https://flagcdn.com/w80/ie.png
+1994,Group E,Italy,3,ITA,it,https://flagcdn.com/w80/it.png
+1994,Group E,Norway,4,NOR,no,https://flagcdn.com/w80/no.png
+1994,Group F,Netherlands,1,NED,nl,https://flagcdn.com/w80/nl.png
+1994,Group F,Saudi Arabia,2,KSA,sa,https://flagcdn.com/w80/sa.png
+1994,Group F,Belgium,3,BEL,be,https://flagcdn.com/w80/be.png
+1994,Group F,Morocco,4,MAR,ma,https://flagcdn.com/w80/ma.png
+1998,Group A,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+1998,Group A,Norway,2,NOR,no,https://flagcdn.com/w80/no.png
+1998,Group A,Morocco,3,MAR,ma,https://flagcdn.com/w80/ma.png
+1998,Group A,Scotland,4,SCO,gb-sct,https://flagcdn.com/w80/gb-sct.png
+1998,Group B,Italy,1,ITA,it,https://flagcdn.com/w80/it.png
+1998,Group B,Chile,2,CHI,cl,https://flagcdn.com/w80/cl.png
+1998,Group B,Austria,3,AUT,at,https://flagcdn.com/w80/at.png
+1998,Group B,Cameroon,4,CMR,cm,https://flagcdn.com/w80/cm.png
+1998,Group C,France,1,FRA,fr,https://flagcdn.com/w80/fr.png
+1998,Group C,Denmark,2,DEN,dk,https://flagcdn.com/w80/dk.png
+1998,Group C,South Africa,3,RSA,za,https://flagcdn.com/w80/za.png
+1998,Group C,Saudi Arabia,4,KSA,sa,https://flagcdn.com/w80/sa.png
+1998,Group D,Nigeria,1,NGA,ng,https://flagcdn.com/w80/ng.png
+1998,Group D,Paraguay,2,PAR,py,https://flagcdn.com/w80/py.png
+1998,Group D,Spain,3,ESP,es,https://flagcdn.com/w80/es.png
+1998,Group D,Bulgaria,4,BUL,bg,https://flagcdn.com/w80/bg.png
+1998,Group E,Netherlands,1,NED,nl,https://flagcdn.com/w80/nl.png
+1998,Group E,Mexico,2,MEX,mx,https://flagcdn.com/w80/mx.png
+1998,Group E,Belgium,3,BEL,be,https://flagcdn.com/w80/be.png
+1998,Group E,South Korea,4,KOR,kr,https://flagcdn.com/w80/kr.png
+1998,Group F,Germany,1,GER,de,https://flagcdn.com/w80/de.png
+1998,Group F,Yugoslavia,2,YUG,rs,https://flagcdn.com/w80/rs.png
+1998,Group F,Iran,3,IRN,ir,https://flagcdn.com/w80/ir.png
+1998,Group F,USA,4,USA,us,https://flagcdn.com/w80/us.png
+1998,Group G,Romania,1,ROU,ro,https://flagcdn.com/w80/ro.png
+1998,Group G,England,2,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+1998,Group G,Colombia,3,COL,co,https://flagcdn.com/w80/co.png
+1998,Group G,Tunisia,4,TUN,tn,https://flagcdn.com/w80/tn.png
+1998,Group H,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+1998,Group H,Croatia,2,CRO,hr,https://flagcdn.com/w80/hr.png
+1998,Group H,Jamaica,3,JAM,jm,https://flagcdn.com/w80/jm.png
+1998,Group H,Japan,4,JPN,jp,https://flagcdn.com/w80/jp.png
+2002,Group A,Denmark,1,DEN,dk,https://flagcdn.com/w80/dk.png
+2002,Group A,Senegal,2,SEN,sn,https://flagcdn.com/w80/sn.png
+2002,Group A,Uruguay,3,URU,uy,https://flagcdn.com/w80/uy.png
+2002,Group A,France,4,FRA,fr,https://flagcdn.com/w80/fr.png
+2002,Group B,Spain,1,ESP,es,https://flagcdn.com/w80/es.png
+2002,Group B,Paraguay,2,PAR,py,https://flagcdn.com/w80/py.png
+2002,Group B,South Africa,3,RSA,za,https://flagcdn.com/w80/za.png
+2002,Group B,Slovenia,4,SVN,si,https://flagcdn.com/w80/si.png
+2002,Group C,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+2002,Group C,Turkey,2,TUR,tr,https://flagcdn.com/w80/tr.png
+2002,Group C,Costa Rica,3,CRC,cr,https://flagcdn.com/w80/cr.png
+2002,Group C,China,4,CHN,cn,https://flagcdn.com/w80/cn.png
+2002,Group D,South Korea,1,KOR,kr,https://flagcdn.com/w80/kr.png
+2002,Group D,USA,2,USA,us,https://flagcdn.com/w80/us.png
+2002,Group D,Portugal,3,POR,pt,https://flagcdn.com/w80/pt.png
+2002,Group D,Poland,4,POL,pl,https://flagcdn.com/w80/pl.png
+2002,Group E,Germany,1,GER,de,https://flagcdn.com/w80/de.png
+2002,Group E,Ireland,2,IRL,ie,https://flagcdn.com/w80/ie.png
+2002,Group E,Cameroon,3,CMR,cm,https://flagcdn.com/w80/cm.png
+2002,Group E,Saudi Arabia,4,KSA,sa,https://flagcdn.com/w80/sa.png
+2002,Group F,Sweden,1,SWE,se,https://flagcdn.com/w80/se.png
+2002,Group F,England,2,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2002,Group F,Argentina,3,ARG,ar,https://flagcdn.com/w80/ar.png
+2002,Group F,Nigeria,4,NGA,ng,https://flagcdn.com/w80/ng.png
+2002,Group G,Mexico,1,MEX,mx,https://flagcdn.com/w80/mx.png
+2002,Group G,Italy,2,ITA,it,https://flagcdn.com/w80/it.png
+2002,Group G,Croatia,3,CRO,hr,https://flagcdn.com/w80/hr.png
+2002,Group G,Ecuador,4,ECU,ec,https://flagcdn.com/w80/ec.png
+2002,Group H,Japan,1,JPN,jp,https://flagcdn.com/w80/jp.png
+2002,Group H,Belgium,2,BEL,be,https://flagcdn.com/w80/be.png
+2002,Group H,Russia,3,RUS,ru,https://flagcdn.com/w80/ru.png
+2002,Group H,Tunisia,4,TUN,tn,https://flagcdn.com/w80/tn.png
+2006,Group A,Germany,1,GER,de,https://flagcdn.com/w80/de.png
+2006,Group A,Ecuador,2,ECU,ec,https://flagcdn.com/w80/ec.png
+2006,Group A,Poland,3,POL,pl,https://flagcdn.com/w80/pl.png
+2006,Group A,Costa Rica,4,CRC,cr,https://flagcdn.com/w80/cr.png
+2006,Group B,England,1,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2006,Group B,Sweden,2,SWE,se,https://flagcdn.com/w80/se.png
+2006,Group B,Paraguay,3,PAR,py,https://flagcdn.com/w80/py.png
+2006,Group B,Trinidad and Tobago,4,TRI,tt,https://flagcdn.com/w80/tt.png
+2006,Group C,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+2006,Group C,Netherlands,2,NED,nl,https://flagcdn.com/w80/nl.png
+2006,Group C,Ivory Coast,3,CIV,ci,https://flagcdn.com/w80/ci.png
+2006,Group C,Serbia and Montenegro,4,SCG,rs,https://flagcdn.com/w80/rs.png
+2006,Group D,Portugal,1,POR,pt,https://flagcdn.com/w80/pt.png
+2006,Group D,Mexico,2,MEX,mx,https://flagcdn.com/w80/mx.png
+2006,Group D,Angola,3,ANG,ao,https://flagcdn.com/w80/ao.png
+2006,Group D,Iran,4,IRN,ir,https://flagcdn.com/w80/ir.png
+2006,Group E,Italy,1,ITA,it,https://flagcdn.com/w80/it.png
+2006,Group E,Ghana,2,GHA,gh,https://flagcdn.com/w80/gh.png
+2006,Group E,Czech Republic,3,CZE,cz,https://flagcdn.com/w80/cz.png
+2006,Group E,USA,4,USA,us,https://flagcdn.com/w80/us.png
+2006,Group F,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+2006,Group F,Australia,2,AUS,au,https://flagcdn.com/w80/au.png
+2006,Group F,Croatia,3,CRO,hr,https://flagcdn.com/w80/hr.png
+2006,Group F,Japan,4,JPN,jp,https://flagcdn.com/w80/jp.png
+2006,Group G,Switzerland,1,SUI,ch,https://flagcdn.com/w80/ch.png
+2006,Group G,France,2,FRA,fr,https://flagcdn.com/w80/fr.png
+2006,Group G,South Korea,3,KOR,kr,https://flagcdn.com/w80/kr.png
+2006,Group G,Togo,4,TOG,tg,https://flagcdn.com/w80/tg.png
+2006,Group H,Spain,1,ESP,es,https://flagcdn.com/w80/es.png
+2006,Group H,Ukraine,2,UKR,ua,https://flagcdn.com/w80/ua.png
+2006,Group H,Tunisia,3,TUN,tn,https://flagcdn.com/w80/tn.png
+2006,Group H,Saudi Arabia,4,KSA,sa,https://flagcdn.com/w80/sa.png
+2010,Group A,South Africa,1,RSA,za,https://flagcdn.com/w80/za.png
+2010,Group A,Mexico,2,MEX,mx,https://flagcdn.com/w80/mx.png
+2010,Group A,Uruguay,3,URU,uy,https://flagcdn.com/w80/uy.png
+2010,Group A,France,4,FRA,fr,https://flagcdn.com/w80/fr.png
+2010,Group B,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+2010,Group B,Nigeria,2,NGA,ng,https://flagcdn.com/w80/ng.png
+2010,Group B,South Korea,3,KOR,kr,https://flagcdn.com/w80/kr.png
+2010,Group B,Greece,4,GRE,gr,https://flagcdn.com/w80/gr.png
+2010,Group C,England,1,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2010,Group C,USA,2,USA,us,https://flagcdn.com/w80/us.png
+2010,Group C,Algeria,3,ALG,dz,https://flagcdn.com/w80/dz.png
+2010,Group C,Slovenia,4,SVN,si,https://flagcdn.com/w80/si.png
+2010,Group D,Germany,1,GER,de,https://flagcdn.com/w80/de.png
+2010,Group D,Australia,2,AUS,au,https://flagcdn.com/w80/au.png
+2010,Group D,Serbia,3,SRB,rs,https://flagcdn.com/w80/rs.png
+2010,Group D,Ghana,4,GHA,gh,https://flagcdn.com/w80/gh.png
+2010,Group E,Netherlands,1,NED,nl,https://flagcdn.com/w80/nl.png
+2010,Group E,Denmark,2,DEN,dk,https://flagcdn.com/w80/dk.png
+2010,Group E,Japan,3,JPN,jp,https://flagcdn.com/w80/jp.png
+2010,Group E,Cameroon,4,CMR,cm,https://flagcdn.com/w80/cm.png
+2010,Group F,Italy,1,ITA,it,https://flagcdn.com/w80/it.png
+2010,Group F,Paraguay,2,PAR,py,https://flagcdn.com/w80/py.png
+2010,Group F,New Zealand,3,NZL,nz,https://flagcdn.com/w80/nz.png
+2010,Group F,Slovakia,4,SVK,sk,https://flagcdn.com/w80/sk.png
+2010,Group G,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+2010,Group G,North Korea,2,PRK,kp,https://flagcdn.com/w80/kp.png
+2010,Group G,Côte d'Ivoire,3,CIV,ci,https://flagcdn.com/w80/ci.png
+2010,Group G,Portugal,4,POR,pt,https://flagcdn.com/w80/pt.png
+2010,Group H,Spain,1,ESP,es,https://flagcdn.com/w80/es.png
+2010,Group H,Switzerland,2,SUI,ch,https://flagcdn.com/w80/ch.png
+2010,Group H,Honduras,3,HON,hn,https://flagcdn.com/w80/hn.png
+2010,Group H,Chile,4,CHI,cl,https://flagcdn.com/w80/cl.png
+2014,Group A,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+2014,Group A,Croatia,2,CRO,hr,https://flagcdn.com/w80/hr.png
+2014,Group A,Mexico,3,MEX,mx,https://flagcdn.com/w80/mx.png
+2014,Group A,Cameroon,4,CMR,cm,https://flagcdn.com/w80/cm.png
+2014,Group B,Spain,1,ESP,es,https://flagcdn.com/w80/es.png
+2014,Group B,Netherlands,2,NED,nl,https://flagcdn.com/w80/nl.png
+2014,Group B,Chile,3,CHI,cl,https://flagcdn.com/w80/cl.png
+2014,Group B,Australia,4,AUS,au,https://flagcdn.com/w80/au.png
+2014,Group C,Colombia,1,COL,co,https://flagcdn.com/w80/co.png
+2014,Group C,Greece,2,GRE,gr,https://flagcdn.com/w80/gr.png
+2014,Group C,Côte d'Ivoire,3,CIV,ci,https://flagcdn.com/w80/ci.png
+2014,Group C,Japan,4,JPN,jp,https://flagcdn.com/w80/jp.png
+2014,Group D,Uruguay,1,URU,uy,https://flagcdn.com/w80/uy.png
+2014,Group D,Costa Rica,2,CRC,cr,https://flagcdn.com/w80/cr.png
+2014,Group D,England,3,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2014,Group D,Italy,4,ITA,it,https://flagcdn.com/w80/it.png
+2014,Group E,Switzerland,1,SUI,ch,https://flagcdn.com/w80/ch.png
+2014,Group E,Ecuador,2,ECU,ec,https://flagcdn.com/w80/ec.png
+2014,Group E,France,3,FRA,fr,https://flagcdn.com/w80/fr.png
+2014,Group E,Honduras,4,HON,hn,https://flagcdn.com/w80/hn.png
+2014,Group F,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+2014,Group F,Bosnia-Herzegovina,2,BIH,ba,https://flagcdn.com/w80/ba.png
+2014,Group F,Iran,3,IRN,ir,https://flagcdn.com/w80/ir.png
+2014,Group F,Nigeria,4,NGA,ng,https://flagcdn.com/w80/ng.png
+2014,Group G,Germany,1,GER,de,https://flagcdn.com/w80/de.png
+2014,Group G,Portugal,2,POR,pt,https://flagcdn.com/w80/pt.png
+2014,Group G,Ghana,3,GHA,gh,https://flagcdn.com/w80/gh.png
+2014,Group G,USA,4,USA,us,https://flagcdn.com/w80/us.png
+2014,Group H,Belgium,1,BEL,be,https://flagcdn.com/w80/be.png
+2014,Group H,Algeria,2,ALG,dz,https://flagcdn.com/w80/dz.png
+2014,Group H,Russia,3,RUS,ru,https://flagcdn.com/w80/ru.png
+2014,Group H,South Korea,4,KOR,kr,https://flagcdn.com/w80/kr.png
+2018,Group A,Russia,1,RUS,ru,https://flagcdn.com/w80/ru.png
+2018,Group A,Saudi Arabia,2,KSA,sa,https://flagcdn.com/w80/sa.png
+2018,Group A,Egypt,3,EGY,eg,https://flagcdn.com/w80/eg.png
+2018,Group A,Uruguay,4,URU,uy,https://flagcdn.com/w80/uy.png
+2018,Group B,Portugal,1,POR,pt,https://flagcdn.com/w80/pt.png
+2018,Group B,Spain,2,ESP,es,https://flagcdn.com/w80/es.png
+2018,Group B,Morocco,3,MAR,ma,https://flagcdn.com/w80/ma.png
+2018,Group B,Iran,4,IRN,ir,https://flagcdn.com/w80/ir.png
+2018,Group C,France,1,FRA,fr,https://flagcdn.com/w80/fr.png
+2018,Group C,Australia,2,AUS,au,https://flagcdn.com/w80/au.png
+2018,Group C,Peru,3,PER,pe,https://flagcdn.com/w80/pe.png
+2018,Group C,Denmark,4,DEN,dk,https://flagcdn.com/w80/dk.png
+2018,Group D,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+2018,Group D,Iceland,2,ISL,is,https://flagcdn.com/w80/is.png
+2018,Group D,Croatia,3,CRO,hr,https://flagcdn.com/w80/hr.png
+2018,Group D,Nigeria,4,NGA,ng,https://flagcdn.com/w80/ng.png
+2018,Group E,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+2018,Group E,Switzerland,2,SUI,ch,https://flagcdn.com/w80/ch.png
+2018,Group E,Costa Rica,3,CRC,cr,https://flagcdn.com/w80/cr.png
+2018,Group E,Serbia,4,SRB,rs,https://flagcdn.com/w80/rs.png
+2018,Group F,Germany,1,GER,de,https://flagcdn.com/w80/de.png
+2018,Group F,Mexico,2,MEX,mx,https://flagcdn.com/w80/mx.png
+2018,Group F,Sweden,3,SWE,se,https://flagcdn.com/w80/se.png
+2018,Group F,South Korea,4,KOR,kr,https://flagcdn.com/w80/kr.png
+2018,Group G,Belgium,1,BEL,be,https://flagcdn.com/w80/be.png
+2018,Group G,Panama,2,PAN,pa,https://flagcdn.com/w80/pa.png
+2018,Group G,Tunisia,3,TUN,tn,https://flagcdn.com/w80/tn.png
+2018,Group G,England,4,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2018,Group H,Poland,1,POL,pl,https://flagcdn.com/w80/pl.png
+2018,Group H,Senegal,2,SEN,sn,https://flagcdn.com/w80/sn.png
+2018,Group H,Colombia,3,COL,co,https://flagcdn.com/w80/co.png
+2018,Group H,Japan,4,JPN,jp,https://flagcdn.com/w80/jp.png
+2022,Group A,Qatar,1,QAT,qa,https://flagcdn.com/w80/qa.png
+2022,Group A,Ecuador,2,ECU,ec,https://flagcdn.com/w80/ec.png
+2022,Group A,Senegal,3,SEN,sn,https://flagcdn.com/w80/sn.png
+2022,Group A,Netherlands,4,NED,nl,https://flagcdn.com/w80/nl.png
+2022,Group B,England,1,ENG,gb-eng,https://flagcdn.com/w80/gb-eng.png
+2022,Group B,Iran,2,IRN,ir,https://flagcdn.com/w80/ir.png
+2022,Group B,USA,3,USA,us,https://flagcdn.com/w80/us.png
+2022,Group B,Wales,4,WAL,gb-wls,https://flagcdn.com/w80/gb-wls.png
+2022,Group C,Argentina,1,ARG,ar,https://flagcdn.com/w80/ar.png
+2022,Group C,Saudi Arabia,2,KSA,sa,https://flagcdn.com/w80/sa.png
+2022,Group C,Mexico,3,MEX,mx,https://flagcdn.com/w80/mx.png
+2022,Group C,Poland,4,POL,pl,https://flagcdn.com/w80/pl.png
+2022,Group D,France,1,FRA,fr,https://flagcdn.com/w80/fr.png
+2022,Group D,Australia,2,AUS,au,https://flagcdn.com/w80/au.png
+2022,Group D,Denmark,3,DEN,dk,https://flagcdn.com/w80/dk.png
+2022,Group D,Tunisia,4,TUN,tn,https://flagcdn.com/w80/tn.png
+2022,Group E,Spain,1,ESP,es,https://flagcdn.com/w80/es.png
+2022,Group E,Costa Rica,2,CRC,cr,https://flagcdn.com/w80/cr.png
+2022,Group E,Germany,3,GER,de,https://flagcdn.com/w80/de.png
+2022,Group E,Japan,4,JPN,jp,https://flagcdn.com/w80/jp.png
+2022,Group F,Belgium,1,BEL,be,https://flagcdn.com/w80/be.png
+2022,Group F,Canada,2,CAN,ca,https://flagcdn.com/w80/ca.png
+2022,Group F,Morocco,3,MAR,ma,https://flagcdn.com/w80/ma.png
+2022,Group F,Croatia,4,CRO,hr,https://flagcdn.com/w80/hr.png
+2022,Group G,Brazil,1,BRA,br,https://flagcdn.com/w80/br.png
+2022,Group G,Serbia,2,SRB,rs,https://flagcdn.com/w80/rs.png
+2022,Group G,Switzerland,3,SUI,ch,https://flagcdn.com/w80/ch.png
+2022,Group G,Cameroon,4,CMR,cm,https://flagcdn.com/w80/cm.png
+2022,Group H,Portugal,1,POR,pt,https://flagcdn.com/w80/pt.png
+2022,Group H,Ghana,2,GHA,gh,https://flagcdn.com/w80/gh.png
+2022,Group H,Uruguay,3,URU,uy,https://flagcdn.com/w80/uy.png
+2022,Group H,South Korea,4,KOR,kr,https://flagcdn.com/w80/kr.png
