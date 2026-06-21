@@ -1,16 +1,16 @@
-# 👥 IBM HR Analytics — Employee Attrition Prediction
+# IBM HR Analytics — Employee Attrition Prediction
 
 Predicción de rotación de empleados sobre el dataset IBM HR Employee Attrition (1,470 empleados, 35 variables), con análisis de cohortes, comparativa de modelos y **pipeline productivo de scoring**.
 
-## 🎯 Objetivo
+## Objetivo
 
 Identificar los factores que impulsan la rotación de empleados y construir un modelo predictivo para apoyar decisiones de retención de RRHH.
 
-## 🛠️ Stack técnico
+## Stack técnico
 
 `Python` `pandas` `scikit-learn` `GridSearchCV` `Logistic Regression` `Random Forest` `Gradient Boosting` `joblib`
 
-## 📁 Estructura
+## Estructura
 
 ```
 02-hr-attrition/
@@ -22,7 +22,7 @@ Identificar los factores que impulsan la rotación de empleados y construir un m
 └── outputs/
 ```
 
-## 🔍 Contenido del análisis
+## Contenido del análisis
 
 **1. Limpieza** — dataset sin valores nulos (1,470 filas × 35 columnas), eliminación de columnas constantes, mapeo de escalas ordinales a etiquetas legibles.
 
@@ -36,7 +36,7 @@ Identificar los factores que impulsan la rotación de empleados y construir un m
 
 **6. Pipeline productivo** — `train_model.py` entrena y serializa el modelo con `joblib`; `predict_attrition.py` recibe un CSV de empleados y genera un reporte de riesgo clasificado en ALTO/MEDIO/BAJO.
 
-## 📊 Hallazgo principal — Análisis de cohortes
+## Hallazgo principal — Análisis de cohortes
 
 | Antigüedad | Tasa de rotación | N |
 |------------|-------------------|---|
@@ -48,7 +48,7 @@ Identificar los factores que impulsan la rotación de empleados y construir un m
 
 **Casi 1 de cada 3 empleados nuevos abandona la empresa en sus primeros 2 años** — casi el doble que el promedio general (16.1%). Este es el hallazgo de mayor impacto de negocio: el presupuesto de retención debería concentrarse en el período de onboarding y los primeros 24 meses, no distribuirse uniformemente.
 
-## 📊 Otros hallazgos
+## Otros hallazgos
 
 | # | Hallazgo | Recomendación |
 |---|----------|---------------|
@@ -57,7 +57,7 @@ Identificar los factores que impulsan la rotación de empleados y construir un m
 | 3 | **Sales** y roles técnicos lideran rotación | Revisar estructura salarial y plan de carrera |
 | 4 | **Viajes frecuentes** elevan la rotación | Política de compensación por viaje y flexibilidad |
 
-## 🤖 Comparativa de modelos
+## Comparativa de modelos
 
 | Modelo | ROC-AUC | Recall (Rotó) | Precision (Rotó) | Observación |
 |--------|---------|---------------|-------------------|-------------|
@@ -69,16 +69,16 @@ Identificar los factores que impulsan la rotación de empleados y construir un m
 
 GridSearchCV sobre Gradient Boosting encontró como mejores parámetros: `{'learning_rate': 0.1, 'max_depth': 5, 'min_samples_leaf': 5, 'n_estimators': 200}` — pero el modelo resultante es el más conservador de los tres (recall de solo 19%), lo que confirma que un mayor ajuste de hiperparámetros no garantiza el modelo más útil para el caso de negocio.
 
-## 🔧 Pipeline de producción
+## Pipeline de producción
 
 ```bash
 python train_model.py
 python predict_attrition.py --input data/WA_Fn-UseC_-HR-Employee-Attrition.csv
 ```
 
-Genera `outputs/reporte_riesgo.csv` con cada empleado clasificado por nivel de riesgo (🔴 ALTO / 🟡 MEDIO / 🟢 BAJO), ordenado de mayor a menor probabilidad de rotación.
+Genera `outputs/reporte_riesgo.csv` con cada empleado clasificado por nivel de riesgo ( ALTO /  MEDIO /  BAJO), ordenado de mayor a menor probabilidad de rotación.
 
-## 🔍 Próximos pasos
+## Próximos pasos
 - Implementar el pipeline en un flujo automatizado de RRHH con alertas
 - Enriquecer con datos de encuestas de clima organizacional
 - Ajuste de umbral de decisión para optimizar el trade-off precision/recall según el costo operativo real
